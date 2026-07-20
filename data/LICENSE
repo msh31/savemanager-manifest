@@ -1,0 +1,19 @@
+The files in this directory (pcgw_manifest.json, wiki_cache.json, wiki_meta.json)
+contain data derived from PCGamingWiki (https://www.pcgamingwiki.com/) and are
+licensed under:
+
+    Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+    https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This is PCGamingWiki's own content license, not the MIT license used for the
+scraper code in src/ (see the repository root LICENSE file).
+
+Under these terms, any redistribution of this data (or derivatives of it) must:
+
+  - Attribution   — credit PCGamingWiki and its contributing editors as the source
+                    of the save-location data.
+  - NonCommercial — not be used for commercial purposes.
+  - ShareAlike    — be distributed under this same CC BY-NC-SA 3.0 license.
+
+Attribution: save game data location data sourced from PCGamingWiki
+(https://www.pcgamingwiki.com/), authored by its editors, licensed CC BY-NC-SA 3.0.
