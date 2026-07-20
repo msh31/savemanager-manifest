@@ -1,0 +1,50 @@
+name: Crawl PCGamingWiki
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      only_appids:
+        description: "Optional: comma-separated Steam AppIDs to target instead of the full crawl"
+        required: false
+        default: ""
+
+concurrency:
+  group: pcgw-crawl
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Crawl
+        run: |
+          if [ -n "${{ github.event.inputs.only_appids }}" ]; then
+            timeout 5h python3 src/script.py --only-appids "${{ github.event.inputs.only_appids }}" || true
+          else
+            timeout 5h python3 src/script.py || true
+          fi
+
+      - name: Commit progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/wiki_cache.json data/wiki_meta.json data/pcgw_manifest.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Fetch latest PCGamingWiki Changes ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi
