@@ -1,8 +1,10 @@
 /src/__pycache__
 /src/pcgw/__pycache__
+**.yaml
 
 # cmkr
 build*/
 cmake-build*/
 CMakerLists.txt
 CMakeLists.txt.user
+

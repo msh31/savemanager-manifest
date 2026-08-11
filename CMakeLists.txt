@@ -33,6 +33,7 @@ endif()
 
 # Variables
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+set(CMAKE_BUILD_TYPE Release)
 
 project(ManifestConverter
 	LANGUAGES
@@ -142,3 +143,12 @@ get_directory_property(CMKR_VS_STARTUP_PROJECT DIRECTORY ${PROJECT_SOURCE_DIR} D
 if(NOT CMKR_VS_STARTUP_PROJECT)
 	set_property(DIRECTORY ${PROJECT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT converter)
 endif()
+
+set(CMKR_TARGET converter)
+target_sources(converter
+    PUBLIC 
+        FILE_SET epic_modules 
+        TYPE CXX_MODULES
+        FILES
+            ${CMAKE_CURRENT_SOURCE_DIR}/src/converter/parser.ixx
+)
