@@ -95,6 +95,10 @@ int main( ) {
         bool kept = false;
 
         std::println( "Game: {} (#{})", name, games );
+
+        auto appid = YAML::Dump( data["steam"]["id"] );
+        std::println( "appid: {}", appid );
+
         for ( auto&& file : data["files"] ) {
             auto&& [path, entry] = static_cast<std::pair<YAML::Node, YAML::Node>&>( file );
 
