@@ -93,12 +93,7 @@ target_compile_features(fetcher PRIVATE
 	cxx_std_23
 )
 
-target_include_directories(fetcher PRIVATE
-	"src/fetcher/"
-)
-
 target_link_libraries(fetcher PRIVATE
-	nlohmann_json::nlohmann_json
 	CURL::libcurl
 )
 

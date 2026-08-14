@@ -27,11 +27,10 @@ tag = "yaml-cpp-0.9.0"
 
 [target.fetcher]
 type = "executable"
-sources = ["src/fetcher/**.cpp", "src/fetcher/**.hpp"]
-include-directories = ["src/fetcher/"]
+sources = ["src/fetcher/**.cpp"]
 compile-features = ["cxx_std_23"]
 precompile-headers = ["src/pch.hpp"]
-link-libraries = ["nlohmann_json::nlohmann_json", "CURL::libcurl"]
+link-libraries = ["CURL::libcurl"]
 
 [target.converter]
 type = "executable"
