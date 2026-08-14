@@ -2,6 +2,31 @@
 
 #include <yaml-cpp/yaml.h>
 
+const std::unordered_map<std::string, std::string> LTSM = {
+    // translation map
+    { "winAppData", "APPDATA" },
+    { "winLocalAppData", "LOCAL_APPDATA" },
+    { "winDocuments", "USER_PROFILE_DOCUMENTS" },
+    { "winProgramData", "PROGRAM_DATA" },
+    // { "home", "" },
+    // { "base", "" },
+    { "xdgConfig", "XDG_CONFIG_HOME" },
+    { "xdgData", "XDG_DATA_HOME" },
+    { "storeUserId", "USER_ID" },
+};
+
+std::string remap_token( std::string token ) {
+    std::string remapped = { };
+    auto it = LTSM.find( token ); // "winAppData" etc
+
+    if ( it != LTSM.end( ) ) {
+        remapped = it->second;
+    } else {
+        remapped = token;
+    }
+    return "<" + remapped + ">";
+}
+
 std::string parse_token( std::string tokenized_path ) {
     std::string token = { };
     size_t i = 0;
@@ -16,14 +41,12 @@ std::string parse_token( std::string tokenized_path ) {
         auto close = tokenized_path.find( '>', i );
         if ( close == std::string::npos ) return token;
 
-        token += tokenized_path.substr( i + 1, close - i - 1 );
+        token += remap_token( tokenized_path.substr( i + 1, close - i - 1 ) );
         i = close + 1;
     }
 
     return token;
 }
-
-// std::string remap_token( std::string token ) {}
 
 int main( ) {
     fs::path manifest_path = "data/manifest.yaml";
