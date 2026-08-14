@@ -103,7 +103,8 @@ int main( ) {
 
             kept = true;
 
-            auto os = entry["when"][0]["os"].as<std::string>( "" );
+            auto os = entry["when"][0]["os"].as<std::string>(
+                "windows" ); // windows is the fallback here, most common anyway.
             std::println( "{}", parse_token( path.as<std::string>( ), os ) );
 
             // std::println( "path: {}", YAML::Dump( path ) );
