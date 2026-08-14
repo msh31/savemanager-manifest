@@ -1,6 +1,29 @@
-import parser;
+// import parser;
 
 #include <yaml-cpp/yaml.h>
+
+std::string parse_token( std::string tokenized_path ) {
+    std::string token = { };
+    size_t i = 0;
+
+    while ( i < tokenized_path.size( ) ) {
+        if ( tokenized_path[i] != '<' ) {
+            token += tokenized_path[i];
+            i++;
+            continue;
+        }
+
+        auto close = tokenized_path.find( '>', i );
+        if ( close == std::string::npos ) return token;
+
+        token += tokenized_path.substr( i + 1, close - i - 1 );
+        i = close + 1;
+    }
+
+    return token;
+}
+
+// std::string remap_token( std::string token ) {}
 
 int main( ) {
     fs::path manifest_path = "data/manifest.yaml";
