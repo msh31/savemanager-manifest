@@ -1,0 +1,67 @@
+name: Fetch & Convert Ludusavi's manifest
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+concurrency:
+  group: lfc
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch_and_convert_manifest:
+    runs-on: windows-latest
+    timeout-minutes: 350
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Fetcher & Converter
+        run: |
+          cmake -B build
+          cmake --build build --config Release
+
+      - name: Fetch Manifest
+        run: |
+          $exePath = Join-Path $PWD 'build\Release\fetcher.exe'
+          $job = Start-Job -ScriptBlock {
+            param($exe)
+            & $exe
+            if ($LASTEXITCODE -ne 0) {
+              throw "Fetcher exited with code $LASTEXITCODE."
+            }
+          } -ArgumentList $exePath
+
+          $completed = Wait-Job -Job $job -Timeout 18000
+
+          if (-not $completed) {
+            Stop-Job -Job $job
+            Receive-Job -Job $job -ErrorAction Continue
+            throw "Fetcher timed out after 18000 seconds."
+          }
+
+          Receive-Job -Job $job -ErrorAction Stop
+
+      - name: Convert Manifest
+        run: |
+          ./build/Release/converter.exe
+
+      - name: Commit progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/manifest.json
+
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) {
+            Write-Host "No changes to commit."
+          } else {
+            $timestamp = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")
+            git commit -m "Fetch latest manifest changes @ ($timestamp)"
+            git push
+          }
