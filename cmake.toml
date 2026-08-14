@@ -12,6 +12,7 @@ msvc-runtime = "dynamic"
 [variables]
 CMAKE_EXPORT_COMPILE_COMMANDS = true
 CMAKE_BUILD_TYPE = "Release"
+CURL_USE_LIBPSL = false
 
 [fetch-content.curl]
 git = "https://github.com/curl/curl"

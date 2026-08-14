@@ -34,6 +34,7 @@ endif()
 # Variables
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 set(CMAKE_BUILD_TYPE Release)
+set(CURL_USE_LIBPSL OFF)
 
 project(ManifestConverter
 	LANGUAGES
