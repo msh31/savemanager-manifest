@@ -68,7 +68,7 @@ std::string parse_token( std::string tokenized_path, const std::string& os ) {
 int main( ) {
     fs::path manifest_path = "data/manifest.yaml";
     YAML::Node manifest = { };
-    double load_time, find_time = 0.0;
+    double load_time = 0.0, find_time = 0.0, write_time = 0.0;
 
     try {
         std::println( "[?] loading manifest, this might take a second or 2." );
@@ -99,11 +99,15 @@ int main( ) {
         json output;
         bool kept = false;
 
+#ifndef NDEBUG
         std::println( "Game: {} (#{})", name, games );
+#endif
         output["name"] = name;
 
         auto appid = YAML::Dump( data["steam"]["id"] );
+#ifndef NDEBUG
         std::println( "appid: {}", appid );
+#endif
         output["appid"] = appid;
         json saves = json::array( );
 
@@ -117,9 +121,11 @@ int main( ) {
 
             auto os = entry["when"][0]["os"].as<std::string>(
                 "windows" ); // windows is the fallback here, most common anyway.
-            std::println( "{}", parse_token( path.as<std::string>( ), os ) );
 
             auto cpath = parse_token( path.as<std::string>( ), os );
+#ifndef NDEBUG
+            std::println( "{}", cpath, os );
+#endif
             saves.push_back( { { "os", os }, { "path", cpath } } );
 
             // std::println( "path: {}", YAML::Dump( path ) );
@@ -130,10 +136,12 @@ int main( ) {
 
         if ( !kept ) continue;
 
+#ifndef NDEBUG
         for ( size_t i{ }; i < 20; ++i ) {
             std::print( "-" );
             if ( i == 19 ) std::println( "" );
         }
+#endif
 
         games += 1;
         converted_manifest.emplace_back( output );
@@ -147,12 +155,16 @@ int main( ) {
         std::println( "[-] Failed to open output file to save data!" );
         return 1;
     }
+
+    auto write_start = std::chrono::steady_clock::now( );
     out << json( converted_manifest ).dump( 2 );
     if ( !out.good( ) ) {
         std::println( "[-] Output file is not deemed good by the gods.." );
         return 1;
     }
     out.close( );
+    write_time = std::chrono::duration<double>( std::chrono::steady_clock::now( ) - write_start ).count( );
+    std::println( "[+] done! took {:.2f}s to write out.", write_time );
 
     return 0;
 }

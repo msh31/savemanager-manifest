@@ -126,10 +126,6 @@ target_compile_features(converter PRIVATE
 	cxx_std_23
 )
 
-target_include_directories(converter PRIVATE
-	"src/converter/"
-)
-
 target_link_libraries(converter PRIVATE
 	nlohmann_json::nlohmann_json
 	yaml-cpp::yaml-cpp
@@ -143,12 +139,3 @@ get_directory_property(CMKR_VS_STARTUP_PROJECT DIRECTORY ${PROJECT_SOURCE_DIR} D
 if(NOT CMKR_VS_STARTUP_PROJECT)
 	set_property(DIRECTORY ${PROJECT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT converter)
 endif()
-
-set(CMKR_TARGET converter)
-target_sources(converter
-    PUBLIC 
-        FILE_SET epic_modules 
-        TYPE CXX_MODULES
-        FILES
-            ${CMAKE_CURRENT_SOURCE_DIR}/src/converter/parser.ixx
-)

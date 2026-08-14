@@ -35,17 +35,7 @@ link-libraries = ["nlohmann_json::nlohmann_json", "CURL::libcurl"]
 
 [target.converter]
 type = "executable"
-sources = ["src/converter/**.cpp", "src/converter/**.hpp"]
-include-directories = ["src/converter/"]
+sources = ["src/converter/**.cpp"]
 compile-features = ["cxx_std_23"]
 precompile-headers = ["src/pch.hpp"]
 link-libraries = ["nlohmann_json::nlohmann_json", "yaml-cpp::yaml-cpp"]
-cmake-after = """
-target_sources(converter
-    PUBLIC 
-        FILE_SET epic_modules 
-        TYPE CXX_MODULES
-        FILES
-            ${CMAKE_CURRENT_SOURCE_DIR}/src/converter/parser.ixx
-)
-"""
