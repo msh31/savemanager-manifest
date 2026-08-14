@@ -20,6 +20,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Cache build
+        id: cache-build
+        uses: actions/cache@v4
+        with:
+          path: build
+          key: build-${{ hashFiles('cmake.toml', 'CMakeLists.txt', 'src/**') }}
+
       - name: Build Fetcher & Converter
         run: |
           cmake -B build
