@@ -35,13 +35,13 @@ jobs:
       - name: Fetch Manifest
         run: |
           $exePath = Join-Path $PWD 'build\Release\fetcher.exe'
+          $workDir = $PWD
           $job = Start-Job -ScriptBlock {
-            param($exe)
+            param($exe, $dir)
+            Set-Location $dir
             & $exe
-            if ($LASTEXITCODE -ne 0) {
-              throw "Fetcher exited with code $LASTEXITCODE."
-            }
-          } -ArgumentList $exePath
+            if ($LASTEXITCODE -ne 0) { throw "Fetcher exited with code $LASTEXITCODE." }
+          } -ArgumentList $exePath, $workDir
 
           $completed = Wait-Job -Job $job -Timeout 18000
 
