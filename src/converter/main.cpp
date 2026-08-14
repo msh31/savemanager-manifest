@@ -150,7 +150,7 @@ int main( ) {
     std::println( "[+] found {} games in {:.2f}s", total_games, find_time );
     std::println( "[?] {}/{} games were invalid entries..", total_games - games, total_games );
 
-    std::ofstream out( "output.json" );
+    std::ofstream out( "data/manifest.json" );
     if ( !out.is_open( ) ) {
         std::println( "[-] Failed to open output file to save data!" );
         return 1;
