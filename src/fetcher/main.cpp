@@ -51,6 +51,7 @@ bool download_file( std::string_view url, const std::string& output_path ) {
 }
 
 auto main( ) -> int {
+    fs::create_directories( "data" );
     bool dres = download_file( url, "data/manifest.yaml" );
 
     if ( dres ) {
