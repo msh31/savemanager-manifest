@@ -9,13 +9,14 @@ const std::unordered_map<std::string, std::string> LTSM = {
     { "winDocuments", "USER_PROFILE_DOCUMENTS" },
     { "winProgramData", "PROGRAM_DATA" },
     // { "home", "" },
-    // { "base", "" },
+    { "base", "GAME_INSTALL_DIR" },
+    { "root", "STEAM_LIBRARY_DIR" }, //?
     { "xdgConfig", "XDG_CONFIG_HOME" },
     { "xdgData", "XDG_DATA_HOME" },
     { "storeUserId", "USER_ID" },
 };
 
-std::string remap_token( std::string token ) {
+std::string remap_token( std::string token, std::string os ) {
     std::string remapped = { };
     auto it = LTSM.find( token ); // "winAppData" etc
 
@@ -24,10 +25,23 @@ std::string remap_token( std::string token ) {
     } else {
         remapped = token;
     }
+
+    if ( remapped == "home" ) {
+        if ( os == "windows" ) {
+            remapped = "USER_PROFILE";
+        }
+        if ( os == "mac" ) {
+            remapped = "OSX_HOME";
+        }
+        if ( os == "linux" ) {
+            remapped = "LINUX_HOME";
+        }
+    }
+
     return "<" + remapped + ">";
 }
 
-std::string parse_token( std::string tokenized_path ) {
+std::string parse_token( std::string tokenized_path, std::string os ) {
     std::string token = { };
     size_t i = 0;
 
@@ -41,7 +55,7 @@ std::string parse_token( std::string tokenized_path ) {
         auto close = tokenized_path.find( '>', i );
         if ( close == std::string::npos ) return token;
 
-        token += remap_token( tokenized_path.substr( i + 1, close - i - 1 ) );
+        token += remap_token( tokenized_path.substr( i + 1, close - i - 1 ), os );
         i = close + 1;
     }
 
@@ -89,9 +103,12 @@ int main( ) {
 
             kept = true;
 
-            std::println( "path: {}", YAML::Dump( path ) );
-            std::println( "tags: {}", YAML::Dump( entry["tags"] ) );
-            std::println( "when: {}", YAML::Dump( entry["when"] ) );
+            auto os = entry["when"][0]["os"].as<std::string>( "" );
+            std::println( "{}", parse_token( path.as<std::string>( ), os ) );
+
+            // std::println( "path: {}", YAML::Dump( path ) );
+            // std::println( "tags: {}", YAML::Dump( entry["tags"] ) );
+            // std::println( "when: {}", YAML::Dump( entry["when"] ) );
         }
         if ( !kept ) continue;
         for ( size_t i{ }; i < 20; ++i ) {
