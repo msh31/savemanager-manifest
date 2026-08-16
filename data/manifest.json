@@ -12774,6 +12774,20 @@
     ]
   },
   {
+    "appid": "1275550",
+    "name": "Arctic Awakening",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/GoldFire Studios/Arctic Awakening/Saves"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/GoldFire Studios/Arctic Awakening/Saves"
+      }
+    ]
+  },
+  {
     "appid": "1521160",
     "name": "Are You Smarter Than a 5th Grader? (2022)",
     "saves": [
@@ -15854,6 +15868,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Players.cdf"
+      }
+    ]
+  },
+  {
+    "appid": "2803490",
+    "name": "Atomcraft",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/godot/app_userdata/Atomcraft"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/godot/app_userdata/Atomcraft"
       }
     ]
   },
@@ -132895,6 +132923,10 @@
       },
       {
         "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/com.Company.ProductName/<USER_ID>/Save01"
+      },
+      {
+        "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/com.devolverdigital.neva/<USER_ID>/Save01"
       }
     ]
@@ -194690,20 +194722,6 @@
     ]
   },
   {
-    "appid": "568090",
-    "name": "Tattletail",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Waygetter Electronics/Tattletail/*.txt"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/unity.Waygetter Electronics.Tattletail/*.txt"
-      }
-    ]
-  },
-  {
     "appid": "2375260",
     "name": "Tattoo Tycoon",
     "saves": [
@@ -208983,19 +209001,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/<USER_ID>/save.dat"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/The Zachtronics Solitaire Collection/<USER_ID>/save.dat"
-      },
-      {
-        "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/My Games/The Zachtronics Solitaire Collection/<USER_ID>/save.dat"
-      },
-      {
-        "os": "linux",
-        "path": "<XDG_DATA_HOME>/The Zachtronics Solitaire Collection/<USER_ID>/save.dat"
       }
     ]
   },
