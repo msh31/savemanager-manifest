@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   fetch_and_convert_manifest:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 350
 
     steps:
@@ -27,35 +27,30 @@ jobs:
           path: build
           key: build-${{ hashFiles('cmake.toml', 'CMakeLists.txt', 'src/**') }}
 
+      - name: Install GCC 14
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y g++-14
+
       - name: Build Fetcher & Converter
         run: |
-          cmake -B build
-          cmake --build build --config Release
+          cmake -B build --fresh -DCMAKE_C_COMPILER=gcc-14 -DCMAKE_CXX_COMPILER=g++-14
+          cmake --build build --config Release -j
 
       - name: Fetch Manifest
         run: |
-          $exePath = Join-Path $PWD 'build\Release\fetcher.exe'
-          $workDir = $PWD
-          $job = Start-Job -ScriptBlock {
-            param($exe, $dir)
-            Set-Location $dir
-            & $exe
-            if ($LASTEXITCODE -ne 0) { throw "Fetcher exited with code $LASTEXITCODE." }
-          } -ArgumentList $exePath, $workDir
-
-          $completed = Wait-Job -Job $job -Timeout 18000
-
-          if (-not $completed) {
-            Stop-Job -Job $job
-            Receive-Job -Job $job -ErrorAction Continue
-            throw "Fetcher timed out after 18000 seconds."
-          }
-
-          Receive-Job -Job $job -ErrorAction Stop
+          if ! timeout 18000 ./build/fetcher; then
+            status=$?
+            if [ "$status" -eq 124 ]; then
+              echo "Fetcher timed out after 18000 seconds."
+            else
+              echo "Fetcher exited with code $status."
+            fi
+            exit 1
+          fi
 
       - name: Convert Manifest
-        run: |
-          ./build/Release/converter.exe
+        run: ./build/converter
 
       - name: Commit progress
         run: |
@@ -64,11 +59,10 @@ jobs:
 
           git add data/manifest.json
 
-          git diff --cached --quiet
-          if ($LASTEXITCODE -eq 0) {
-            Write-Host "No changes to commit."
-          } else {
-            $timestamp = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
             git commit -m "Fetch latest manifest changes @ ($timestamp)"
             git push
-          }
+          fi
