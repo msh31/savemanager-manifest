@@ -28098,6 +28098,42 @@ Akane the Kunoichi:
             store: steam
   steam:
     id: 1098370
+Akatori:
+  cloud:
+    steam: true
+  files:
+    "<home>/AppData/LocalLow/ContrastGames/Akatori/*.datsave":
+      when:
+        - store: steam
+    "<home>/AppData/LocalLow/ContrastGames/Akatori/*.mask":
+      when:
+        - store: steam
+    "<xdgConfig>/unity3d/ContrastGames/Akatori/*.datsave":
+      when:
+        - os: linux
+          store: steam
+    "<xdgConfig>/unity3d/ContrastGames/Akatori/*.mask":
+      when:
+        - os: linux
+          store: steam
+  id:
+    lutris: akatori
+    steamExtra:
+      - 5025690
+      - 5026500
+  installDir:
+    Akatori: {}
+  launch:
+    "<base>/Akatori.exe":
+      - when:
+          - os: windows
+            store: steam
+    "<base>/Akatori.x86_64":
+      - when:
+          - os: linux
+            store: steam
+  steam:
+    id: 1442520
 Akda:
   installDir:
     akda: {}
@@ -82340,6 +82376,11 @@ Big Walk:
         - save
       when:
         - os: windows
+    "<home>/Library/Application Support/House House/Big Walk/user_data/save_games":
+      tags:
+        - save
+      when:
+        - os: mac
   id:
     lutris: big-walk
   installDir:
@@ -82737,6 +82778,7 @@ Bills Must Be Paid:
     lutris: bills-must-be-paid
     steamExtra:
       - 4577620
+      - 5020040
   installDir:
     Bills Must Be Paid: {}
   launch:
@@ -118944,14 +118986,10 @@ Carmageddon TDR 2000:
     "<root>/userdata/<storeUserId>/505170/remote":
       tags:
         - config
-      when:
-        - os: windows
-          store: steam
-    "<winDocuments>/Carmageddon Max Damage/savegames":
-      tags:
         - save
       when:
         - os: windows
+          store: steam
   gog:
     id: 1904451332
   installDir:
@@ -132357,6 +132395,9 @@ Christmas Defence:
     id: 565630
 "Christmas Eve: Midnight's Call Collector's Edition":
   alias: "Christmas Eve: Midnight's Call"
+Christmas Magic:
+  id:
+    lutris: christmas-magic
 Christmas Mahjong:
   installDir:
     Christmas Mahjong: {}
@@ -159461,6 +159502,10 @@ Crimson Skies:
         - save
       when:
         - os: windows
+  registry:
+    HKEY_CURRENT_USER/Software/Microsoft/Microsoft Games/Crimson Skies:
+      tags:
+        - config
 Crimson Snow:
   files:
     "<winLocalAppData>/CrimsonSnow/Saved/Config/WindowsNoEditor":
@@ -330465,10 +330510,20 @@ Heavy Rain:
         - save
       when:
         - os: windows
+          store: gog
+        - os: windows
           store: steam
     "<home>/Saved Games/HeavyRain/TEST00000-A/0":
       tags:
         - config
+      when:
+        - os: windows
+          store: gog
+        - os: windows
+          store: steam
+    "<home>/Saved Games/HeavyRainJP":
+      tags:
+        - save
       when:
         - os: windows
           store: steam
@@ -391615,6 +391670,11 @@ Kingdom Hearts III:
             store: steam
   steam:
     id: 2552450
+Kingdom Hearts IV:
+  id:
+    lutris: kingdom-hearts-iv
+  steam:
+    id: 3216600
 Kingdom Hearts Melody of Memory:
   files:
     "<winDocuments>/KINGDOM HEARTS Melody of Memory/Epic Games Store/<storeUserId>":
@@ -391721,8 +391781,33 @@ Kingdom Rush:
 "Kingdom Rush 5: Alliance TD":
   cloud:
     steam: true
+  files:
+    "<home>/Library/Application Support/kingdom_rush_alliance/slot*.lua":
+      when:
+        - os: mac
+          store: steam
+    "<winAppData>/kingdom_rush_alliance/slot*.lua":
+      when:
+        - store: steam
+  id:
+    lutris: kingdom-rush-5-alliance-td
+    steamExtra:
+      - 3368630
+      - 3732970
+      - 4260510
+  installDir:
+    Kingdom Rush Alliance: {}
+  launch:
+    "<base>/Kingdom Rush Alliance.app":
+      - when:
+          - os: mac
+            store: steam
+    "<base>/Kingdom Rush Alliance.exe":
+      - when:
+          - os: windows
+            store: steam
   steam:
-    id: 34004563
+    id: 2849080
 "Kingdom Rush: Frontiers":
   cloud:
     steam: true
@@ -397332,10 +397417,6 @@ Krunker.io:
     id: 1207659196
   installDir:
     KKND 2 Krossfire: {}
-  launch:
-    "<base>/launcher.exe":
-      - when:
-          - store: steam
   steam:
     id: 1292180
 "Krush Kill 'N Destroy Xtreme":
@@ -397358,10 +397439,6 @@ Krunker.io:
     lutris: kknd-krush-kill-n-destroy-xtreme
   installDir:
     KKND Xtreme: {}
-  launch:
-    "<base>/launcher.exe":
-      - when:
-          - store: steam
   steam:
     id: 1292170
 KryptCrawler:
@@ -446217,8 +446294,6 @@ Mega Man Battle Network Legacy Collection Vol. 2:
   steam:
     id: 1798020
 Mega Man Legacy Collection:
-  cloud:
-    steam: true
   files:
     "<winAppData>/MegaMan":
       tags:
@@ -446236,8 +446311,6 @@ Mega Man Legacy Collection:
   steam:
     id: 363440
 Mega Man Legacy Collection 2:
-  cloud:
-    steam: true
   files:
     "<winAppData>/MegaMan2":
       tags:
@@ -475455,6 +475528,8 @@ My Island:
   steam:
     id: 1004270
 My Kingdom for the Princess:
+  id:
+    lutris: my-kingdom-for-the-princess
   installDir:
     My Kingdom for the Princess: {}
   launch:
@@ -499682,6 +499757,10 @@ Nuclear Option:
       - when:
           - bit: 64
             store: steam
+  registry:
+    HKEY_CURRENT_USER/Software/Shockfront/NuclearOption:
+      tags:
+        - config
   steam:
     id: 2168680
 Nuclear Power Station Creator:
@@ -522034,6 +522113,11 @@ Pangeon:
             store: steam
   steam:
     id: 983670
+Panic 64:
+  id:
+    lutris: panic-64
+  steam:
+    id: 4752390
 Panic Diet!!:
   installDir:
     panic_diet: {}
@@ -539952,6 +540036,8 @@ Planet of Lana:
     gogExtra:
       - 2094167069
     lutris: planet-of-lana
+    steamExtra:
+      - 4464580
   installDir:
     Planet of Lana: {}
   launch:
@@ -579754,6 +579840,8 @@ Regular Human Basketball:
   steam:
     id: 661940
 Rehaunted:
+  id:
+    lutris: rehaunted
   steam:
     id: 4538140
 Rehtona:
@@ -585270,6 +585358,15 @@ Return Zero VR:
     ReturnZeroVR: {}
   steam:
     id: 496160
+Return from Core:
+  cloud:
+    steam: true
+  id:
+    lutris: return-from-core
+    steamExtra:
+      - 2345850
+  steam:
+    id: 2171630
 Return of Red Riding Hood Enhanced Edition:
   cloud:
     steam: true
@@ -588212,6 +588309,10 @@ Riddle Joker:
   steam:
     id: 1277930
 Riddle Tower:
+  id:
+    lutris: riddle-tower
+    steamExtra:
+      - 3192900
   installDir:
     Riddle Tower: {}
   launch:
@@ -605929,15 +606030,18 @@ SC2VN - The eSports Visual Novel:
   steam:
     id: 404480
 SCAD:
+  cloud:
+    steam: true
   files:
-    "<home>/AppData/LocalLow/NAISU/SCAD/*.json":
+    "<home>/AppData/LocalLow/NAISU/SCAD":
+      tags:
+        - save
       when:
         - os: windows
-          store: steam
-    "<home>/Library/Application Support/NAISU/SCAD/*.json":
-      when:
-        - os: mac
-          store: steam
+  id:
+    lutris: scad
+    steamExtra:
+      - 4756350
   installDir:
     SCAD: {}
   launch:
@@ -654444,6 +654548,18 @@ Sonic Pico Park:
 Sonic Project Hero:
   files:
     "<base>/Sonic - Project Hero_Data/hero_settings.bin":
+      tags:
+        - config
+      when:
+        - os: windows
+Sonic Project Hero Rewired:
+  files:
+    "<base>/Sonic Project Hero Rewired_Data/hero_save.bin":
+      tags:
+        - save
+      when:
+        - os: windows
+    "<base>/Sonic Project Hero Rewired_Data/hero_settings.bin":
       tags:
         - config
       when:
@@ -740476,7 +740592,7 @@ The Inner World:
             os: linux
             store: steam
   registry:
-    HKEY_CURRENT_USERSoftware/Studio Fizbin/The Last Wind Monk:
+    HKEY_CURRENT_USER/Software/Studio Fizbin/The Last Wind Monk:
       tags:
         - config
   steam:
@@ -758792,10 +758908,21 @@ The Sinking City:
 The Sinking City 2:
   cloud:
     gog: true
+    steam: true
+  files:
+    "<winLocalAppData>/TSC2/Saved/SaveGames/*.sav":
+      when:
+        - os: windows
+          store: steam
   gog:
     id: 1653226562
   id:
     lutris: the-sinking-city-2
+    steamExtra:
+      - 4265460
+      - 4684710
+  installDir:
+    The Sinking City 2: {}
   steam:
     id: 2825860
 The Sinking City Remastered:
@@ -830997,6 +831124,11 @@ Warring States:
         - config
   steam:
     id: 282680
+"Warrior Cats: Clans of the Forest":
+  cloud:
+    steam: true
+  steam:
+    id: 3960600
 Warrior Fighter:
   installDir:
     Warrior Fighter: {}

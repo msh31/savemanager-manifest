@@ -7430,6 +7430,28 @@
     ]
   },
   {
+    "appid": "1442520",
+    "name": "Akatori",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/ContrastGames/Akatori/*.datsave"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/ContrastGames/Akatori/*.mask"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/ContrastGames/Akatori/*.datsave"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/ContrastGames/Akatori/*.mask"
+      }
+    ]
+  },
+  {
     "appid": "1236780",
     "name": "Akiba's Trip: Hellbound & Debriefed",
     "saves": [
@@ -20363,7 +20385,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Public Documents/City Interactive/Battlestrike Force Of Resistance 2/Save"
+        "path": "<PUBLICUSER>/Public Documents/City Interactive/Battlestrike Force Of Resistance 2/Save"
       }
     ]
   },
@@ -22560,6 +22582,10 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/House House/Big Walk/user_data/save_games"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/House House/Big Walk/user_data/save_games"
       }
     ]
   },
@@ -29809,7 +29835,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winDir>/burncycl.dat"
+        "path": "<WINDIR>/burncycl.dat"
       }
     ]
   },
@@ -32230,16 +32256,6 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Save"
-      }
-    ]
-  },
-  {
-    "appid": "505170",
-    "name": "Carmageddon: Max Damage",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/Carmageddon Max Damage/savegames"
       }
     ]
   },
@@ -38741,7 +38757,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/City Interactive/CODE OF HONOR 3/save"
+        "path": "<PUBLICUSER>/Documents/City Interactive/CODE OF HONOR 3/save"
       }
     ]
   },
@@ -39743,7 +39759,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/City Interactive/COMBAT ZONES - SPECIAL FORCES/Save"
+        "path": "<PUBLICUSER>/Documents/City Interactive/COMBAT ZONES - SPECIAL FORCES/Save"
       }
     ]
   },
@@ -40565,7 +40581,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/Monolith Productions/Condemned/Save"
+        "path": "<PUBLICUSER>/Documents/Monolith Productions/Condemned/Save"
       }
     ]
   },
@@ -68633,15 +68649,15 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/Monolith Productions/FEAR/Save/Profile000/SinglePlayer"
+        "path": "<PUBLICUSER>/Documents/Monolith Productions/FEAR/Save/Profile000/SinglePlayer"
       },
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/TimeGate Studios/FEARXP/Save/Profile000/SinglePlayer"
+        "path": "<PUBLICUSER>/Documents/TimeGate Studios/FEARXP/Save/Profile000/SinglePlayer"
       },
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/TimeGate Studios/FEARXP2/Save/Profile000/SinglePlayer"
+        "path": "<PUBLICUSER>/Documents/TimeGate Studios/FEARXP2/Save/Profile000/SinglePlayer"
       }
     ]
   },
@@ -68661,7 +68677,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/TimeGate Studios/FEARXP2/Save/Profile000/SinglePlayer"
+        "path": "<PUBLICUSER>/Documents/TimeGate Studios/FEARXP2/Save/Profile000/SinglePlayer"
       }
     ]
   },
@@ -79033,7 +79049,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winDir>/ProgramData/Microsoft/Windows/Anwendungsdaten/CSoft/Marigor/Spieler"
+        "path": "<WINDIR>/ProgramData/Microsoft/Windows/Anwendungsdaten/CSoft/Marigor/Spieler"
       }
     ]
   },
@@ -89809,6 +89825,10 @@
       },
       {
         "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/HeavyRainJP"
+      },
+      {
+        "os": "windows",
         "path": "<USER_PROFILE>/Saved Games/HeavyRainNS"
       }
     ]
@@ -94293,7 +94313,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/HWSTC/PROFILES.SAV"
+        "path": "<PUBLICUSER>/Documents/HWSTC/PROFILES.SAV"
       }
     ]
   },
@@ -106096,6 +106116,20 @@
       {
         "os": "linux",
         "path": "<XDG_DATA_HOME>/kingdom_rush/slot_*.lua"
+      }
+    ]
+  },
+  {
+    "appid": "2849080",
+    "name": "Kingdom Rush 5: Alliance TD",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/kingdom_rush_alliance/slot*.lua"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/kingdom_rush_alliance/slot*.lua"
       }
     ]
   },
@@ -119091,7 +119125,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/getting up - contents under pressure"
+        "path": "<PUBLICUSER>/Documents/getting up - contents under pressure"
       }
     ]
   },
@@ -120329,7 +120363,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winDir>/mrwincd.dat"
+        "path": "<WINDIR>/mrwincd.dat"
       }
     ]
   },
@@ -126841,7 +126875,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winDir>/7THLEVEL.INI"
+        "path": "<WINDIR>/7THLEVEL.INI"
       }
     ]
   },
@@ -126851,11 +126885,11 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winDir>/7THLEVEL.*"
+        "path": "<WINDIR>/7THLEVEL.*"
       },
       {
         "os": "windows",
-        "path": "<winDir>/7THLEVEL.INI"
+        "path": "<WINDIR>/7THLEVEL.INI"
       }
     ]
   },
@@ -138943,7 +138977,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/City Interactive/Operation Thunderstorm/Save/Profile000/SinglePlayer"
+        "path": "<PUBLICUSER>/Documents/City Interactive/Operation Thunderstorm/Save/Profile000/SinglePlayer"
       }
     ]
   },
@@ -155729,7 +155763,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winDir>/rrm1.dat"
+        "path": "<WINDIR>/rrm1.dat"
       }
     ]
   },
@@ -164383,7 +164417,7 @@
       },
       {
         "os": "windows",
-        "path": "<winPublic>/Public Documents/S.T.A.L.K.E.R. - Call of Pripyat/savedgames"
+        "path": "<PUBLICUSER>/Public Documents/S.T.A.L.K.E.R. - Call of Pripyat/savedgames"
       }
     ]
   },
@@ -164445,7 +164479,7 @@
       },
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/stalker-shoc/savedgames"
+        "path": "<PUBLICUSER>/Documents/stalker-shoc/savedgames"
       }
     ]
   },
@@ -164519,7 +164553,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/City Interactive/SAS Secure Tomorrow/Save/Profile000/SinglePlayer"
+        "path": "<PUBLICUSER>/Documents/City Interactive/SAS Secure Tomorrow/Save/Profile000/SinglePlayer"
       }
     ]
   },
@@ -164569,11 +164603,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/NAISU/SCAD/*.json"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/NAISU/SCAD/*.json"
+        "path": "<USER_PROFILE>/AppData/LocalLow/NAISU/SCAD"
       }
     ]
   },
@@ -173427,7 +173457,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Public Documents/Silent Hill Homecoming/shv_save.bin"
+        "path": "<PUBLICUSER>/Public Documents/Silent Hill Homecoming/shv_save.bin"
       }
     ]
   },
@@ -174653,7 +174683,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winDir>/entpack.ini"
+        "path": "<WINDIR>/entpack.ini"
       }
     ]
   },
@@ -174763,7 +174793,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winDir>/System32/Skout-Interpreter-s[number]"
+        "path": "<WINDIR>/System32/Skout-Interpreter-s[number]"
       }
     ]
   },
@@ -178228,6 +178258,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/SaveFiles"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Sonic Project Hero Rewired",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Sonic Project Hero Rewired_Data/hero_save.bin"
       }
     ]
   },
@@ -196217,7 +196257,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/City Interactive/Terrorist Takedown 2/save"
+        "path": "<PUBLICUSER>/Documents/City Interactive/Terrorist Takedown 2/save"
       }
     ]
   },
@@ -196227,7 +196267,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/City Interactive/Terrorist Takedown 3/save"
+        "path": "<PUBLICUSER>/Documents/City Interactive/Terrorist Takedown 3/save"
       }
     ]
   },
@@ -198941,7 +198981,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/the da vinci code"
+        "path": "<PUBLICUSER>/Documents/the da vinci code"
       }
     ]
   },
@@ -205903,11 +205943,11 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/City Interactive/Royal Marines Commando/Profiles"
+        "path": "<PUBLICUSER>/Documents/City Interactive/Royal Marines Commando/Profiles"
       },
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/City Interactive/Royal Marines Commando/Save"
+        "path": "<PUBLICUSER>/Documents/City Interactive/Royal Marines Commando/Save"
       }
     ]
   },
@@ -206856,6 +206896,16 @@
     ]
   },
   {
+    "appid": "2825860",
+    "name": "The Sinking City 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/TSC2/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "750130",
     "name": "The Sinking City Remastered",
     "saves": [
@@ -207035,7 +207085,7 @@
       },
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/Steam/<USER_ID>/763250"
+        "path": "<PUBLICUSER>/Documents/Steam/<USER_ID>/763250"
       }
     ]
   },
@@ -208203,7 +208253,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/My Games/Void/Savegames"
+        "path": "<PUBLICUSER>/Documents/My Games/Void/Savegames"
       }
     ]
   },
@@ -231861,7 +231911,7 @@
       },
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/Team17/WormsWMD"
+        "path": "<PUBLICUSER>/Documents/Team17/WormsWMD"
       }
     ]
   },
@@ -232959,7 +233009,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<winPublic>/Documents/White Gold/SAVE"
+        "path": "<PUBLICUSER>/Documents/White Gold/SAVE"
       }
     ]
   },
