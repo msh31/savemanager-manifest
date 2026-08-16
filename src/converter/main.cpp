@@ -11,6 +11,8 @@ const std::unordered_map<std::string, std::string> LTSM = {
     { "winLocalAppData", "LOCAL_APPDATA" },
     { "winDocuments", "USER_PROFILE_DOCUMENTS" },
     { "winProgramData", "PROGRAM_DATA" },
+    { "winPublic", "PUBLICUSER" },
+    { "winDir", "WINDIR" },
     // { "home", "" },
     { "base", "GAME_INSTALL_DIR" },
     { "root", "STEAM_LIBRARY_DIR" }, //?
