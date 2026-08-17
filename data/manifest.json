@@ -53392,6 +53392,16 @@
     ]
   },
   {
+    "appid": "45700",
+    "name": "Devil May Cry 4",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/CAPCOM/DEVILMAYCRY4"
+      }
+    ]
+  },
+  {
     "appid": "329050",
     "name": "Devil May Cry 4: Special Edition",
     "saves": [
@@ -203834,16 +203844,6 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/WB Games/War in the North/*.sav"
-      }
-    ]
-  },
-  {
-    "appid": "2523770",
-    "name": "The Lord of the Rings: War in the North - Legacy Edition",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/Aspyr/War in the North/*.sav"
       }
     ]
   },
