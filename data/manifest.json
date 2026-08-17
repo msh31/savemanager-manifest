@@ -166756,6 +166756,16 @@
     ]
   },
   {
+    "appid": "2579270",
+    "name": "Satellite Odyssey: Prologue",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Satellite Odyssey Prologue_Data/Data/SavedGame"
+      }
+    ]
+  },
+  {
     "appid": "567780",
     "name": "Satellite Repairman",
     "saves": [
