@@ -202400,6 +202400,16 @@
     ]
   },
   {
+    "appid": "3849000",
+    "name": "The Lantern of the Laughless Saint",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/The_Holy_Fool/Saved"
+      }
+    ]
+  },
+  {
     "appid": "1084570",
     "name": "The Lar",
     "saves": [
