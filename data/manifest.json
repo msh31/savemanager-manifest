@@ -127638,6 +127638,28 @@
     ]
   },
   {
+    "appid": "2584270",
+    "name": "Mortal Shell II",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/MortalShell2/Saved/SaveGames/MetaSaveGame.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/MortalShell2/Saved/SaveGames/WorldState_*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/MortalShell2/Saved/SaveGames/MetaSaveGame.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/MortalShell2/Saved/SaveGames/WorldState_*.sav"
+      }
+    ]
+  },
+  {
     "appid": "1494810",
     "name": "Mortal Sin",
     "saves": [
