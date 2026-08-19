@@ -71916,6 +71916,36 @@
     ]
   },
   {
+    "appid": "4370990",
+    "name": "Feed It",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Games On A Chair/FEED IT/RewiredSaveData.json"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Games On A Chair/FEED IT/SaveFile.es3"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Games On A Chair/FEED IT/RewiredSaveData.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Games On A Chair/FEED IT/SaveFile.es3"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Games On A Chair/FEED IT/RewiredSaveData.json"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Games On A Chair/FEED IT/SaveFile.es3"
+      }
+    ]
+  },
+  {
     "appid": "429050",
     "name": "Feed and Grow: Fish",
     "saves": [
@@ -97746,6 +97776,28 @@
     ]
   },
   {
+    "appid": "2861740",
+    "name": "Immortal Immanuel",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/userdata/database/}"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/userdata/replay"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/userdata/save"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/userdata/snapshot"
+      }
+    ]
+  },
+  {
     "appid": "1217220",
     "name": "Immortal Legacy: The Jade Cipher",
     "saves": [
@@ -119368,6 +119420,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/*.dat"
+      }
+    ]
+  },
+  {
+    "appid": "1933370",
+    "name": "Mark of the Deep",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/MarkOfTheDeep/Saved/SaveGames/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/MarkOfTheDeep/Saved/SaveGames/*.sav"
       }
     ]
   },
@@ -199972,6 +200038,16 @@
     ]
   },
   {
+    "appid": "4509630",
+    "name": "The Eternal Woods",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/James Sutton/The Eternal Woods"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "The Even More Incredible Machine",
     "saves": [
@@ -217689,6 +217765,10 @@
     "saves": [
       {
         "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Atmos Games, LLC/Twisted Tower"
+      },
+      {
+        "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Atmos Games, LLC/Twisted Tower Demo"
       }
     ]
@@ -234000,7 +234080,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "4760480",
     "name": "You Are Empty",
     "saves": [
       {
