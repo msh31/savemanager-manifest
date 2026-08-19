@@ -33758,6 +33758,16 @@
     ]
   },
   {
+    "appid": "2848360",
+    "name": "Cavern Adventurers",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/<USER_ID>"
+      }
+    ]
+  },
+  {
     "appid": "2059660",
     "name": "Cavern of Dreams",
     "saves": [
@@ -51940,6 +51950,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Replay.*"
+      }
+    ]
+  },
+  {
+    "appid": "4212210",
+    "name": "Demon Castle Story",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/<USER_ID>"
       }
     ]
   },
@@ -73098,6 +73118,16 @@
     ]
   },
   {
+    "appid": "3936590",
+    "name": "Final Frontier Story",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/<USER_ID>"
+      }
+    ]
+  },
+  {
     "appid": "922870",
     "name": "Final Hope",
     "saves": [
@@ -90010,6 +90040,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/Saved Games/Hegemony Rome/*.HegemonyRomeSaveGame"
+      }
+    ]
+  },
+  {
+    "appid": "3132250",
+    "name": "Heian City Story",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/<USER_ID>"
       }
     ]
   },
@@ -110468,6 +110508,16 @@
     ]
   },
   {
+    "appid": "3042830",
+    "name": "Legends of Heropolis DX",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/<USER_ID>"
+      }
+    ]
+  },
+  {
     "appid": "668730",
     "name": "Legends of Iona RPG",
     "saves": [
@@ -127709,19 +127759,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/MortalShell2/Saved/SaveGames/MetaSaveGame.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/MortalShell2/Saved/SaveGames/WorldState_*.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/MortalShell2/Saved/SaveGames/MetaSaveGame.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/MortalShell2/Saved/SaveGames/WorldState_*.sav"
+        "path": "<LOCAL_APPDATA>/MortalShell2/Saved/SaveGames"
       }
     ]
   },
@@ -150036,6 +150074,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/psf2020"
+      }
+    ]
+  },
+  {
+    "appid": "3334710",
+    "name": "Pro Wrestler Story",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/<USER_ID>"
       }
     ]
   },
@@ -174634,6 +174682,16 @@
     ]
   },
   {
+    "appid": "3601190",
+    "name": "Skating Rink Story",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/<USER_ID>"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Skaut Kwatermaster",
     "saves": [
@@ -175316,6 +175374,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/My Games/Skyscraper Simulator/*.save"
+      }
+    ]
+  },
+  {
+    "appid": "4424950",
+    "name": "Skyship Quest Story",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/<USER_ID>"
       }
     ]
   },
@@ -193154,6 +193222,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/TTV2"
+      }
+    ]
+  },
+  {
+    "appid": "2732020",
+    "name": "TV Studio Story",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/<USER_ID>"
       }
     ]
   },
