@@ -148317,10 +148317,6 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/Pose/Saved/SaveGames/<USER_ID>/*.sav"
-      },
-      {
-        "os": "windows",
         "path": "<LOCAL_APPDATA>/Pose/Saved/SaveGames/<USER_ID>/*.sav"
       }
     ]
@@ -185796,6 +185792,20 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/My Games/mages_steam/STEINS GATE 0/SAVEDATA.DAT"
+      }
+    ]
+  },
+  {
+    "appid": "4012810",
+    "name": "Steins;Gate Re:Boot",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/My Games/mages_steam/STEINS;GATE REBOOT/<USER_ID>/*.bin"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/My Games/mages_steam/STEINS;GATE REBOOT/<USER_ID>/*.txt"
       }
     ]
   },
