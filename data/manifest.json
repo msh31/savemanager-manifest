@@ -150636,6 +150636,84 @@
     ]
   },
   {
+    "appid": "4026250",
+    "name": "Project P.I.T.T.",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/*.save"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/*.save.bak"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/keybindings.cfg"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/locale.cfg"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/profile.cfg"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/settings.cfg"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/*.save"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/*.save.bak"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/keybindings.cfg"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/locale.cfg"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/profile.cfg"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/settings.cfg"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/*.save"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/*.save.bak"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/keybindings.cfg"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/locale.cfg"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/profile.cfg"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/settings.cfg"
+      }
+    ]
+  },
+  {
     "appid": "455710",
     "name": "Project RPG",
     "saves": [
