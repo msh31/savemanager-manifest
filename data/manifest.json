@@ -28962,6 +28962,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Brunswick Circuit Pro Bowling",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/savegame.dat"
+      }
+    ]
+  },
+  {
     "appid": "434820",
     "name": "Brushwood Buddies",
     "saves": [
@@ -130718,6 +130728,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/BambuseaeGames/Neomorph/*.es3"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "NFL Blitz 2000",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/<USER_ID>.DAT"
       }
     ]
   },
