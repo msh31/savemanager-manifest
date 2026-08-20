@@ -16204,6 +16204,16 @@
     ]
   },
   {
+    "appid": "1231560",
+    "name": "Aurelia",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Aurelia"
+      }
+    ]
+  },
+  {
     "appid": "368080",
     "name": "Aurion: Legacy of the Kori-Odan",
     "saves": [
