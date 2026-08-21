@@ -223048,6 +223048,20 @@
     ]
   },
   {
+    "appid": "4131730",
+    "name": "Vholume",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/VHOLUME/Saved/Ghosts/**/*.json.gz"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/VHOLUME/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "659110",
     "name": "Vicious Attack Llama Apocalypse",
     "saves": [
