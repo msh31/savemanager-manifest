@@ -35966,6 +35966,16 @@
     ]
   },
   {
+    "appid": "4369130",
+    "name": "Chop Chop Inc.",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/NullRef Entertainment/ChopChopInc"
+      }
+    ]
+  },
+  {
     "appid": "1935660",
     "name": "Chop Goblins",
     "saves": [
@@ -80296,6 +80306,16 @@
     ]
   },
   {
+    "appid": "3065940",
+    "name": "Gallipoli",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/WW1 Game Series/Gallipoli/Steam/<USER_ID>/SaveData_User.dat*"
+      }
+    ]
+  },
+  {
     "appid": "1028130",
     "name": "Gamble Fight Plus",
     "saves": [
@@ -94886,6 +94906,24 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/HowAboutSpikes/*.has"
+      }
+    ]
+  },
+  {
+    "appid": "3934270",
+    "name": "How Many Dudes?",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/HowManyDudes/<USER_ID>"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/com.bscotch.hmd/<USER_ID>"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/HowManyDudes/<USER_ID>"
       }
     ]
   },
