@@ -20750,6 +20750,16 @@
     ]
   },
   {
+    "appid": "2001760",
+    "name": "Beast of Reincarnation",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/Fictions.ProjectAibou_qj8vnfjar8dk2/SystemAppData/wgs"
+      }
+    ]
+  },
+  {
     "appid": "1864950",
     "name": "Beastieball",
     "saves": [
@@ -90402,6 +90412,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/data/*.hel"
+      }
+    ]
+  },
+  {
+    "appid": "2461850",
+    "name": "Hellblade II: Senua's Saga",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Hellblade2/Saved/SaveGames"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/Microsoft.Superb_8wekyb3d8bbwe/SystemAppData/wgs/<USER_ID>"
       }
     ]
   },
@@ -169712,20 +169736,6 @@
     ]
   },
   {
-    "appid": "2461850",
-    "name": "Senua's Saga: Hellblade II",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/Hellblade2/Saved/SaveGames"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/Packages/Microsoft.Superb_8wekyb3d8bbwe/SystemAppData/wgs/<USER_ID>"
-      }
-    ]
-  },
-  {
     "appid": "1248840",
     "name": "Sephonie",
     "saves": [
@@ -179902,6 +179912,24 @@
       {
         "os": "linux",
         "path": "<XDG_CONFIG_HOME>/spacegrunts2"
+      }
+    ]
+  },
+  {
+    "appid": "3403540",
+    "name": "Space Grunts: Chrono Shard",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/spacegrunts3/*.*"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/spacegrunts3/*.*"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/spacegrunts3/*.*"
       }
     ]
   },
