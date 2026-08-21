@@ -69847,15 +69847,23 @@
   },
   {
     "appid": "917820",
-    "name": "Fairtravel Battle",
+    "name": "Fairtravel Battle CCG",
     "saves": [
       {
         "os": "linux",
         "path": "<LINUX_HOME>/.config/unity3d/Flaming Torch Games/Fairtravel Battle/Profiles"
       },
       {
+        "os": "mac",
+        "path": "<OSX_HOME>/Application Support/com.ftg.fairtravelbattle/Profiles"
+      },
+      {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/../LocalLow/Flaming Torch Games/Fairtravel Battle/Profiles"
+      },
+      {
+        "os": "windows",
+        "path": "Same as the other platforms but with a subholder inside Profiles named after the player's steam ID"
       }
     ]
   },
