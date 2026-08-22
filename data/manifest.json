@@ -148270,6 +148270,16 @@
     ]
   },
   {
+    "appid": "247120",
+    "name": "Portal 2 Sixense Perceptual Pack",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/portal2_sixense/SAVE/<USER_ID>"
+      }
+    ]
+  },
+  {
     "appid": "440000",
     "name": "Portal 2: Community Edition",
     "saves": [
