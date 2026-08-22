@@ -202431,11 +202431,11 @@
     "saves": [
       {
         "os": "windows",
-        "path": "&*42;.btg"
+        "path": "<GAME_INSTALL_DIR>/*.btg"
       },
       {
         "os": "windows",
-        "path": "&*42;.sav"
+        "path": "<GAME_INSTALL_DIR>/*.sav"
       }
     ]
   },
