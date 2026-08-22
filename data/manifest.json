@@ -27502,16 +27502,6 @@
     ]
   },
   {
-    "appid": "2019810",
-    "name": "Boxes: Lost Fragments",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Big Loop Studios/Boxes Lost Fragments/*.dat"
-      }
-    ]
-  },
-  {
     "appid": "1750710",
     "name": "Boxville",
     "saves": [
@@ -203542,6 +203532,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/savefile"
+      }
+    ]
+  },
+  {
+    "appid": "2697000",
+    "name": "The Legend of Khiimori",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/LegendOfKhiimori/Saved/SaveGames/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/LegendOfKhiimori/Saved/SaveGames/*.sav"
       }
     ]
   },
