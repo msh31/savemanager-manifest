@@ -28480,6 +28480,16 @@
     ]
   },
   {
+    "appid": "3211430",
+    "name": "Brigandine Abyss",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BrigandineAbyss/Saved_Release/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "1843940",
     "name": "Brigandine: The Legend of Runersia",
     "saves": [
@@ -207360,6 +207370,16 @@
     ]
   },
   {
+    "appid": "4310610",
+    "name": "The Skin Stapler",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/TheSkinStapler/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "458660",
     "name": "The Slimeking's Tower",
     "saves": [
@@ -207482,6 +207502,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Faceless/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
+    "appid": "4120790",
+    "name": "The Sorting Bureau",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/ApelsinkaGames/The Sorting Bureau"
       }
     ]
   },
