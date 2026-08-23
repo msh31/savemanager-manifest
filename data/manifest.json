@@ -120548,16 +120548,6 @@
     ]
   },
   {
-    "appid": "2322330",
-    "name": "Matchbox Driving Adventures",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Casual Brothers/Matchbox/Matchbox/SaveData.*"
-      }
-    ]
-  },
-  {
     "appid": "1345760",
     "name": "Matchpoint: Tennis Championships",
     "saves": [
@@ -194977,7 +194967,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Neowiz/Champion/**/*.sav"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Neowiz/TapSonicWCVR/<USER_ID>"
       }
     ]
   },
@@ -207341,7 +207331,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/TSC2/Saved/SaveGames/*.sav"
+        "path": "<LOCAL_APPDATA>/TSC2/Saved/SaveGames"
       }
     ]
   },
