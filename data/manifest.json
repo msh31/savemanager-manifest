@@ -31158,6 +31158,20 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Call of Duty: Modern Warfare 2 Campaign Remastered",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/players2/<USER_ID>/settings_c.zip.h2"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/players2/<USER_ID>/settings_s.zip.h2"
+      }
+    ]
+  },
+  {
     "appid": "115300",
     "name": "Call of Duty: Modern Warfare 3",
     "saves": [
