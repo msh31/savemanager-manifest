@@ -145837,11 +145837,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Bonfire Games/Pitfall Planet/*.pitfall"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/Bonfire Games/Pitfall Planet/*.pitfall"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Bonfire Games/Pitfall Planet"
       }
     ]
   },
