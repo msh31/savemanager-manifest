@@ -56002,6 +56002,16 @@
     ]
   },
   {
+    "appid": "2019300",
+    "name": "Dokimon Quest",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/dokimon/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "766430",
     "name": "Dolla World",
     "saves": [
@@ -212550,6 +212560,10 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/savegames/<USER_ID>/11903"
+      },
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/savegames/<USER_ID>/62412"
       }
     ]
   },
