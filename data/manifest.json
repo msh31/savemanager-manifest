@@ -116138,6 +116138,16 @@
     ]
   },
   {
+    "appid": "2840000",
+    "name": "Lumina Veil",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/EternalTerror/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "851670",
     "name": "Lumines Remastered",
     "saves": [
@@ -158876,6 +158886,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/My Games/Resonance of Fate/SaveData"
+      }
+    ]
+  },
+  {
+    "appid": "2713000",
+    "name": "Resonance: A Plague Tale Legacy",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/2713000/remote"
       }
     ]
   },
