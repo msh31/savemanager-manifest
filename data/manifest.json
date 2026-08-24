@@ -223117,10 +223117,6 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/VHOLUME/Saved/Ghosts/**/*.json.gz"
-      },
-      {
-        "os": "windows",
         "path": "<LOCAL_APPDATA>/VHOLUME/Saved/SaveGames"
       }
     ]
