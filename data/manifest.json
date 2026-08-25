@@ -143738,6 +143738,16 @@
     ]
   },
   {
+    "appid": "4936660",
+    "name": "Peg Champ",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/peg_champ/*.pegc"
+      }
+    ]
+  },
+  {
     "appid": "3480",
     "name": "Peggle",
     "saves": [
@@ -176684,6 +176694,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/resources/save"
+      }
+    ]
+  },
+  {
+    "appid": "4637870",
+    "name": "Smashing Bottles",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Smashing Bottles/SmashingBottlesSaveData.dat"
       }
     ]
   },
@@ -209674,7 +209694,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "4834790",
     "name": "Theocracy",
     "saves": [
       {
