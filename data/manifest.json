@@ -33176,6 +33176,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Castlevania: Symphony of Horrors",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/CastlevaniaSOH/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "1354830",
     "name": "Cat Cafe Manager",
     "saves": [
@@ -142030,6 +142040,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Saves"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Pako",
+    "saves": [
+      {
+        "os": "dos",
+        "path": "<GAME_INSTALL_DIR>/Pako.hi"
+      },
+      {
+        "os": "dos",
+        "path": "<GAME_INSTALL_DIR>/Pako.sav"
       }
     ]
   },
