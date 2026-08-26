@@ -37880,6 +37880,16 @@
     ]
   },
   {
+    "appid": "3946950",
+    "name": "Click the Button",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SavesDir/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "3636440",
     "name": "Click to Continue",
     "saves": [
@@ -130369,6 +130379,16 @@
   },
   {
     "appid": "",
+    "name": "Mystical Ninja Starring Goemon",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Goemon64Recompiled/saves"
+      }
+    ]
+  },
+  {
+    "appid": "",
     "name": "Mystical Power Plant",
     "saves": [
       {
@@ -158984,6 +159004,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/My Games/Resonance of Fate/SaveData"
+      }
+    ]
+  },
+  {
+    "appid": "2713000",
+    "name": "Resonance: A Plague Tale Legacy",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/2713000/remote"
       }
     ]
   },
