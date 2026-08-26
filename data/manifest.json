@@ -502,6 +502,16 @@
     ]
   },
   {
+    "appid": "3949550",
+    "name": "1666: Amsterdam",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Amsterdam/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "375460",
     "name": "16bit Trader",
     "saves": [
@@ -8668,6 +8678,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Packages/ColdIronStudiosLLC.AliensFireteam_r52mqvf2yh3da/SystemAppData/wgs"
+      }
+    ]
+  },
+  {
+    "appid": "3448650",
+    "name": "Aliens: Fireteam Elite 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/AFE2/Saved/SaveGames/<USER_ID>/**/*.sav"
       }
     ]
   },
@@ -25154,6 +25174,20 @@
     ]
   },
   {
+    "appid": "2431080",
+    "name": "Blood Dungeon",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/com.messhof.blooddungeon/blood.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/blooddungeon/**/blood.sav"
+      }
+    ]
+  },
+  {
     "appid": "299050",
     "name": "Blood II: The Chosen",
     "saves": [
@@ -36866,6 +36900,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/save/<USER_ID>/*.sav"
+      }
+    ]
+  },
+  {
+    "appid": "4173110",
+    "name": "Cirno! Lifts a Boulder",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Cirno! Lifts a Boulder/levelsave.icecold"
       }
     ]
   },
@@ -91744,7 +91788,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "4921760",
     "name": "Heroes of Might and Magic III",
     "saves": [
       {
@@ -136806,6 +136850,16 @@
       {
         "os": "linux",
         "path": "<XDG_CONFIG_HOME>/Laki Studios/Oaken/save"
+      }
+    ]
+  },
+  {
+    "appid": "3400960",
+    "name": "Oaken Tower",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/autoWeapons/**/*.ini"
       }
     ]
   },
