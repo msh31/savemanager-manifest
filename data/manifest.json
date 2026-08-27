@@ -65066,6 +65066,16 @@
     ]
   },
   {
+    "appid": "2684630",
+    "name": "Endacopia",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/Endacopia"
+      }
+    ]
+  },
+  {
     "appid": "1369630",
     "name": "Ender Lilies: Quietus of the Knights",
     "saves": [
@@ -122814,6 +122824,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/mgs3_savedata_win/<USER_ID>"
+      }
+    ]
+  },
+  {
+    "appid": "2492670",
+    "name": "Metal Gear Solid 4: Guns of the Patriots - Master Collection Version",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/mgs4_savedata_win/<USER_ID>"
       }
     ]
   },
@@ -184414,6 +184434,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/BalanceOfPower/*.pl2"
+      }
+    ]
+  },
+  {
+    "appid": "2075800",
+    "name": "Star Wars: Zero Company",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/**/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/SWZeroCompany/Saved/SaveGames/**/*.sav"
       }
     ]
   },
