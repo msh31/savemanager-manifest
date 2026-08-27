@@ -8608,22 +8608,22 @@
     ]
   },
   {
-    "appid": "3730",
-    "name": "Aliens Versus Predator",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/Rebellion/AvP Classic/User_Profiles"
-      }
-    ]
-  },
-  {
     "appid": "",
     "name": "Aliens Versus Predator 2",
     "saves": [
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Save/Player_0"
+      }
+    ]
+  },
+  {
+    "appid": "3730",
+    "name": "Aliens versus Predator",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Rebellion/AvP Classic/User_Profiles"
       }
     ]
   },
@@ -115338,6 +115338,36 @@
     ]
   },
   {
+    "appid": "2100020",
+    "name": "Lou's Lagoon",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Tiny Roar GmbH/Lou's Lagoon/SaveGameVersion_6/*.savegame"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Tiny Roar GmbH/Lou's Lagoon/SlotShared.savegame"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Tiny Roar GmbH/Lou's Lagoon/SaveGameVersion_6/**/*.savegame"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Tiny Roar GmbH/Lou's Lagoon/SlotShared.savegame"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/unity.TinyRoarGmbH.LousLagoon/SaveGameVersion_6/*.savegame"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/unity.TinyRoarGmbH.LousLagoon/SlotShared.savegame"
+      }
+    ]
+  },
+  {
     "appid": "365200",
     "name": "Loud on Planet X",
     "saves": [
@@ -135237,7 +135267,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/NMRiH2/Saved/SaveGames/*.sav"
+        "path": "<LOCAL_APPDATA>/NMRiH2/Saved/SaveGames"
       }
     ]
   },
@@ -176821,7 +176851,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<APPDATA>/Godot/app_userdata/Smashing Bottles/SmashingBottlesSaveData.dat"
+        "path": "<APPDATA>/Godot/app_userdata/Smashing Bottles"
       }
     ]
   },
