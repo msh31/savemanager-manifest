@@ -31962,6 +31962,20 @@
     ]
   },
   {
+    "appid": "2172910",
+    "name": "Captain Tsubasa 2: World Fighters",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/CaptainTsubasa2WF/Saved/SaveGames/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/CaptainTsubasa2WF/Saved/SaveGames/<USER_ID>/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "1163550",
     "name": "Captain Tsubasa: Rise of New Champions",
     "saves": [
@@ -51250,6 +51264,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Game/Profiles/<USER_ID>.pro"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Deer Hunter Tournament",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/DHT/Profiles"
       }
     ]
   },
@@ -213013,7 +213037,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<APPDATA>/TRX/<USER_ID>/*.sav"
+        "path": "<APPDATA>/TRX/savegame.dat"
       },
       {
         "os": "windows",
