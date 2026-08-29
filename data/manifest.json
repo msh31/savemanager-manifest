@@ -116930,6 +116930,16 @@
     ]
   },
   {
+    "appid": "1394930",
+    "name": "MAMIYA",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "38450",
     "name": "MDK",
     "saves": [
