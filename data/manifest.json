@@ -33331,7 +33331,11 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/Cat Quest III/cq3_save*.dat"
+        "path": "<LOCAL_APPDATA>/Cat Quest III/cq3_autosave*.dat"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Cat Quest III/cq3_save*.dat"
       }
     ]
   },
@@ -190024,6 +190028,20 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Super_Catboy/*.dat"
+      }
+    ]
+  },
+  {
+    "appid": "3064060",
+    "name": "Super Chipflake Ü: Quest for the Uncooked Schnitzel",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/.config/unity3d/SalsaShark Studios/ChipflakeOZA/Save/*.sf"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/SalsaShark Studios/ChipflakeOZA/Save/*.sf"
       }
     ]
   },
