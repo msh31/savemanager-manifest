@@ -159092,6 +159092,10 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/2713000/remote"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/FocusHomeInteractiveSA.APlagueTaleFelons_4hny5m903y3g0/SystemAppData/wgs"
       }
     ]
   },
