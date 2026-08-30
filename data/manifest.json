@@ -37898,16 +37898,6 @@
     ]
   },
   {
-    "appid": "3946950",
-    "name": "Click the Button",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/SavesDir/*.sav"
-      }
-    ]
-  },
-  {
     "appid": "3636440",
     "name": "Click to Continue",
     "saves": [
