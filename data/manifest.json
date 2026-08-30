@@ -113606,18 +113606,6 @@
     "name": "Little Rocket Lab",
     "saves": [
       {
-        "os": "linux",
-        "path": "<LINUX_HOME>/.config/unity3d/TeenageAstronauts/LittleRocketLab/*.backup"
-      },
-      {
-        "os": "linux",
-        "path": "<LINUX_HOME>/.config/unity3d/TeenageAstronauts/LittleRocketLab/*.save"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/TeenageAstronauts/LittleRocketLab/*.backup"
-      },
-      {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/TeenageAstronauts/LittleRocketLab/*.save"
       }
@@ -131770,6 +131758,14 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/game/saves"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.renpy/NationalParkGirlsLOPE"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/RenPy/NationalParkGirlsLOPE"
       },
       {
         "os": "windows",
