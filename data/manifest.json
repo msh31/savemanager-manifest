@@ -65554,6 +65554,16 @@
     ]
   },
   {
+    "appid": "2102450",
+    "name": "Enotria: The Last Song",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Enotria/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "1203620",
     "name": "Enshrouded",
     "saves": [
