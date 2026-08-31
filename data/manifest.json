@@ -33680,6 +33680,16 @@
     ]
   },
   {
+    "appid": "1882500",
+    "name": "Cattails: Wildwood Story",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Cattails_Wildwood_Story/saves"
+      }
+    ]
+  },
+  {
     "appid": "2818150",
     "name": "Cattle Country",
     "saves": [
@@ -129168,6 +129178,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Blazing Griffin/Murderous Pursuits"
+      }
+    ]
+  },
+  {
+    "appid": "1746030",
+    "name": "Murders on the Yangtze River",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/OMESCAPE/山河旅探/SaveData"
       }
     ]
   },
