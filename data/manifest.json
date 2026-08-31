@@ -25836,6 +25836,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Blue Dragon (re:Blue)",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/profiles/default/saves"
+      }
+    ]
+  },
+  {
     "appid": "305380",
     "name": "Blue Estate The Game",
     "saves": [
@@ -28204,6 +28214,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Packages/HypeTrainDigital.BreathedgePC_7t701d8q7nf00/SystemAppData/wgs"
+      }
+    ]
+  },
+  {
+    "appid": "2412960",
+    "name": "Breathedge 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Breathedge2Game/Saved/SaveGames/*.sav"
       }
     ]
   },
@@ -95140,6 +95160,16 @@
     ]
   },
   {
+    "appid": "4001890",
+    "name": "How to Fish",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Dazed Games/How to Fish/Saves/*.txt"
+      }
+    ]
+  },
+  {
     "appid": "635790",
     "name": "How to Fool a Liar King",
     "saves": [
@@ -148363,7 +148393,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/Save/<USER_ID>"
+        "path": "<GAME_INSTALL_DIR>/Save/<USER_ID>/*.sav"
       }
     ]
   },
@@ -170234,6 +170264,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/saves"
+      }
+    ]
+  },
+  {
+    "appid": "2067210",
+    "name": "Serious Sam: Shatterverse",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SeriousSamShatterverse/Saved/SaveGames/*.sav"
       }
     ]
   },
@@ -227704,6 +227744,16 @@
       {
         "os": "windows",
         "path": "<APPDATA>/WaveLand/Saves/savefile3.sav"
+      }
+    ]
+  },
+  {
+    "appid": "3930190",
+    "name": "Wavekin",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/PlayerData/*.sav"
       }
     ]
   },
