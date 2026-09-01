@@ -26076,6 +26076,16 @@
     ]
   },
   {
+    "appid": "4152060",
+    "name": "Boardfall Zero",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BoardFall"
+      }
+    ]
+  },
+  {
     "appid": "46000",
     "name": "Bob Came in Pieces",
     "saves": [
@@ -102058,6 +102068,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/data/pc/savegame.txt"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Jackie Chan Stuntmaster (ReChan)",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/userfiles"
       }
     ]
   },
