@@ -56627,6 +56627,16 @@
   },
   {
     "appid": "",
+    "name": "Donkey Kong 64 (DK64: Rekongpiled)",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/DK64Recompiled/saves"
+      }
+    ]
+  },
+  {
+    "appid": "",
     "name": "Donkey Xote",
     "saves": [
       {
