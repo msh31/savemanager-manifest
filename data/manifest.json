@@ -22486,6 +22486,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Big Biz Tycoon",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/VT*.sav"
+      }
+    ]
+  },
+  {
     "appid": "793360",
     "name": "Big Crown: Showdown",
     "saves": [
