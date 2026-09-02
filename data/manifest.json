@@ -507,7 +507,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/Amsterdam/Saved/SaveGames/*.sav"
+        "path": "<LOCAL_APPDATA>/Amsterdam/Saved/SaveGames"
       }
     ]
   },
@@ -43932,6 +43932,16 @@
     ]
   },
   {
+    "appid": "4317690",
+    "name": "Crimson Moon",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/CrimsonMoonNG/Saved/SaveGames/*.*"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Crimson Skies",
     "saves": [
@@ -68788,6 +68798,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/ExtremeBurgerDefense"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Extreme Mountain Biking",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/HighScores.dat"
       }
     ]
   },
@@ -151121,7 +151141,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/save/*.dat"
+        "path": "<APPDATA>/Godot/app_userdata/Sonic and the Secret Rings Remake/saves/*.dat"
       }
     ]
   },
@@ -213781,19 +213801,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/OhNoo Studio/Tormentum II/*.jpg"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/OhNoo Studio/Tormentum II/*.save"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/OhNoo Studio/Tormentum II/*.jpg"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/OhNoo Studio/Tormentum II/*.save"
+        "path": "<USER_PROFILE>/AppData/LocalLow/OhNoo Studio/Tormentum II"
       }
     ]
   },
