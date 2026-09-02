@@ -58097,7 +58097,7 @@
   },
   {
     "appid": "2054970",
-    "name": "Dragon's Dogma II",
+    "name": "Dragon's Dogma 2",
     "saves": [
       {
         "os": "windows",
@@ -198588,6 +198588,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/data/save.ini"
+      }
+    ]
+  },
+  {
+    "appid": "3751260",
+    "name": "The Blood of Dawnwalker",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Dawnwalker/Saved/SaveGames"
       }
     ]
   },
