@@ -89630,6 +89630,24 @@
     ]
   },
   {
+    "appid": "1070500",
+    "name": "He Who Watches",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Danga Games/He Who Watches/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Danga Games/He Who Watches/*.sav"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Danga Games/He Who Watches/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "1761620",
     "name": "Headbangers: Rhythm Royale",
     "saves": [
@@ -156854,6 +156872,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Rebels: Prison Escape",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/savegame"
+      }
+    ]
+  },
+  {
     "appid": "1426500",
     "name": "Reboot",
     "saves": [
@@ -185908,6 +185936,16 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/unity.Indiegala.Stayin Alive/Indiegala/Stayin Alive/*.txt"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Stealth Combat: Ultimate War",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SavedGames"
       }
     ]
   },
