@@ -120060,6 +120060,16 @@
     ]
   },
   {
+    "appid": "3650170",
+    "name": "Marsupilami 2: Salsa Palombia",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Marsu2Steam/Saved/SaveGames/**/Slot *.sav"
+      }
+    ]
+  },
+  {
     "appid": "515960",
     "name": "Martha Is Dead",
     "saves": [
