@@ -8687,7 +8687,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/AFE2/Saved/SaveGames/<USER_ID>/**/*.sav"
+        "path": "<LOCAL_APPDATA>/AFE2/Saved/SaveGames"
       }
     ]
   },
@@ -89004,6 +89004,26 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/game/saves"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Harley-Davidson: Race Across America",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/BESTTIMES.CFG"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Harley-Davidson: Race Around the World",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/HISCORES.CFG"
       }
     ]
   },
