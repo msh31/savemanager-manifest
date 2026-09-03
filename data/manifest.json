@@ -195163,7 +195163,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/TankBattle1944"
+        "path": "<LOCAL_APPDATA>/Tank Battle 1944"
       }
     ]
   },
@@ -229760,16 +229760,6 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/WildIslandQuestUE/Saved/SaveGames/*.sav"
-      }
-    ]
-  },
-  {
-    "appid": "12190",
-    "name": "Wild Metal Country",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/WinEnv/Configs/FrontEnd/PLAYERS"
       }
     ]
   },
