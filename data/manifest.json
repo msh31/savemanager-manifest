@@ -216404,6 +216404,16 @@
     ]
   },
   {
+    "appid": "327520",
+    "name": "Traverser",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Saves/SaveGameState"
+      }
+    ]
+  },
+  {
     "appid": "961490",
     "name": "Travis Strikes Again: No More Heroes",
     "saves": [
