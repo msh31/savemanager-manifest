@@ -43895,6 +43895,10 @@
     "saves": [
       {
         "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Pearl Abyss/CD/save"
+      },
+      {
+        "os": "mac",
         "path": "<OSX_HOME>/Library/Containers/com.pearlabyss.CrimsonDesert/Data/Library/Application Support/Pearl Abyss/CD/save"
       },
       {
