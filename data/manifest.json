@@ -198680,6 +198680,10 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Dawnwalker/Saved/GOGSaveGames"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Dawnwalker/Saved/SaveGames/*.sav"
       }
     ]
   },
