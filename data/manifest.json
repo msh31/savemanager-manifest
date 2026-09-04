@@ -42952,6 +42952,16 @@
     ]
   },
   {
+    "appid": "4334910",
+    "name": "Craving Wisps",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/FireExit/Craving Wisps"
+      }
+    ]
+  },
+  {
     "appid": "293780",
     "name": "Crawl",
     "saves": [
@@ -231166,6 +231176,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Witchtastic/Saved/SaveGames/<USER_ID>"
+      }
+    ]
+  },
+  {
+    "appid": "3441990",
+    "name": "Withering Realms",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Moonless Formless/Withering Realms/<USER_ID>/save*"
       }
     ]
   },
