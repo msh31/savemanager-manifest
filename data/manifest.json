@@ -17971,7 +17971,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "C:/windows/system32/hegames"
+        "path": "<WINDIR>/System32/hegames"
       }
     ]
   },
@@ -18054,6 +18054,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/Atari/Backyard Football 2006/<USER_ID>.pro"
+      }
+    ]
+  },
+  {
+    "appid": "3170590",
+    "name": "Backyard Hockey",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<PUBLICUSER>/Documents/Backyard Hockey Data Files"
       }
     ]
   },
@@ -57040,6 +57050,26 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Dora the Explorer: Backpack Adventure",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/savegame"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Dora the Explorer: Lost City Adventure",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/savegame"
+      }
+    ]
+  },
+  {
     "appid": "2934180",
     "name": "Doraemon Dorayaki Shop Story",
     "saves": [
@@ -57949,7 +57979,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/My Games/DRAGON QUEST VII/Steam/<USER_ID>/release/Saved/SaveGames"
+        "path": "<USER_PROFILE_DOCUMENTS>/My Games/DRAGON QUEST VII/Steam/<USER_ID>/release/Saved/SaveGames/GameSaveData*.sav"
       }
     ]
   },
@@ -142384,6 +142414,16 @@
       {
         "os": "dos",
         "path": "<GAME_INSTALL_DIR>/Pako.sav"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Pako 2 (DOS)",
+    "saves": [
+      {
+        "os": "dos",
+        "path": "<GAME_INSTALL_DIR>/PAKO2.HI"
       }
     ]
   },
@@ -229076,6 +229116,16 @@
     ]
   },
   {
+    "appid": "3905450",
+    "name": "WheelMates",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/CarGame/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "871510",
     "name": "Wheelchair Simulator",
     "saves": [
@@ -236253,7 +236303,23 @@
       },
       {
         "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/Zero Wing 2P/<USER_ID>"
+      },
+      {
+        "os": "windows",
         "path": "<USER_PROFILE>/Saved Games/Zero Wing GoG"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/Zero Wing/<USER_ID>/SaveGames"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/Zero Wing/<USER_ID>/hiscore.bin"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/Zero Wing/<USER_ID>/settings.cfg"
       }
     ]
   },
@@ -236965,7 +237031,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/ZoolRedimensioned/Saved/SaveGames/*.sav"
+        "path": "<APPDATA>/ZoolRedimensioned/savedata.json"
       }
     ]
   },
