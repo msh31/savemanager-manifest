@@ -193560,6 +193560,24 @@
     ]
   },
   {
+    "appid": "4158610",
+    "name": "TFC2: Collapse of The Bronze Age",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Wield Interactive/TFC2/Saves"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Wield Interactive/TFC2/Saves/*.txt"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Wield Interactive/TFC2/Saves"
+      }
+    ]
+  },
+  {
     "appid": "1674820",
     "name": "TFC: The Fertile Crescent",
     "saves": [
