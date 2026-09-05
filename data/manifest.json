@@ -48124,20 +48124,6 @@
     ]
   },
   {
-    "appid": "262060",
-    "name": "Darkest Dungeon",
-    "saves": [
-      {
-        "os": "linux",
-        "path": "<LINUX_HOME>/.local/share/Red Hook Studios/Darkest"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/Darkest/profile_*"
-      }
-    ]
-  },
-  {
     "appid": "37700",
     "name": "Darkest of Days",
     "saves": [
@@ -96938,6 +96924,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/SAVED GAMES"
+      }
+    ]
+  },
+  {
+    "appid": "1802700",
+    "name": "I Told You So!",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/RenPy/ITYS-1603137035"
       }
     ]
   },
@@ -151225,6 +151221,10 @@
     "appid": "",
     "name": "Project Reignition",
     "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/deck/.local/share/godot/app_userdata/Sonic and the Secret Rings Remake/saves/*.dat"
+      },
       {
         "os": "windows",
         "path": "<APPDATA>/Godot/app_userdata/Sonic and the Secret Rings Remake/saves/*.dat"
