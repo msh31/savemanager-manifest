@@ -88234,6 +88234,20 @@
     ]
   },
   {
+    "appid": "3219630",
+    "name": "Halloween: The Game",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Ravage/Saved/SaveGames/STEAM/Campaign*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Ravage/Saved/SaveGames/STEAM/UserSettings*.sav"
+      }
+    ]
+  },
+  {
     "appid": "2218750",
     "name": "Halls of Torment",
     "saves": [
