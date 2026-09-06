@@ -71816,6 +71816,14 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/game/saves"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.renpy/FATAL TWELVE"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/RenPy/FATAL TWELVE"
       }
     ]
   },
