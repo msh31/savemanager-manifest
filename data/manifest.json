@@ -26096,8 +26096,8 @@
     ]
   },
   {
-    "appid": "4152060",
-    "name": "Boardfall Zero",
+    "appid": "4026170",
+    "name": "Boardfall",
     "saves": [
       {
         "os": "windows",
@@ -52340,6 +52340,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/FLARB LLC/DEMON'S TILT/saveData.txt"
+      }
+    ]
+  },
+  {
+    "appid": "2173920",
+    "name": "Demon's Wrath",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SavesDir"
       }
     ]
   },
@@ -121290,6 +121300,16 @@
     ]
   },
   {
+    "appid": "1904030",
+    "name": "Maze Dungeon",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Maze Dungeon_Data/Resources/*.json"
+      }
+    ]
+  },
+  {
     "appid": "894090",
     "name": "Maze Gold Run",
     "saves": [
@@ -170555,11 +170575,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/RustyLake/ServantOfTheLake/Serialization/SaveFiles/**/*.json"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/RustyLake/ServantOfTheLake/Serialization/SaveFiles/*.json"
+        "path": "<USER_PROFILE>/AppData/LocalLow/RustyLake/ServantOfTheLake/Serialization/SaveFiles"
       }
     ]
   },
