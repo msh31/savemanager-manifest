@@ -69338,6 +69338,34 @@
     ]
   },
   {
+    "appid": "1570010",
+    "name": "FAR: Changing Tides",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Okomotive/FarChangingTides"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/FrontierDevelopmentsPlc.FARChangingTidesWindowsEdi_ft442cafaz8hg/SystemAppData/wgs/<USER_ID>"
+      }
+    ]
+  },
+  {
+    "appid": "609320",
+    "name": "FAR: Lone Sails",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Okomotive/FarLoneSails"
+      },
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/609320/remote"
+      }
+    ]
+  },
+  {
     "appid": "696440",
     "name": "FARIA: Starfall",
     "saves": [
@@ -71090,34 +71118,6 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/FarFarWest/Saved/SaveGames"
-      }
-    ]
-  },
-  {
-    "appid": "1570010",
-    "name": "Far: Changing Tides",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Okomotive/FarChangingTides"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/Packages/FrontierDevelopmentsPlc.FARChangingTidesWindowsEdi_ft442cafaz8hg/SystemAppData/wgs/<USER_ID>"
-      }
-    ]
-  },
-  {
-    "appid": "609320",
-    "name": "Far: Lone Sails",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Okomotive/FarLoneSails"
-      },
-      {
-        "os": "windows",
-        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/609320/remote"
       }
     ]
   },
@@ -105406,6 +105406,24 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/ChaosInteractive/KayasProphecy/*.bin"
+      }
+    ]
+  },
+  {
+    "appid": "1950750",
+    "name": "Kayf-Life: Complete Edition",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/klall/save/**/*.hl*"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/klall/save/**/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/klall/save/**/*.tga"
       }
     ]
   },
