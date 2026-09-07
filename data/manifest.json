@@ -55764,6 +55764,24 @@
     ]
   },
   {
+    "appid": "1148130",
+    "name": "Divinum",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Sigil Games/Divinum/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Sigil Games/Divinum/*.sav"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/com.Sigil-Games.Divinum/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "760030",
     "name": "Dizzy Dungeon",
     "saves": [
@@ -231310,16 +231328,6 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Moonless Formless/Withering Realms/<USER_ID>/save*"
-      }
-    ]
-  },
-  {
-    "appid": "2006140",
-    "name": "Withering Rooms",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Moonless Formless/Withering Rooms/<USER_ID>"
       }
     ]
   },
