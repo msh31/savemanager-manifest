@@ -183034,6 +183034,24 @@
     ]
   },
   {
+    "appid": "3748520",
+    "name": "Sprawl Zero",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Silas/Saved/SaveGames/*_CHECKPOINT.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Silas/Saved/SaveGames/Achievements.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Silas/Saved/SaveGames/Profiles.sav"
+      }
+    ]
+  },
+  {
     "appid": "967960",
     "name": "Spray Dynamite X Radioactive Insects",
     "saves": [
