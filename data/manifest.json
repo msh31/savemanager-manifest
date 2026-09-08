@@ -170620,6 +170620,10 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/RustyLake/ServantOfTheLake/Serialization/SaveFiles"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/RustyLake/ServantOfTheLake/Serialization/SaveFiles"
       }
     ]
   },
@@ -232866,6 +232870,20 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/AdvKitExamples/Saved/SavedGames/*.sav"
+      }
+    ]
+  },
+  {
+    "appid": "3547270",
+    "name": "Worming from Home",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Zach and Mason/Worming from Home/*.json"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Zach and Mason/Worming from Home/*.json"
       }
     ]
   },
