@@ -139240,6 +139240,10 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/3974650/remote/win64_save"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Capcom/OnimushaWotS/<USER_ID>"
       }
     ]
   },
