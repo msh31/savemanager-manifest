@@ -57116,6 +57116,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Dora the Explorer: World Adventure!",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SAVED"
+      }
+    ]
+  },
+  {
     "appid": "2934180",
     "name": "Doraemon Dorayaki Shop Story",
     "saves": [
@@ -64596,6 +64606,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Hot Chili Games/Elypse/Elypse_Save.s"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Elysium",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Elysium/Saved/SaveGames"
       }
     ]
   },
