@@ -27576,6 +27576,24 @@
     ]
   },
   {
+    "appid": "4335460",
+    "name": "Boxroom",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/NestedLoop/BOXROOM/Saves"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/NestedLoop/BOXROOM/Saves"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/NestedLoop/BOXROOM/Saves"
+      }
+    ]
+  },
+  {
     "appid": "1750710",
     "name": "Boxville",
     "saves": [
@@ -187153,11 +187171,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/Local/StoneShard/characters_v1/*.map"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/Local/StoneShard/characters_v1/*.sav"
+        "path": "<USER_PROFILE>/AppData/Local/StoneShard/characters_v1"
       }
     ]
   },
@@ -225986,6 +226000,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/HFTGames/WanderLust"
+      }
+    ]
+  },
+  {
+    "appid": "3624140",
+    "name": "Wanderburg",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Randwerk/Wanderburg"
       }
     ]
   },
