@@ -28938,6 +28938,16 @@
     ]
   },
   {
+    "appid": "3886200",
+    "name": "BrokenLore: Don't Lie",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/DontLie/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "2351330",
     "name": "BrokenLore: Don't Watch",
     "saves": [
@@ -43987,6 +43997,10 @@
     "appid": "4317690",
     "name": "Crimson Moon",
     "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/CrimsonMoonNG/Saved/SaveGames/*.*"
+      },
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/CrimsonMoonNG/Saved/SaveGames/*.*"
@@ -72551,7 +72565,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/Fernbus/Saved"
+        "path": "<LOCAL_APPDATA>/Fernbus/Saved/Profiles"
       }
     ]
   },
@@ -94846,6 +94860,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/Hot Wheels"
+      }
+    ]
+  },
+  {
+    "appid": "2821390",
+    "name": "Hot Wheels: Infinite Rush",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Hotwheels3/Saved/SaveGames/**/*.sav"
       }
     ]
   },
@@ -226694,6 +226718,16 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/Gembasher Studio/Wardens of the Amber Cage/*.wotac.save"
+      }
+    ]
+  },
+  {
+    "appid": "1867240",
+    "name": "Wardogs",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Wardogs/Saved/SaveGames"
       }
     ]
   },
