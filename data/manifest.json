@@ -114652,6 +114652,16 @@
     ]
   },
   {
+    "appid": "4715320",
+    "name": "Loop Miner",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Loop_Miner/*.ini"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Loophole: Skrattmagi och glädjetjuvar",
     "saves": [
@@ -198220,6 +198230,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/user/savegames"
+      }
+    ]
+  },
+  {
+    "appid": "4262620",
+    "name": "The Alighieri Circle: Dante's Bloodline",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/TheAlighieriCircle"
       }
     ]
   },
