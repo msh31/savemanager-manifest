@@ -58012,6 +58012,16 @@
     ]
   },
   {
+    "appid": "4027450",
+    "name": "Dragon Quest Heroes: Torneko's Mystery Dungeon -Classic HD-",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/SquareEnix/TornekosMysteryDungeon/Steam/<USER_ID>/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "2893570",
     "name": "Dragon Quest I & II HD-2D Remake",
     "saves": [
