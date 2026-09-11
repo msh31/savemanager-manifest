@@ -214806,6 +214806,16 @@
     ]
   },
   {
+    "appid": "4659620",
+    "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/replay"
+      }
+    ]
+  },
+  {
     "appid": "2493340",
     "name": "Touhou La La Dui",
     "saves": [
