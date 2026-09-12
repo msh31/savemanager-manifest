@@ -24058,6 +24058,16 @@
     ]
   },
   {
+    "appid": "3639070",
+    "name": "Blackwood",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/AttritoM7 Productions/Blackwood/blackwood.sav"
+      }
+    ]
+  },
+  {
     "appid": "513370",
     "name": "Blade & Bones",
     "saves": [
