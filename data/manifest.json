@@ -64538,6 +64538,16 @@
     ]
   },
   {
+    "appid": "3247290",
+    "name": "Ellingby House",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Jepfore Games Limited/Ellingby House/saved_games"
+      }
+    ]
+  },
+  {
     "appid": "293440",
     "name": "Elliot Quest",
     "saves": [
@@ -180084,6 +180094,20 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/com.GameSmithing.SoulstoneSurvivors"
+      }
+    ]
+  },
+  {
+    "appid": "4432150",
+    "name": "Soulstonia",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/EpicRuneTime/Saved/SaveGames"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/RuneTime/Saved/SaveGames"
       }
     ]
   },
