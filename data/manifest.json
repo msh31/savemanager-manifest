@@ -52512,6 +52512,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Demonworld: Dark Armies",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "2524850",
     "name": "Denshattack!",
     "saves": [
@@ -178217,6 +178227,10 @@
     "appid": "2738490",
     "name": "Sol Cesto",
     "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/SolCesto/EBWebView/Default"
+      },
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/SolCesto/User Data/Default"
