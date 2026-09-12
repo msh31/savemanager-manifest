@@ -10925,6 +10925,16 @@
   },
   {
     "appid": "",
+    "name": "Anime Shop Simulator",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/OneMoreTime/Anime Shop Simulator"
+      }
+    ]
+  },
+  {
+    "appid": "",
     "name": "Animorphs: Know the Secret",
     "saves": [
       {
@@ -173578,6 +173588,24 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Saved Games"
+      }
+    ]
+  },
+  {
+    "appid": "3271280",
+    "name": "Shroom and Gloom",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SaveData/Fu<USER_ID>/**/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Team Lazerbeam/Shroom and Gloom/SaveData/Fu<USER_ID>/**/*.json"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Team Lazerbeam/Shroom and Gloom/SaveData/Fu<USER_ID>/**/*.json"
       }
     ]
   },
