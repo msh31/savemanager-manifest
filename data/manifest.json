@@ -80718,6 +80718,28 @@
     ]
   },
   {
+    "appid": "3892270",
+    "name": "Gamble With Your Friends",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/TENSTACK/Gamble With Your Friends/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/TENSTACK/Gamble With Your Friends/Saves/*.json"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/TENSTACK/Gamble With Your Friends/*.json"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/TENSTACK/Gamble With Your Friends/Saves/*.json"
+      }
+    ]
+  },
+  {
     "appid": "3509230",
     "name": "Gambonanza",
     "saves": [
