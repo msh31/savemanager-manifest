@@ -94852,6 +94852,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Hot Rod: Garage to Glory",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Saves/<USER_ID>.sav"
+      }
+    ]
+  },
+  {
     "appid": "801750",
     "name": "Hot Shot Burn",
     "saves": [
