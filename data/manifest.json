@@ -214929,7 +214929,11 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/replay"
+        "path": "<GAME_INSTALL_DIR>/replay/*.rpy"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/score.dat"
       }
     ]
   },
