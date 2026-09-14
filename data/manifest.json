@@ -157010,6 +157010,16 @@
     ]
   },
   {
+    "appid": "1473060",
+    "name": "Reality Break",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Element Games/Reality Break"
+      }
+    ]
+  },
+  {
     "appid": "813820",
     "name": "Realm Royale Reforged",
     "saves": [
