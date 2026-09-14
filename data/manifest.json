@@ -100834,6 +100834,16 @@
     ]
   },
   {
+    "appid": "1383770",
+    "name": "Interstate Drifter 1999",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Interstate_Drifter_1999"
+      }
+    ]
+  },
+  {
     "appid": "1280950",
     "name": "Interstate Drifter 2000",
     "saves": [
@@ -132400,6 +132410,20 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/NearEscpaeSave"
+      }
+    ]
+  },
+  {
+    "appid": "4300090",
+    "name": "Neat!",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Korova games/Neat/Saves/*.json"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Korova games/Neat/Saves/*.json"
       }
     ]
   },
