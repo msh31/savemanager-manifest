@@ -10924,7 +10924,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3393280",
     "name": "Anime Shop Simulator",
     "saves": [
       {
@@ -100834,6 +100834,16 @@
     ]
   },
   {
+    "appid": "1280950",
+    "name": "Interstate Drifter 2000",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Interstate_Drifter_2000"
+      }
+    ]
+  },
+  {
     "appid": "236370",
     "name": "Interstellar Marines",
     "saves": [
@@ -138788,6 +138798,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/RB Wolf Design/Once Again/save.oa"
+      }
+    ]
+  },
+  {
+    "appid": "2336440",
+    "name": "Once Alive",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Once_Alive/Saved/SaveGames/*Slot*.sav"
       }
     ]
   },
@@ -191082,6 +191102,10 @@
       {
         "os": "windows",
         "path": "<APPDATA>/SMB1R/saves"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/SMB1R/saves"
       }
     ]
   },
