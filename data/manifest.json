@@ -52254,6 +52254,16 @@
     ]
   },
   {
+    "appid": "3526830",
+    "name": "Demon Goblin and Mr. Knight",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Goblin Lili & Mr. Knight/save/**/*.rmmzsave"
+      }
+    ]
+  },
+  {
     "appid": "3039910",
     "name": "Demon Hunt",
     "saves": [
@@ -78500,6 +78510,16 @@
       {
         "os": "windows",
         "path": "<APPDATA>/RenPy/FriendshipwithBenefits"
+      }
+    ]
+  },
+  {
+    "appid": "4132890",
+    "name": "Fright Train",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/FrightTrain/Saved/SaveGames/*.sav"
       }
     ]
   },
@@ -112164,6 +112184,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Rockbee/Lessaria RTS/Saves/*.txt"
+      }
+    ]
+  },
+  {
+    "appid": "794600",
+    "name": "Let It Die",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Savedata/<USER_ID>/brggame.*"
       }
     ]
   },
@@ -193942,6 +193972,10 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/OPNeonGames/Card Shop Simulator/savedGames_*"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/OPNEONGAMES.TCGCardShopSimulator_19j6by82ahhzr/SystemAppData/wgs"
       }
     ]
   },
@@ -216290,6 +216324,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/My Games/TrainSimWorld6/Saved/SaveGames"
+      }
+    ]
+  },
+  {
+    "appid": "4678800",
+    "name": "Train Sim World 7",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/My Games/TrainSimWorld7/Saved/SaveGames/<USER_ID>/*.sav"
       }
     ]
   },
