@@ -3718,6 +3718,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "ALIS",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Alis/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "1134450",
     "name": "ALLBLACK Phase 1",
     "saves": [
@@ -89381,6 +89391,10 @@
     "appid": "",
     "name": "Harry Potter and the Prisoner of Azkaban",
     "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/Harry Potter and the Prisoner of Azkaban/Save"
+      },
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/Harry Potter™ and the Prisoner of Azkaban/Save"
