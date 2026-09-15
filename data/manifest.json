@@ -22104,6 +22104,18 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/data/screenshots"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.var/app/info.beyondallreason.bar/data/Saves"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.var/app/info.beyondallreason.bar/data/demos"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.var/app/info.beyondallreason.bar/data/screenshots"
       }
     ]
   },
@@ -78478,6 +78490,16 @@
       {
         "os": "windows",
         "path": "<APPDATA>/RenPy/FriendshipwithBenefits"
+      }
+    ]
+  },
+  {
+    "appid": "276750",
+    "name": "Fritz Chess 14",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/ChessBase/MyWork"
       }
     ]
   },
@@ -232434,6 +232456,16 @@
       {
         "os": "windows",
         "path": "<APPDATA>/Upper Byte/Wooden Sen'Sey"
+      }
+    ]
+  },
+  {
+    "appid": "299460",
+    "name": "Woodle Tree Adventures",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Administrator/WoodleTree/prefs"
       }
     ]
   },
