@@ -8618,22 +8618,22 @@
     ]
   },
   {
-    "appid": "",
-    "name": "Aliens Versus Predator 2",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/Save/Player_0"
-      }
-    ]
-  },
-  {
     "appid": "3730",
     "name": "Aliens versus Predator",
     "saves": [
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Rebellion/AvP Classic/User_Profiles"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Aliens versus Predator 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Save/Player_0"
       }
     ]
   },
@@ -177770,6 +177770,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Cleverweek/Snik/savedata.txt"
+      }
+    ]
+  },
+  {
+    "appid": "4323130",
+    "name": "Sniper Camouflage Orange Spy Warrior I Buried Two Bodies in the Garden and the Police Haven't Figured Out Yet That They're Missing Because They Were a Lonely Old Couple Who Had No Relatives Simulator 2026",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/TheOnlyWayOut/Sniper Simulator 2026"
       }
     ]
   },
