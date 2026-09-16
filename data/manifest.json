@@ -129288,6 +129288,16 @@
     ]
   },
   {
+    "appid": "2272800",
+    "name": "Mr. Pogo",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Mr_Pogo"
+      }
+    ]
+  },
+  {
     "appid": "761830",
     "name": "Mr. Prepper",
     "saves": [
