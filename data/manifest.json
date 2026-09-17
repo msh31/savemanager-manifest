@@ -105928,6 +105928,16 @@
     ]
   },
   {
+    "appid": "2902170",
+    "name": "Kernel Hearts",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/MahouPrototype/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Kevin Sheedy's AFL Coach 2002",
     "saves": [
