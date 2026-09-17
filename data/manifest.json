@@ -74160,6 +74160,16 @@
     ]
   },
   {
+    "appid": "4221990",
+    "name": "Fish Lab",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Fish Lab/save_game_*.bin"
+      }
+    ]
+  },
+  {
     "appid": "3602600",
     "name": "Fish Season",
     "saves": [
@@ -180960,6 +180970,28 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/AtomicJelly/SpaceMechanicSimulator/SavedGames/*.smssave"
+      }
+    ]
+  },
+  {
+    "appid": "2000040",
+    "name": "Space Menace",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Only4Gamers/Space Menace/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Only4Gamers/Space Menace/SaveFiles/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Library/Application Support/Only4Gamers/Space Menace/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Library/Application Support/Only4Gamers/Space Menace/SaveFiles/*.json"
       }
     ]
   },
