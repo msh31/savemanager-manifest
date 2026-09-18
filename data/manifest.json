@@ -113466,6 +113466,10 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/48000/remote"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/16902PlaydeadAPS.PlaydeadsLIMBO_2m6wzp0cmt084/SystemAppData/wgs"
       }
     ]
   },
