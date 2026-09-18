@@ -25274,6 +25274,16 @@
     ]
   },
   {
+    "appid": "4673270",
+    "name": "Blood Moon Serenade: Complete Edition",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/BloodMoonSerenade/saves/*.json"
+      }
+    ]
+  },
+  {
     "appid": "1638660",
     "name": "Blood Spear",
     "saves": [
@@ -186962,6 +186972,10 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/My Games/mages_steam/STEINS;GATE REBOOT/<USER_ID>/*.txt"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/My Games/mages_steam/STEINS;GATE REBOOT/<USER_ID>/SG_Octet"
       }
     ]
   },
