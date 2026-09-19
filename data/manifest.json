@@ -10470,6 +10470,16 @@
     ]
   },
   {
+    "appid": "1071510",
+    "name": "And All Would Cry Beware!",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Renegade Sector Games/AndAllWouldCryBeware/AndAllWouldCryBeware*.sav"
+      }
+    ]
+  },
+  {
     "appid": "3308870",
     "name": "And Roger",
     "saves": [
@@ -40749,7 +40759,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/ConanSandbox/Saved"
+        "path": "<GAME_INSTALL_DIR>/ConanSandbox/Saved/*.db"
       }
     ]
   },
@@ -177818,6 +177828,24 @@
     ]
   },
   {
+    "appid": "2841650",
+    "name": "Sniper Dan",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Denki Ltd/Sniper Dan/Continue.txt"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Denki Ltd/Sniper Dan/Photos/*.jpg"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Denki Ltd/Sniper Dan/Progress.txt"
+      }
+    ]
+  },
+  {
     "appid": "312660",
     "name": "Sniper Elite 4",
     "saves": [
@@ -202444,6 +202472,16 @@
     ]
   },
   {
+    "appid": "3470930",
+    "name": "The Grinch 2: Saving Christmas",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Casual Brothers/The Grinch 2 Saving Christmas"
+      }
+    ]
+  },
+  {
     "appid": "416610",
     "name": "The Growth Journey",
     "saves": [
@@ -221496,6 +221534,20 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/CoopPuzzle/Saved/SaveGames"
+      }
+    ]
+  },
+  {
+    "appid": "3387160",
+    "name": "United Heist: Facility Zero",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/\"United Heist- Facility Zero\"/*.tres"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/United Heist- Facility Zero/*.tres"
       }
     ]
   },
