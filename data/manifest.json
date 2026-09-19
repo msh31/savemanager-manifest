@@ -74224,6 +74224,16 @@
     ]
   },
   {
+    "appid": "4350360",
+    "name": "Fishing Star World Tour",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/fws/fishingstarworldtour/save"
+      }
+    ]
+  },
+  {
     "appid": "660560",
     "name": "Fishing on the Fly",
     "saves": [
