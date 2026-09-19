@@ -3850,6 +3850,10 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Gato_Salvaje/ark1/datos.txt"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Gato_Salvaje/ark2/datos.txt"
       }
     ]
   },
