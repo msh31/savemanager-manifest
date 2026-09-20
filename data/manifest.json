@@ -95160,6 +95160,16 @@
     ]
   },
   {
+    "appid": "832360",
+    "name": "Hotel Magnate",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Arcade Oven/Hotel Magnate/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "1061850",
     "name": "Hotel Mogul: Las Vegas",
     "saves": [
@@ -183584,6 +183594,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Content/*.bin"
+      }
+    ]
+  },
+  {
+    "appid": "2730270",
+    "name": "Sputnika Game",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/egunan/SputnikaGame/Saves/*.json"
       }
     ]
   },
