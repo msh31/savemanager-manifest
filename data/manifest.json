@@ -12484,6 +12484,24 @@
     ]
   },
   {
+    "appid": "297330",
+    "name": "Arcadecraft",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/SavedGames/Arcadecraft/Arcadecraft Save 1_0/Player1/ArcadeGame.txt"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/SavedGames/Arcadecraft/Arcadecraft Save 1_0/Player1/Milestones.txt"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/SavedGames/Arcadecraft/Arcadecraft Save 1_0/Player1/Scores.txt"
+      }
+    ]
+  },
+  {
     "appid": "1515640",
     "name": "Arcadegeddon",
     "saves": [
