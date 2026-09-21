@@ -3858,6 +3858,16 @@
     ]
   },
   {
+    "appid": "368890",
+    "name": "AR-K: The Great Escape",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Gato Salvaje/ArkIII"
+      }
+    ]
+  },
+  {
     "appid": "948100",
     "name": "AREA 4643",
     "saves": [
@@ -75283,6 +75293,10 @@
     "appid": "966330",
     "name": "Flower",
     "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/Flower/SAVEGAME.BIN"
+      },
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/GOG.com/Galaxy/Applications/51964741675694916/Storage/Shared/Files/SAVEGAME.BIN"
