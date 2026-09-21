@@ -13020,6 +13020,16 @@
     ]
   },
   {
+    "appid": "314360",
+    "name": "Aritana and the Harpy's Feather",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/aritana_Data/data*.dk"
+      }
+    ]
+  },
+  {
     "appid": "342180",
     "name": "Arizona Sunshine",
     "saves": [
@@ -14122,6 +14132,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/ASCENXION/Savefile.ini"
+      }
+    ]
+  },
+  {
+    "appid": "406110",
+    "name": "Asdivine Hearts",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/AsdivineHearts_Data/save/savedata*"
       }
     ]
   },
@@ -113068,6 +113088,16 @@
     ]
   },
   {
+    "appid": "4090260",
+    "name": "Lifeguard Holic",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BigSStudio/Lifeguard Holic"
+      }
+    ]
+  },
+  {
     "appid": "419520",
     "name": "Lifeless",
     "saves": [
@@ -124132,6 +124162,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Users"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Micro Machines V3",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/savetest.bin"
       }
     ]
   },
@@ -157510,6 +157550,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/save.db"
+      }
+    ]
+  },
+  {
+    "appid": "3112280",
+    "name": "Reclaiming the Lost",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/game/saves"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/game/saves"
       }
     ]
   },
