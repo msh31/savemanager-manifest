@@ -67376,6 +67376,24 @@
     ]
   },
   {
+    "appid": "5095280",
+    "name": "Eternity Lost: Mystery of Aurum",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/userData/*.backup"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/userData/*.bin"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/userData/*.diff"
+      }
+    ]
+  },
+  {
     "appid": "664090",
     "name": "Eternity Warriors VR",
     "saves": [
@@ -113107,7 +113125,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/BigSStudio/Lifeguard Holic"
+        "path": "<USER_PROFILE>/AppData/LocalLow/BigSStudio/Lifeguard Holic/Saves"
       }
     ]
   },
