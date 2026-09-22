@@ -32296,6 +32296,16 @@
     ]
   },
   {
+    "appid": "992840",
+    "name": "Car Wash Simulator",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/MajesticTwelve/CarWashSimulator/**/*.es3"
+      }
+    ]
+  },
+  {
     "appid": "369360",
     "name": "Car Washer: Summer of the Ninja",
     "saves": [
@@ -39284,20 +39294,6 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Toge Productions/CTHB/SaveData/Steam/<USER_ID>"
-      }
-    ]
-  },
-  {
-    "appid": "3161220",
-    "name": "Coffee Talk Tokyo",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Chorus Worldwide/CTT/SaveData/Steam/<USER_ID>"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/Chorus Worldwide/CTT/SaveData/Steam/<USER_ID>"
       }
     ]
   },
@@ -48836,6 +48832,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/Davigo"
+      }
+    ]
+  },
+  {
+    "appid": "2611170",
+    "name": "Davy X Jones",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/DAVYxJONES/Saved/SaveGames/*.sh.sav"
       }
     ]
   },
@@ -106047,7 +106053,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/MahouPrototype/Saved/SaveGames/*.sav"
+        "path": "<LOCAL_APPDATA>/MahouPrototype/Saved/SaveGames"
       }
     ]
   },
@@ -150660,6 +150666,16 @@
     ]
   },
   {
+    "appid": "1088190",
+    "name": "Prison Simulator VR",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/PlayWay/Prison Simulator VR/Data"
+      }
+    ]
+  },
+  {
     "appid": "1515460",
     "name": "Prison Tycoon: Under New Management",
     "saves": [
@@ -153622,6 +153638,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/CaiKaiYouXi/QiQiang/level"
+      }
+    ]
+  },
+  {
+    "appid": "3882410",
+    "name": "Qliphah in Providence's Shadow",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Saved/SaveGames/<USER_ID>"
       }
     ]
   },
@@ -174834,6 +174860,24 @@
       {
         "os": "windows",
         "path": "<PUBLICUSER>/Public Documents/Silent Hill Homecoming/shv_save.bin"
+      }
+    ]
+  },
+  {
+    "appid": "1636440",
+    "name": "Silent Hill: Townfall",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Townfall/Saved/SaveGames/ProfileData.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Townfall/Saved/SaveGames/SaveGame.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Townfall/Saved/SaveGames/SaveGameSlot*.sav"
       }
     ]
   },
