@@ -65527,7 +65527,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/Endless Legend 2/Save Files"
+        "path": "<LOCAL_APPDATA>/Amplitude Studios/Endless Legend 2/Save Files"
       }
     ]
   },
