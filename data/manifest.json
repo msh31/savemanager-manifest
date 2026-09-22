@@ -56862,6 +56862,10 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/DK64Recompiled/saves"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/DK64Recompiled/saves"
       }
     ]
   },
@@ -59424,6 +59428,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Dress-up Traveller_Data/SaveFile"
+      }
+    ]
+  },
+  {
+    "appid": "4019220",
+    "name": "Dressmaker",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Cozy Lives/Dressmaker"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Documents/Cozy Lives/Dressmaker"
       }
     ]
   },
@@ -85818,6 +85836,20 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/Lazy Bear Games/Graveyard Keeper"
+      }
+    ]
+  },
+  {
+    "appid": "4358690",
+    "name": "Graveyard Keeper 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Lazy Bear Games/Graveyard Keeper 2/*.dat"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Lazy Bear Games/Graveyard Keeper 2/*.info"
       }
     ]
   },
@@ -144286,6 +144318,20 @@
     ]
   },
   {
+    "appid": "3275400",
+    "name": "Patlabor the Case Files",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/deck/.local/share/Steam/steamapps/compatdata/3275400/pfx/drive_c/users/steamuser/Documents/My Games/Patlabor/Saved/SaveGames/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Patlabor/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "682080",
     "name": "Pato Box",
     "saves": [
@@ -162064,6 +162110,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/WhitePeach/RitualSummon/STData"
+      }
+    ]
+  },
+  {
+    "appid": "4094660",
+    "name": "Rivage",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Rivage/Saved/SaveGames/**/*.sav"
       }
     ]
   },
@@ -202684,6 +202740,16 @@
     ]
   },
   {
+    "appid": "2977260",
+    "name": "The Guild 1 Remake: Europa 1410",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Europa1410/Saved/SaveGames/Games/**/*.*"
+      }
+    ]
+  },
+  {
     "appid": "311260",
     "name": "The Guild 3",
     "saves": [
@@ -229540,6 +229606,28 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/Welkin Road/<USER_ID>/SaveGame.dat"
+      }
+    ]
+  },
+  {
+    "appid": "3699590",
+    "name": "Well Dweller",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/WellDweller"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/WellDweller/*.sav"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/WellDweller"
+      },
+      {
+        "os": "windows",
+        "path": "<XDG_CONFIG_HOME>/WellDweller/**/*.sav"
       }
     ]
   },
