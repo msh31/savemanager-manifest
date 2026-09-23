@@ -86526,6 +86526,84 @@
     ]
   },
   {
+    "appid": "2621930",
+    "name": "Grim Trials",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Steam/steamapps/compatdata/2621930/pfx/drive_c/users/steamuser/AppData/LocalLow/Glory Jam/Grim Trials/save/*.achievement"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Steam/steamapps/compatdata/2621930/pfx/drive_c/users/steamuser/AppData/LocalLow/Glory Jam/Grim Trials/save/*.collection"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Steam/steamapps/compatdata/2621930/pfx/drive_c/users/steamuser/AppData/LocalLow/Glory Jam/Grim Trials/save/*.conversion"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Steam/steamapps/compatdata/2621930/pfx/drive_c/users/steamuser/AppData/LocalLow/Glory Jam/Grim Trials/save/*.inventory"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Steam/steamapps/compatdata/2621930/pfx/drive_c/users/steamuser/AppData/LocalLow/Glory Jam/Grim Trials/save/*.itemUpgrader"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Steam/steamapps/compatdata/2621930/pfx/drive_c/users/steamuser/AppData/LocalLow/Glory Jam/Grim Trials/save/*.playtime"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Steam/steamapps/compatdata/2621930/pfx/drive_c/users/steamuser/AppData/LocalLow/Glory Jam/Grim Trials/save/*.quest"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Steam/steamapps/compatdata/2621930/pfx/drive_c/users/steamuser/AppData/LocalLow/Glory Jam/Grim Trials/save/*.skilltree"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Steam/steamapps/compatdata/2621930/pfx/drive_c/users/steamuser/AppData/LocalLow/Glory Jam/Grim Trials/save/*.yarnstorage"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Glory Jam/Grim Trials/save/*.achievement"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Glory Jam/Grim Trials/save/*.collection"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Glory Jam/Grim Trials/save/*.conversion"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Glory Jam/Grim Trials/save/*.inventory"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Glory Jam/Grim Trials/save/*.itemUpgrader"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Glory Jam/Grim Trials/save/*.playtime"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Glory Jam/Grim Trials/save/*.quest"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Glory Jam/Grim Trials/save/*.skilltree"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Glory Jam/Grim Trials/save/*.yarnstorage"
+      }
+    ]
+  },
+  {
     "appid": "734450",
     "name": "Grimante",
     "saves": [
