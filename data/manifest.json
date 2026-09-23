@@ -141226,6 +141226,20 @@
     ]
   },
   {
+    "appid": "3861710",
+    "name": "Otterly Lost",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/SoulworksInteractive/OtterlyLost/*.bac"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/SoulworksInteractive/OtterlyLost/*.save"
+      }
+    ]
+  },
+  {
     "appid": "2026000",
     "name": "Our Adventurer Guild",
     "saves": [
@@ -177738,6 +177752,36 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Friedemann/SlotsAndDaggers/Save"
+      }
+    ]
+  },
+  {
+    "appid": "3431300",
+    "name": "Slow Roads",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/slowroads/profiles/*.roads"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/slowroads/radio-streams.json"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/slowroads/profiles/*.roads"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/slowroads/radio-streams.json"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/slowroads/profiles/*.roads"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/slowroads/radio-streams.json"
       }
     ]
   },
