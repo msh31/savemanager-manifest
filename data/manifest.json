@@ -41718,6 +41718,16 @@
     ]
   },
   {
+    "appid": "3669870",
+    "name": "Control Resonant",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/3669870/remote"
+      }
+    ]
+  },
+  {
     "appid": "1154210",
     "name": "Convenience Store",
     "saves": [
@@ -64802,7 +64812,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "5219090",
     "name": "Elysium",
     "saves": [
       {
@@ -118354,6 +118364,20 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Eggcode/Mad Games Tycoon 2"
+      }
+    ]
+  },
+  {
+    "appid": "2369580",
+    "name": "Mad King Redemption",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/SECRET MISSION/Mad King Redemption/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/SECRET MISSION/Mad King Redemption/gamesettings.json"
       }
     ]
   },
@@ -175003,15 +175027,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/Townfall/Saved/SaveGames/ProfileData.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/Townfall/Saved/SaveGames/SaveGame.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/Townfall/Saved/SaveGames/SaveGameSlot*.sav"
+        "path": "<USER_PROFILE>/AppData/Local/Townfall/Saved/SaveGames"
       }
     ]
   },
@@ -207784,6 +207800,16 @@
       {
         "os": "windows",
         "path": "<PUBLICUSER>/Documents/City Interactive/Royal Marines Commando/Save"
+      }
+    ]
+  },
+  {
+    "appid": "3333700",
+    "name": "The Royal Writ",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/TheRoyalWrit/*.save"
       }
     ]
   },
