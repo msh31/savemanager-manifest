@@ -93698,6 +93698,16 @@
     ]
   },
   {
+    "appid": "3789080",
+    "name": "Hirotonfa's American Revolution Smuggler",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/HIROTONFA_AmericanRevolutionSmuggler/*.rmmzsave"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "History Civil War: Secret Missions",
     "saves": [
@@ -174356,6 +174366,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/SE1/SAVE"
+      }
+    ]
+  },
+  {
+    "appid": "632950",
+    "name": "SiN Reloaded",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/Nightdive Studios/SiN Reloaded/base/save/*.pak.zst"
       }
     ]
   },
