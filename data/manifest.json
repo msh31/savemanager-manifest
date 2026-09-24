@@ -101140,6 +101140,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Interstate '82",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/save"
+      }
+    ]
+  },
+  {
     "appid": "1383770",
     "name": "Interstate Drifter 1999",
     "saves": [
