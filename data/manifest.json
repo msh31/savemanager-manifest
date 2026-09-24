@@ -8324,6 +8324,16 @@
     ]
   },
   {
+    "appid": "4870460",
+    "name": "Alien Breed 35th Anniversary Collection",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Antstream/Alien Breed"
+      }
+    ]
+  },
+  {
     "appid": "22670",
     "name": "Alien Breed 3: Descent",
     "saves": [
@@ -235658,6 +235668,20 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/DigitalWolfByte/Yerah/*.octo"
+      }
+    ]
+  },
+  {
+    "appid": "2330110",
+    "name": "Yerba Buena",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Mad About Pandas/YerbaBuena Demo/savegame.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Mad About Pandas/YerbaBuena/savegame.json"
       }
     ]
   },
