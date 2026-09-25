@@ -97421,7 +97421,15 @@
     "saves": [
       {
         "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BunchoNerds/I Know a Guy/Save_*.jpg"
+      },
+      {
+        "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/BunchoNerds/I Know a Guy/Save_*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BunchoNerds/I Know a Guy/SavedPhotos/*.jpg"
       },
       {
         "os": "windows",
@@ -183873,15 +183881,11 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/Silas/Saved/SaveGames/*_CHECKPOINT.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/Silas/Saved/SaveGames/Achievements.sav"
-      },
-      {
-        "os": "windows",
         "path": "<LOCAL_APPDATA>/Silas/Saved/SaveGames/Profiles.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Silas/Saved/SaveGames/SlotX_CHECKPOINT.sav"
       }
     ]
   },
@@ -230972,6 +230976,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/GameData/<USER_ID>/**/*.dat"
+      }
+    ]
+  },
+  {
+    "appid": "3222640",
+    "name": "Wild West Pioneers",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Toplitz Productions/WildWestPioneers/Saves/*.wwp"
       }
     ]
   },
