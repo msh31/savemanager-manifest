@@ -16994,6 +16994,16 @@
     ]
   },
   {
+    "appid": "750200",
+    "name": "Away: The Survival Series",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Away/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "371450",
     "name": "Awe",
     "saves": [
@@ -174383,6 +174393,10 @@
     "appid": "632950",
     "name": "SiN Reloaded",
     "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/Nightdive Studios/SiN Reloaded"
+      },
       {
         "os": "windows",
         "path": "<USER_PROFILE>/Saved Games/Nightdive Studios/SiN Reloaded/base/save/*.pak.zst"
