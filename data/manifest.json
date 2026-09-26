@@ -197900,6 +197900,16 @@
     ]
   },
   {
+    "appid": "368600",
+    "name": "Terra Nova: Strike Force Centauri",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/TNOVA/*.RES"
+      }
+    ]
+  },
+  {
     "appid": "2290000",
     "name": "TerraScape",
     "saves": [
