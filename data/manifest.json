@@ -12509,15 +12509,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/SavedGames/Arcadecraft/Arcadecraft Save 1_0/Player1/ArcadeGame.txt"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/SavedGames/Arcadecraft/Arcadecraft Save 1_0/Player1/Milestones.txt"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/SavedGames/Arcadecraft/Arcadecraft Save 1_0/Player1/Scores.txt"
+        "path": "<USER_PROFILE_DOCUMENTS>/SavedGames/Arcadecraft"
       }
     ]
   },
@@ -16426,6 +16418,16 @@
     ]
   },
   {
+    "appid": "757870",
+    "name": "Australian Trip",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/AustralianTrip/User Data/Default/IndexedDB"
+      }
+    ]
+  },
+  {
     "appid": "1038830",
     "name": "Author Clicker",
     "saves": [
@@ -17240,6 +17242,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/GAME/AZRAEL"
+      }
+    ]
+  },
+  {
+    "appid": "37100",
+    "name": "Aztaka",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Aztaka/Profiles"
       }
     ]
   },
@@ -216915,7 +216927,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/My Games/TrainSimWorld7/Saved/SaveGames/<USER_ID>/*.sav"
+        "path": "<USER_PROFILE_DOCUMENTS>/My Games/TrainSimWorld7/Saved/SaveGames"
       }
     ]
   },
