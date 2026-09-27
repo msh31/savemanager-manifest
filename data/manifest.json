@@ -192746,6 +192746,10 @@
         "path": "<USER_PROFILE>/AppData/LocalLow/SUPERHOT_Team/SHMCD/sh.mcd"
       },
       {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/com.superhotgame.shmcd/shmcd.save"
+      },
+      {
         "os": "linux",
         "path": "<XDG_CONFIG_HOME>/unity3d/SUPERHOT_Team/SHMCD/shmcd.save"
       }
