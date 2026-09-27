@@ -33712,6 +33712,16 @@
     ]
   },
   {
+    "appid": "3670810",
+    "name": "Catch Flex",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Vilegacy/Catch Flex/progress.json"
+      }
+    ]
+  },
+  {
     "appid": "589320",
     "name": "Catch a Lover",
     "saves": [
