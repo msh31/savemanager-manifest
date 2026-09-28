@@ -11688,6 +11688,36 @@
     ]
   },
   {
+    "appid": "3832490",
+    "name": "Antivirus Survivors 2003 Professional",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/AntivirusSurvivors/*.save"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/AntivirusSurvivors/profiles/*.json"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/AntivirusSurvivors/*.save"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/AntivirusSurvivors/profiles/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/AntivirusSurvivors/*.save"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/AntivirusSurvivors/profiles/*.json"
+      }
+    ]
+  },
+  {
     "appid": "1887400",
     "name": "Antonblast",
     "saves": [
@@ -16260,6 +16290,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/RaafOritme/Audio Infection/**/*.dat"
+      }
+    ]
+  },
+  {
+    "appid": "826540",
+    "name": "Audio Trip",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Kinemotik Studios/Audio Trip"
       }
     ]
   },
@@ -55796,52 +55836,6 @@
     ]
   },
   {
-    "appid": "3590290",
-    "name": "Dive or Die: Children of Rain",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/DropRateStudio/Dead waters/*.data"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/DropRateStudio/Dead waters/*.dm"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/DropRateStudio/Dead waters/*.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/DropRateStudio/Dead waters/Unlocks"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/DropRateStudio/Dead waters/Version.json"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/DropRateStudio/Dive or Die/*.data"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/DropRateStudio/Dive or Die/*.dm"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/DropRateStudio/Dive or Die/*.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/DropRateStudio/Dive or Die/Unlocks"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/DropRateStudio/Dive or Die/Version.json"
-      }
-    ]
-  },
-  {
     "appid": "244730",
     "name": "Divekick",
     "saves": [
@@ -88068,6 +88062,24 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/962380"
+      }
+    ]
+  },
+  {
+    "appid": "3541630",
+    "name": "HR: Human Remains",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/deCo/HR Human Remains/prefs.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/deCo/HR Human Remains/save.d"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/deCo/HR Human Remains/save.s"
       }
     ]
   },
