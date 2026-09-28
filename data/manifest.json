@@ -148792,6 +148792,16 @@
     ]
   },
   {
+    "appid": "2938460",
+    "name": "Police Chief Simulator",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/PoliceChiefSimulator/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "494740",
     "name": "Police Quest II: The Vengeance",
     "saves": [
