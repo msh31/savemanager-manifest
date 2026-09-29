@@ -179724,6 +179724,10 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/Joysteak/Songbird Symphony/standalone/<USER_ID>/sbs.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Joysteak/Songbird Symphony"
       }
     ]
   },
@@ -224212,6 +224216,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Karaclan/VED/*.txt"
+      }
+    ]
+  },
+  {
+    "appid": "3255500",
+    "name": "Ved: Recure",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/SummerClip/VED/VedGameSave"
       }
     ]
   },
