@@ -61810,6 +61810,16 @@
     ]
   },
   {
+    "appid": "4216280",
+    "name": "Dverghold",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Kvltgames/Dverghold/Saves"
+      }
+    ]
+  },
+  {
     "appid": "975370",
     "name": "Dwarf Fortress",
     "saves": [
@@ -148318,6 +148328,28 @@
     ]
   },
   {
+    "appid": "844670",
+    "name": "Please Be Happy",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Studio Élan/Please Be Happy/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Studio Élan/Please Be Happy/NaninovelData/Saves/*.json"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/com.vnstudioelan.pleasebehappy/*.json"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/Studio Élan/Please Be Happy/*.json"
+      }
+    ]
+  },
+  {
     "appid": "1045070",
     "name": "Please Find Me",
     "saves": [
@@ -194820,6 +194852,16 @@
     ]
   },
   {
+    "appid": "2900640",
+    "name": "TOEM 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Save"
+      }
+    ]
+  },
+  {
     "appid": "1047960",
     "name": "TOK 2",
     "saves": [
@@ -224610,6 +224652,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/verminian_trap_1_1/hiscore.ini"
+      }
+    ]
+  },
+  {
+    "appid": "1546710",
+    "name": "Vernal Edge",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/VernalEdge/default/save"
       }
     ]
   },
