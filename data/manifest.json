@@ -140748,6 +140748,16 @@
     ]
   },
   {
+    "appid": "4047270",
+    "name": "Orc Incremental",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/Roaming/OrcIncremental/CloudSave"
+      }
+    ]
+  },
+  {
     "appid": "1129540",
     "name": "Orc Massage",
     "saves": [
