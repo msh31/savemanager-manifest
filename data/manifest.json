@@ -62048,6 +62048,20 @@
     ]
   },
   {
+    "appid": "3841510",
+    "name": "Dynasty Warriors 3: Complete Edition Remastered",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/KoeiTecmo/DW3CE_RE/Saved/SaveGames"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/KoeiTecmo/DW3CE_RE/Saved/SaveGames_Backup"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Dynasty Warriors 4: Hyper",
     "saves": [
