@@ -171180,6 +171180,16 @@
     ]
   },
   {
+    "appid": "3724910",
+    "name": "Serene Estates: Last Guy",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Digital Escape Games/The Last Guy/save*.lg"
+      }
+    ]
+  },
+  {
     "appid": "522210",
     "name": "Serial Cleaner",
     "saves": [
