@@ -4550,6 +4550,16 @@
     ]
   },
   {
+    "appid": "2288340",
+    "name": "Ace Combat 8: Wings of Theve",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BANDAI NAMCO Entertainment/ACE COMBAT 8/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "228400",
     "name": "Ace Combat: Assault Horizon - Enhanced Edition",
     "saves": [
@@ -29944,6 +29954,16 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Preferences/unity.Ninja Robot Dinosaur.Bunker Punks/*.plist"
+      }
+    ]
+  },
+  {
+    "appid": "5212940",
+    "name": "Bunker Tidy Up",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Tovarishch Games/Bunker/Saves/**/*.sav"
       }
     ]
   },
@@ -55996,16 +56016,8 @@
     "name": "Divinum",
     "saves": [
       {
-        "os": "linux",
-        "path": "<LINUX_HOME>/.config/unity3d/Sigil Games/Divinum/*.sav"
-      },
-      {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Sigil Games/Divinum/*.sav"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/com.Sigil-Games.Divinum/*.sav"
       }
     ]
   },
@@ -137080,6 +137092,16 @@
     ]
   },
   {
+    "appid": "3054690",
+    "name": "Norse: Oath of Blood",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Norse/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "1639790",
     "name": "Northern Journey",
     "saves": [
@@ -157508,6 +157530,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Reah: Face the Unknown",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Reah.s*"
+      }
+    ]
+  },
+  {
     "appid": "573680",
     "name": "Real Farm",
     "saves": [
@@ -174337,11 +174369,23 @@
       },
       {
         "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SaveData/Fu<USER_ID>/game.stats*"
+      },
+      {
+        "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Team Lazerbeam/Shroom and Gloom/SaveData/Fu<USER_ID>/**/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Team Lazerbeam/Shroom and Gloom/SaveData/Fu<USER_ID>/game.stats*"
       },
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/Team Lazerbeam/Shroom and Gloom/SaveData/Fu<USER_ID>/**/*.json"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Team Lazerbeam/Shroom and Gloom/SaveData/Fu<USER_ID>/game.stats*"
       }
     ]
   },
