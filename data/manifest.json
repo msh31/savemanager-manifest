@@ -83182,6 +83182,16 @@
     ]
   },
   {
+    "appid": "1770500",
+    "name": "Gigantosaurus: Dino Kart",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/3DClouds/GIG/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "365730",
     "name": "Gilbert Goodmate and the Mushroom of Phungoria",
     "saves": [
