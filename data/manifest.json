@@ -114082,6 +114082,10 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/*.lsd"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Lisa_1/Lisa_1/*.lsd"
       }
     ]
   },
@@ -179838,6 +179842,20 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Lavapotion/SongsOfConquest/Savegames"
+      }
+    ]
+  },
+  {
+    "appid": "1706510",
+    "name": "Songs of Glimmerwick",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Eastshade Studios/Songs of Glimmerwick/*.dat"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Eastshade Studios/Songs of Glimmerwick/*.met"
       }
     ]
   },
