@@ -49214,6 +49214,16 @@
     ]
   },
   {
+    "appid": "3593490",
+    "name": "Days Without Incident",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/We Create Stuff/Days Without Incident/*.json"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Daytona USA",
     "saves": [
@@ -110438,6 +110448,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Flametorch/LastEvil"
+      }
+    ]
+  },
+  {
+    "appid": "384910",
+    "name": "Last Half of Darkness: Society of the Serpent Moon",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/steamapps/common/Last Half of Darkness - Society of the Serpent Moon/demo/media/game"
       }
     ]
   },
@@ -223808,6 +223828,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/VALKYRIE_ELYSIUM/Saved/SaveGames"
+      }
+    ]
+  },
+  {
+    "appid": "2663150",
+    "name": "Valkyrie Saga",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Valkyrie Saga/*.save"
       }
     ]
   },
