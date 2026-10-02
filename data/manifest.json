@@ -137470,6 +137470,36 @@
     ]
   },
   {
+    "appid": "2337860",
+    "name": "Nubs! Arena",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Glowfish_Rangatang/Nubs!/<USER_ID>/*.sav"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Glowfish_Rangatang/Nubs!/<USER_ID>/InputSettings"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Glowfish_Rangatang/Nubs!/<USER_ID>/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Glowfish_Rangatang/Nubs!/<USER_ID>/InputSettings"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/unity.Glowfish_Rangatang.Nubs!.<USER_ID>/*.sav"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/unity.Glowfish_Rangatang.Nubs!.<USER_ID>/InputSettings"
+      }
+    ]
+  },
+  {
     "appid": "2909110",
     "name": "Nuclear Nightmare",
     "saves": [
@@ -160562,6 +160592,44 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/WayForward Technologies/RetroRealms/_savedata"
+      }
+    ]
+  },
+  {
+    "appid": "2067820",
+    "name": "RetroSpace",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/The Wild Gentlemen/Retrospace/Saves"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/The Wild Gentlemen/Retrospace/Saves/profile0"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/The Wild Gentlemen/Retrospace/Saves/profile1"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/The Wild Gentlemen/Retrospace/Saves/profile2"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/The Wild Gentlemen/Retrospace/Saves"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/The Wild Gentlemen/Retrospace/Saves/profile0"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/The Wild Gentlemen/Retrospace/Saves/profile1"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/The Wild Gentlemen/Retrospace/Saves/profile2"
       }
     ]
   },
