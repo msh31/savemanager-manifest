@@ -23623,11 +23623,11 @@
       },
       {
         "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/Lemuria/Black Forest/*.dat"
+        "path": "<OSX_HOME>/Library/Application Support/Lemuria/Black Forest"
       },
       {
         "os": "linux",
-        "path": "<XDG_CONFIG_HOME>/Lemuria/Black Forest/*.dat"
+        "path": "<XDG_CONFIG_HOME>/Lemuria/Black Forest"
       }
     ]
   },
