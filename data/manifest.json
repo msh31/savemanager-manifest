@@ -27878,6 +27878,16 @@
     ]
   },
   {
+    "appid": "499180",
+    "name": "Braid Anniversary Edition",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Braid, Anniversary Edition"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Brain Exercise with Dr. Kawashima",
     "saves": [
