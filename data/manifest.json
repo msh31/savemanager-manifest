@@ -55630,6 +55630,16 @@
     ]
   },
   {
+    "appid": "2439220",
+    "name": "Disney Villains Cursed Café",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Disney Interactive Studios/Cursed Cafe"
+      }
+    ]
+  },
+  {
     "appid": "338300",
     "name": "Disney's Chicken Little: Ace in Action",
     "saves": [
@@ -55646,6 +55656,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Saved"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Disney's Villains' Revenge",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SaveGame"
       }
     ]
   },
@@ -225430,16 +225450,6 @@
     ]
   },
   {
-    "appid": "",
-    "name": "Villains' Revenge",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/SaveGame"
-      }
-    ]
-  },
-  {
     "appid": "458330",
     "name": "Vilmonic",
     "saves": [
@@ -235030,6 +235040,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Profile0.prf"
+      }
+    ]
+  },
+  {
+    "appid": "3047070",
+    "name": "X-Out: Resurfaced",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/United Games Entertainment GmbH/X-Out/XOut"
       }
     ]
   },
