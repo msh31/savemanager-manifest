@@ -87104,6 +87104,16 @@
     ]
   },
   {
+    "appid": "4415120",
+    "name": "Growing My Manhole",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Growing My Manhole/saves"
+      }
+    ]
+  },
+  {
     "appid": "1191120",
     "name": "Growing Up",
     "saves": [
@@ -136228,6 +136238,16 @@
     ]
   },
   {
+    "appid": "1488490",
+    "name": "Nivalis Nights",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/ION LANDS/Nivalis Nights"
+      }
+    ]
+  },
+  {
     "appid": "2676840",
     "name": "No Case Should Remain Unsolved",
     "saves": [
@@ -179150,6 +179170,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Sokoban",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/*.sco"
+      }
+    ]
+  },
+  {
     "appid": "670850",
     "name": "Sokoban Land DX",
     "saves": [
@@ -185722,6 +185752,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Game/SaveGame"
+      }
+    ]
+  },
+  {
+    "appid": "4078430",
+    "name": "Star Wars: Galactic Racer",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/StarWarsGalacticRacer/Saved/SaveGames/<USER_ID>/**/*.sav"
       }
     ]
   },
@@ -217570,6 +217610,44 @@
       {
         "os": "windows",
         "path": "<APPDATA>/Transport Fever 2/save"
+      }
+    ]
+  },
+  {
+    "appid": "3493540",
+    "name": "Transport Fever 3",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Transport Fever 3/profile.lua"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Transport Fever 3/save"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Transport Fever 3/profile.lua"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Transport Fever 3/save"
+      },
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/3493540/local/profile.lua"
+      },
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/3493540/local/save"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Transport Fever 3/profile.lua"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Transport Fever 3/save"
       }
     ]
   },
