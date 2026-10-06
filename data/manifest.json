@@ -160673,35 +160673,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/The Wild Gentlemen/Retrospace/Saves"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/The Wild Gentlemen/Retrospace/Saves/profile0"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/The Wild Gentlemen/Retrospace/Saves/profile1"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/The Wild Gentlemen/Retrospace/Saves/profile2"
-      },
-      {
-        "os": "linux",
-        "path": "<XDG_DATA_HOME>/The Wild Gentlemen/Retrospace/Saves"
-      },
-      {
-        "os": "linux",
-        "path": "<XDG_DATA_HOME>/The Wild Gentlemen/Retrospace/Saves/profile0"
-      },
-      {
-        "os": "linux",
-        "path": "<XDG_DATA_HOME>/The Wild Gentlemen/Retrospace/Saves/profile1"
-      },
-      {
-        "os": "linux",
-        "path": "<XDG_DATA_HOME>/The Wild Gentlemen/Retrospace/Saves/profile2"
+        "path": "<USER_PROFILE>/LocalLow/The Wild Gentlemen/Retrospace/Saves"
       }
     ]
   },
