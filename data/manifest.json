@@ -31600,6 +31600,16 @@
     ]
   },
   {
+    "appid": "1938090",
+    "name": "Call of Duty: Warzone 2.0",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Activision/Call of Duty/players/<USER_ID>/SteamCloud/**/*.*"
+      }
+    ]
+  },
+  {
     "appid": "10090",
     "name": "Call of Duty: World at War",
     "saves": [
@@ -54787,11 +54797,11 @@
       },
       {
         "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/Zadbox Entertainment/Dimhaven - The Lost Source/*.*"
+        "path": "<OSX_HOME>/Library/Application Support/com.Zadbox-Entertainment.Dimhaven-Enigmas/*.*"
       },
       {
         "os": "linux",
-        "path": "<LINUX_HOME>/Zadbox Entertainment/Dimhaven - The Lost Source/*.*"
+        "path": "<LINUX_HOME>/snap/steam/common/.config/unity3d/Zadbox Entertainment/Dimhaven - The Lost Source/Saved Games/*.*"
       }
     ]
   },
@@ -149891,7 +149901,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/Post_Void/savedata.ini"
+        "path": "<LOCAL_APPDATA>/Post_Void/*/savedata.dat"
       }
     ]
   },
@@ -185475,16 +185485,6 @@
   },
   {
     "appid": "",
-    "name": "Star Trek: The Next Generation - A Final Unity",
-    "saves": [
-      {
-        "os": "dos",
-        "path": "<GAME_INSTALL_DIR>/SAVEGAME/SAVEGAME.*"
-      }
-    ]
-  },
-  {
-    "appid": "",
     "name": "Star Trek: The Next Generation - Birth of the Federation",
     "saves": [
       {
@@ -185500,6 +185500,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Save"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Star Trek: The Next Generation – A Final Unity",
+    "saves": [
+      {
+        "os": "dos",
+        "path": "<GAME_INSTALL_DIR>/SAVEGAME/SAVEGAME.*"
       }
     ]
   },
@@ -185761,7 +185771,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/StarWarsGalacticRacer/Saved/SaveGames/<USER_ID>/**/*.sav"
+        "path": "<LOCAL_APPDATA>/StarWarsGalacticRacer/Saved/SaveGames/*.sav"
       }
     ]
   },
@@ -236344,6 +236354,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/Saved Games/INTI CREATES/YOHANE-BID/yhn*"
+      }
+    ]
+  },
+  {
+    "appid": "3619760",
+    "name": "Yoiyami Biscuit",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/*.ybs"
       }
     ]
   },
