@@ -42312,6 +42312,16 @@
     ]
   },
   {
+    "appid": "2397510",
+    "name": "Corsairs: Battle of the Caribbean",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/FishingCactus/Corsairs/<USER_ID>/G*.sav"
+      }
+    ]
+  },
+  {
     "appid": "209670",
     "name": "Cortex Command",
     "saves": [
