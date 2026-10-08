@@ -18148,8 +18148,24 @@
         "path": "<USER_PROFILE>/AppData/LocalLow/Mega Cat Studios/Backyard Baseball"
       },
       {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Mega Cat Studios/Backyard Baseball/Saves"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Mega Cat Studios/Backyard Baseball/TeamPhotos"
+      },
+      {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/Mega Cat Studios/Backyard Baseball"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Mega Cat Studios/Backyard Baseball/Saves"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Mega Cat Studios/Backyard Baseball/TeamPhotos"
       }
     ]
   },
@@ -81600,6 +81616,16 @@
     ]
   },
   {
+    "appid": "3932790",
+    "name": "Garfield: Escape From Monday",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/GFD/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Garfield: Saving Arlene",
     "saves": [
@@ -82861,7 +82887,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Fireproof Games/Ghost Town/*.save"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Fireproof Games/Ghost Town"
       }
     ]
   },
@@ -85710,6 +85736,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/player"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Grand Theft Auto Advance",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/userfiles/GTA3sf*.b"
       }
     ]
   },
@@ -185781,7 +185817,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/StarWarsGalacticRacer/Saved/SaveGames/*.sav"
+        "path": "<LOCAL_APPDATA>/StarWarsGalacticRacer/Saved/SaveGames"
       }
     ]
   },
@@ -235056,6 +235092,16 @@
       {
         "os": "dos",
         "path": "<home>/game_*"
+      }
+    ]
+  },
+  {
+    "appid": "2446740",
+    "name": "X-Force Under Attack",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Cube Games/X-Force Under Attack/*.cgsave"
       }
     ]
   },
