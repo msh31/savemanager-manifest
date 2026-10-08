@@ -38416,6 +38416,16 @@
     ]
   },
   {
+    "appid": "1551980",
+    "name": "Clive Barker's Hellraiser: Revival",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Hellraiser/Saved"
+      }
+    ]
+  },
+  {
     "appid": "11420",
     "name": "Clive Barker's Jericho",
     "saves": [
@@ -180468,6 +180478,10 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/kartdata.dat"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.srb2kart/kartdata.dat"
       }
     ]
   },
@@ -225706,6 +225720,10 @@
       {
         "os": "windows",
         "path": "<APPDATA>/SEGA/VFREVO/Steam/<USER_ID>/system"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/SEGAofAmericaInc.a9115ca5cs_s751p9cej88mt/SystemAppData/wgs"
       }
     ]
   },
