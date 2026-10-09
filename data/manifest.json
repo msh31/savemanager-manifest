@@ -32732,6 +32732,16 @@
     ]
   },
   {
+    "appid": "505170",
+    "name": "Carmageddon: Max Damage",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/Carmageddon Max Damage/savegames"
+      }
+    ]
+  },
+  {
     "appid": "249380",
     "name": "Carmageddon: Reincarnation",
     "saves": [
@@ -38421,7 +38431,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/Hellraiser/Saved"
+        "path": "<LOCAL_APPDATA>/Hellraiser/Saved/SaveGames"
       }
     ]
   },
@@ -47050,6 +47060,20 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/1091320"
+      }
+    ]
+  },
+  {
+    "appid": "3810510",
+    "name": "DERELIKT",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Visuwyg/DERELIKT/PersistentData/*/*.drt"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Visuwyg/DERELIKT/PersistentData/*/data.ctg"
       }
     ]
   },
@@ -77174,6 +77198,16 @@
     ]
   },
   {
+    "appid": "1215940",
+    "name": "Forever Ago",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/57209AnnapurnaInteractive.ForeverAgo_c96c51jf6wkvm/SystemAppData/wgs"
+      }
+    ]
+  },
+  {
     "appid": "718200",
     "name": "Forever Home",
     "saves": [
@@ -81932,6 +81966,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Eden Games/GCU2"
+      }
+    ]
+  },
+  {
+    "appid": "3659460",
+    "name": "Gear.Club Unlimited 3",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Eden Games/Gear.Club Unlimited 3"
       }
     ]
   },
@@ -159446,6 +159490,16 @@
     ]
   },
   {
+    "appid": "3929330",
+    "name": "Relief",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/DefaultCompany/Relief/playerData.json"
+      }
+    ]
+  },
+  {
     "appid": "330370",
     "name": "Reload",
     "saves": [
@@ -175700,6 +175754,16 @@
     ]
   },
   {
+    "appid": "2333000",
+    "name": "Silver Pines",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Wych Elm/Silver Pines/<USER_ID>"
+      }
+    ]
+  },
+  {
     "appid": "864430",
     "name": "SilverFrame(纯白星原)",
     "saves": [
@@ -182808,6 +182872,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Nicalis, Inc_/Spectacular Sparky/Player.log"
+      }
+    ]
+  },
+  {
+    "appid": "3203170",
+    "name": "Spectacular Team: Assemble",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/SengiGames/SpectacularTeamAssemble/SavableData/**/*.sta"
       }
     ]
   },
