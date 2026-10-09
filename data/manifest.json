@@ -32428,6 +32428,28 @@
     ]
   },
   {
+    "appid": "3031880",
+    "name": "Car Park Capital",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/**/*.cpcp"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/blueprints/**/*.cpbp"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/scenarios/**/*.cpcs"
+      }
+    ]
+  },
+  {
     "appid": "774191",
     "name": "Car Puzzler",
     "saves": [
@@ -141817,19 +141839,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/OutOfSight/Saved/*.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/OutOfSight/Saved/1/**/*.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/OutOfSight/Saved/2/**/*.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/OutOfSight/Saved/3/**/*.sav"
+        "path": "<LOCAL_APPDATA>/OutOfSight/Saved/**/*.sav"
       },
       {
         "os": "windows",
@@ -171754,6 +171764,16 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/RustyLake/ServantOfTheLake/Serialization/SaveFiles"
+      }
+    ]
+  },
+  {
+    "appid": "3930330",
+    "name": "Sesame Street: Friends & Fun",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/InfinigonGames/Sesame_Street_Friends_Fun"
       }
     ]
   },
