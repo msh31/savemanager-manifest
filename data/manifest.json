@@ -4560,6 +4560,16 @@
     ]
   },
   {
+    "appid": "3635880",
+    "name": "Ace Combat Zero: The Belkan War",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/2288340/remote/aczero/save"
+      }
+    ]
+  },
+  {
     "appid": "228400",
     "name": "Ace Combat: Assault Horizon - Enhanced Edition",
     "saves": [
@@ -150796,12 +150806,8 @@
     "name": "Primal Planet",
     "saves": [
       {
-        "os": "mac",
-        "path": "<OSX_HOME>/Godot/app_userdata/Primal Planet/*.save"
-      },
-      {
         "os": "windows",
-        "path": "<APPDATA>/Godot/app_userdata/Primal Planet/**/*.save"
+        "path": "<APPDATA>/Godot/app_userdata/Primal Planet"
       }
     ]
   },
@@ -215346,6 +215352,14 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Torch_of_Shadows/*.sav"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/Torch_of_Shadows/*.ini"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/Torch_of_Shadows/*.sav"
       }
     ]
   },
@@ -219240,6 +219254,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Strange Scaffold/Truck-kun/**/*.sv4"
+      }
+    ]
+  },
+  {
+    "appid": "3090810",
+    "name": "Truckful",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SavesDir/*.sav"
       }
     ]
   },
