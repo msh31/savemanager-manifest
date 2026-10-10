@@ -17698,6 +17698,16 @@
     ]
   },
   {
+    "appid": "1571090",
+    "name": "BEAST CRIMES",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Link Häggman/BeastCrimes/NaninovelData/Saves"
+      }
+    ]
+  },
+  {
     "appid": "708890",
     "name": "BEATris",
     "saves": [
@@ -32443,7 +32453,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/saves/**/*.cpcp"
+        "path": "<GAME_INSTALL_DIR>/saves/*.cpcp"
       },
       {
         "os": "windows",
@@ -32451,11 +32461,11 @@
       },
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/saves/blueprints/**/*.cpbp"
+        "path": "<GAME_INSTALL_DIR>/saves/blueprints/*.cpbp"
       },
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/saves/scenarios/**/*.cpcs"
+        "path": "<GAME_INSTALL_DIR>/saves/scenarios/*.cpcs"
       }
     ]
   },
