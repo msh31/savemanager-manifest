@@ -167360,6 +167360,16 @@
     ]
   },
   {
+    "appid": "3201450",
+    "name": "Sacrata",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Windows/SACRATA/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "12320",
     "name": "Sacred",
     "saves": [
