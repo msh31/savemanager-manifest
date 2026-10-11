@@ -10146,6 +10146,16 @@
     ]
   },
   {
+    "appid": "3759690",
+    "name": "Amplexus Protocol",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Renpy/AmplexusProtocol-1622743716/*.save"
+      }
+    ]
+  },
+  {
     "appid": "907330",
     "name": "Amulet Zero 零物语 - Optimize",
     "saves": [
@@ -42085,11 +42095,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Triple Espresso/Copa City First Football Tycoon/**/*.json"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Triple Espresso/Copa City First Football Tycoon/Saves/**/*.json"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Triple Espresso/Copa City"
       }
     ]
   },
