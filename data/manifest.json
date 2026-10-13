@@ -30922,6 +30922,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "CIA Operative: Solo Missions",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/main/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "304580",
     "name": "CITYCONOMY: Service for your City",
     "saves": [
