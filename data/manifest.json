@@ -33628,6 +33628,24 @@
     ]
   },
   {
+    "appid": "4231820",
+    "name": "Castlevania: Belmont's Curse",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/KONAMI/Castlevania Belmont's Curse/*.sav"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/KONAMI/Castlevania Belmont's Curse/*.sav"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/KONAMI/Castlevania Belmont's Curse/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "234080",
     "name": "Castlevania: Lords of Shadow",
     "saves": [
@@ -51508,6 +51526,24 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/unity.GlassCats.Deep Dark Dungeon/Save/*.sav"
+      }
+    ]
+  },
+  {
+    "appid": "2871520",
+    "name": "Deep Dish Dungeon",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Behold Studios/Deep Dish Dungeon/**/*.*"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Behold Studios/Deep Dish Dungeon/**/*.*"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/Behold Studios/Deep Dish Dungeon/**/*.*"
       }
     ]
   },
@@ -194546,16 +194582,6 @@
     ]
   },
   {
-    "appid": "3660220",
-    "name": "Syberia - Remastered",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/Virtuallyz Gaming/Syberia - Remastered/SteamSaves/<USER_ID>/slot_*.dat"
-      }
-    ]
-  },
-  {
     "appid": "464340",
     "name": "Syberia 3",
     "saves": [
@@ -194572,6 +194598,16 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Containers/com.microids.syberia2.univ/Data/Library/Application Support/Syberia 2"
+      }
+    ]
+  },
+  {
+    "appid": "3660220",
+    "name": "Syberia: Remastered",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Virtuallyz Gaming/Syberia - Remastered/SteamSaves/<USER_ID>/slot_*.dat"
       }
     ]
   },
@@ -224208,6 +224244,32 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/378610/remote"
+      }
+    ]
+  },
+  {
+    "appid": "2828710",
+    "name": "Valor Mortis",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames/*.bak"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames/*.sig"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames/AchievementsSaveGame.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames/Autosave0.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames/UserSettingsSaveGame.sav"
       }
     ]
   },
