@@ -9990,22 +9990,22 @@
     ]
   },
   {
-    "appid": "2429190",
-    "name": "Amerzone - The Explorer's Legacy (2025)",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Microids Studio Paris/Amerzone/Saves/<USER_ID>"
-      }
-    ]
-  },
-  {
     "appid": "302190",
     "name": "Amerzone: The Explorer's Legacy",
     "saves": [
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Saved_*.bin"
+      }
+    ]
+  },
+  {
+    "appid": "2429190",
+    "name": "Amerzone: The Explorer's Legacy (2025)",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Microids Studio Paris/Amerzone/Saves/<USER_ID>"
       }
     ]
   },
@@ -56598,16 +56598,6 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/BrutalHack/Doki Doki Ragnarok/Save/*.json"
-      }
-    ]
-  },
-  {
-    "appid": "2019300",
-    "name": "Dokimon Quest",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/dokimon/*.sav"
       }
     ]
   },
@@ -141875,11 +141865,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/OutOfSight/Saved/**/*.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/OutOfSight/Saved/Config/Windows/GameUserSettings.ini"
+        "path": "<LOCAL_APPDATA>/OutOfSight/Saved"
       }
     ]
   },
@@ -179708,6 +179694,16 @@
     ]
   },
   {
+    "appid": "2975950",
+    "name": "Solasta II",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Solasta 2/Saved/SaveGames/User_<USER_ID>/**/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "1096530",
     "name": "Solasta: Crown of the Magister",
     "saves": [
@@ -201345,6 +201341,14 @@
     "appid": "1465470",
     "name": "The Crust",
     "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/Epic/TheCrust/Saved/SaveGames/*.sav"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Epic/TheCrust/Saved/SaveGames/*.sav"
+      },
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/TheCrust/Saved/SaveGames/**/*.sav"
