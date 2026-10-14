@@ -11796,6 +11796,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Anubis II",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SaveGame"
+      }
+    ]
+  },
+  {
     "appid": "971130",
     "name": "Anubis' Challenge",
     "saves": [
@@ -32876,6 +32886,16 @@
       {
         "os": "windows",
         "path": "<APPDATA>/Gambit/CarneyVale Showtime/<USER_ID>.sav"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Carnival Cruise Lines Tycoon 2005: Island Hopping",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/data/profiles/<USER_ID>.ini"
       }
     ]
   },
@@ -90647,7 +90667,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "C:/Users/(USERNAME)/Documents/Ñåðäöå Âå÷íîñòè"
+        "path": "<USER_PROFILE_DOCUMENTS>/Ñåðäöå Âå÷íîñòè"
       }
     ]
   },
@@ -142338,6 +142358,20 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/Activision/Over the Hedge/Save/savegame/slot*"
+      }
+    ]
+  },
+  {
+    "appid": "2929250",
+    "name": "Over the Hill",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/My Games/over the hill/Saves"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/My Games/over the hill/Saves"
       }
     ]
   },
@@ -228514,6 +228548,20 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/BoltgunWOV/Saved/SaveGames"
+      }
+    ]
+  },
+  {
+    "appid": "3115160",
+    "name": "Warhammer 40,000: Boltgun II",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Boltgun2/Saved/SaveGames/<USER_ID>/**/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Boltgun2/Saved/SaveGames/<USER_ID>/**/*.sav"
       }
     ]
   },
