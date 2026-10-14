@@ -199210,6 +199210,16 @@
     ]
   },
   {
+    "appid": "5067360",
+    "name": "Thank You Bus Driver",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/ThankYouBusDriver/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "323060",
     "name": "Tharsis",
     "saves": [
@@ -224271,23 +224281,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames/*.bak"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames/*.sig"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames/AchievementsSaveGame.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames/Autosave0.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames/UserSettingsSaveGame.sav"
+        "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames"
       }
     ]
   },
@@ -233196,6 +233190,28 @@
       {
         "os": "windows",
         "path": "<APPDATA>/RenPy/wowi3-1409958485/*.save"
+      }
+    ]
+  },
+  {
+    "appid": "1262190",
+    "name": "Without a Voice",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/game/saves"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.renpy/WithoutaVoice"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/RenPy/WithoutaVoice"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/RenPy/WithoutaVoice"
       }
     ]
   },
