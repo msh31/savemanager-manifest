@@ -130852,6 +130852,24 @@
     ]
   },
   {
+    "appid": "4516190",
+    "name": "My Beautiful Faraway, Please Don't Be Cruel To Me",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/MyBeautifulFaraway/savegame.json"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/MyBeautifulFaraway/savegame.json"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/godot/app_userdata/MyBeautifulFaraway/savegame.json"
+      }
+    ]
+  },
+  {
     "appid": "1036700",
     "name": "My Beautiful Paper Smile",
     "saves": [
