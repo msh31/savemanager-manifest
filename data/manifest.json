@@ -231722,6 +231722,24 @@
     ]
   },
   {
+    "appid": "12190",
+    "name": "Wild Metal Country",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/WinEnv/Configs/FrontEnd/PLAYERS"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/WinEnv/Scenes/ARCHIVE"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/WinEnv/Scenes/Level*.scn"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Wild Rides: WaterPark Factory",
     "saves": [
