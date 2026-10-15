@@ -53454,6 +53454,24 @@
     ]
   },
   {
+    "appid": "1003460",
+    "name": "Desolus",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/The Quantum Astrophysicists Guild/DESOLUS/*Save*"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/The Quantum Astrophysicists Guild/DESOLUS/*Save*"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/The Quantum Astrophysicists Guild/DESOLUS/*Save*"
+      }
+    ]
+  },
+  {
     "appid": "2097490",
     "name": "Desordre",
     "saves": [
@@ -126056,6 +126074,16 @@
     ]
   },
   {
+    "appid": "1912410",
+    "name": "Minecraft Dungeons II",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Dungeons2/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "1928870",
     "name": "Minecraft Legends",
     "saves": [
@@ -147826,6 +147854,20 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Pixel_Stories_of_Dungeon"
+      }
+    ]
+  },
+  {
+    "appid": "2572060",
+    "name": "Pixel Washer",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/pixel-washer/Local Storage/leveldb"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/pixel-washer/Local Storage/leveldb"
       }
     ]
   },
@@ -217132,12 +217174,32 @@
     ]
   },
   {
+    "appid": "4049180",
+    "name": "Toy Story 3: Complete Edition",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Disney/Toy Story 3 Complete Edition/**/Saved Game"
+      }
+    ]
+  },
+  {
     "appid": "317580",
     "name": "Toy Story Mania!",
     "saves": [
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/SaveGames"
+      }
+    ]
+  },
+  {
+    "appid": "4049170",
+    "name": "Toy Story: Retro Roundup!",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Disney/Toy Story Retro Roundup!/saves"
       }
     ]
   },
