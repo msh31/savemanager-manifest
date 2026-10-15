@@ -77474,6 +77474,16 @@
     ]
   },
   {
+    "appid": "5051490",
+    "name": "Forgotten Haven: The First Call",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Infotrium Inc_/Forgotten Haven_ The First Call/savegame.json"
+      }
+    ]
+  },
+  {
     "appid": "1133930",
     "name": "Forgotten Hill Disillusion",
     "saves": [
@@ -84434,6 +84444,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/*/*.monkeystate"
+      }
+    ]
+  },
+  {
+    "appid": "3782910",
+    "name": "Goblin Nest",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/goblin_nest/*.json"
       }
     ]
   },
