@@ -26298,6 +26298,16 @@
     ]
   },
   {
+    "appid": "3064040",
+    "name": "Bluey's Happy Snaps",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BMC/Saved/SaveGames/<USER_ID>/**/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "4127530",
     "name": "Bluey's Quest for the Gold Pen",
     "saves": [
@@ -76168,16 +76178,6 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/Sports Interactive/Football Manager 2009"
-      }
-    ]
-  },
-  {
-    "appid": "34009",
-    "name": "Football Manager 2010",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/Sports Interactive/Football Manager 2010"
       }
     ]
   },
@@ -141350,6 +141350,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/ORDER OF WAR - CHALLENGE/save"
+      }
+    ]
+  },
+  {
+    "appid": "499170",
+    "name": "Order of the Sinking Star",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/Order of the Sinking Star"
       }
     ]
   },
