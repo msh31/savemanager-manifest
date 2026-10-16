@@ -119120,6 +119120,20 @@
     ]
   },
   {
+    "appid": "1327920",
+    "name": "Maestro VR",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Symphonic Games/Maestro VR/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Symphonic Games/Maestro VR/*.sav.bak"
+      }
+    ]
+  },
+  {
     "appid": "40990",
     "name": "Mafia",
     "saves": [
