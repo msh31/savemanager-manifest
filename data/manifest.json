@@ -28543,7 +28543,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/Breathedge2Game/Saved/SaveGames/*.sav"
+        "path": "<LOCAL_APPDATA>/Breathedge2Game/Saved/SaveGames"
       }
     ]
   },
@@ -34860,6 +34860,24 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/Ceville/save"
+      }
+    ]
+  },
+  {
+    "appid": "3569420",
+    "name": "Chained Beasts",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Featherweight Games/ChainedBeasts/SaveData"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Featherweight Games/ChainedBeasts/SaveData"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/unity.Featherweight Games.ChainedBeasts/SaveData"
       }
     ]
   },
@@ -63642,6 +63660,28 @@
       {
         "os": "windows",
         "path": "<APPDATA>/renpy/Echo Tokyo Intro Save1"
+      }
+    ]
+  },
+  {
+    "appid": "2184080",
+    "name": "Echo Weaver",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Moonlight Kids/Echo Weaver/*.dat"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Moonlight Kids/Echo Weaver/*.json"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Moonlight Kids/Echo Weaver/*.dat"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Moonlight Kids/Echo Weaver/*.json"
       }
     ]
   },
@@ -198122,6 +198162,16 @@
     ]
   },
   {
+    "appid": "2121510",
+    "name": "Tenebris Somnia",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/TenebrisSomnia/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "1016420",
     "name": "Tenebrous Dungeon",
     "saves": [
@@ -217179,7 +217229,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<APPDATA>/Disney/Toy Story 3 Complete Edition/**/Saved Game"
+        "path": "<APPDATA>/Roaming/Disney/Toy Story 3 Complete Edition/savedata"
       }
     ]
   },
