@@ -132448,6 +132448,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "NHRA Drag Racing: Top Fuel Thunder",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/UserData/Replay"
+      }
+    ]
+  },
+  {
     "appid": "1134710",
     "name": "NIMBY Rails",
     "saves": [
