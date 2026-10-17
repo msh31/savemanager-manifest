@@ -66347,7 +66347,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/1203620/remote"
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/1203620/remote/*.ksd"
       }
     ]
   },
@@ -74434,6 +74434,16 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/SavedGames/SameSameSame Co-Op/<USER_ID>"
+      }
+    ]
+  },
+  {
+    "appid": "1751730",
+    "name": "Fire and Ashes",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SavesDir/*.sav"
       }
     ]
   },
