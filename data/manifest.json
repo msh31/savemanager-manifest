@@ -22576,6 +22576,16 @@
     ]
   },
   {
+    "appid": "2295060",
+    "name": "Beyond These Stars",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Balancing Monkey Games/Beyond These Stars/Saves"
+      }
+    ]
+  },
+  {
     "appid": "570580",
     "name": "Beyond Zork",
     "saves": [
@@ -59326,6 +59336,20 @@
       {
         "os": "windows",
         "path": "<APPDATA>/DreadStar/Local Store/*.sav"
+      }
+    ]
+  },
+  {
+    "appid": "3327120",
+    "name": "Dreadline Express",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/DavidKonecny/DreadlineExpress/steam<USER_ID>/Saves/**/*.data"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/DavidKonecny/DreadlineExpress/steam<USER_ID>/Saves/**/*.json"
       }
     ]
   },
@@ -189188,10 +189212,6 @@
         "path": "<OSX_HOME>/Library/Application Support/com.BeamTeamGames.StrandedDeep/Data"
       },
       {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/Packages/BeamTeamPublishing.StrandedDeepPC_z3g0437ken9pg/SystemAppData/wgs"
-      },
-      {
         "os": "linux",
         "path": "<XDG_CONFIG_HOME>/unity3d/Beam Team Games/Stranded Deep/Data"
       }
@@ -211710,6 +211730,10 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/Telltale Games/The Wolf Among Us"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/TelltaleGames.TheWolfAmongUs-ATelltaleGamesSeries_4p9dzwrngadje/SystemAppData/wgs"
       }
     ]
   },
