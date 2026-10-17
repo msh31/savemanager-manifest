@@ -16529,6 +16529,16 @@
   },
   {
     "appid": "",
+    "name": "Auto Concentration",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/AUTOCON.T10"
+      }
+    ]
+  },
+  {
+    "appid": "",
     "name": "Autobahn",
     "saves": [
       {
@@ -196644,6 +196654,16 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/2331020/remote"
+      }
+    ]
+  },
+  {
+    "appid": "3470960",
+    "name": "Tales of Eternia Remastered",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BANDAI NAMCO Entertainment/Tales of Eternia Remastered"
       }
     ]
   },
