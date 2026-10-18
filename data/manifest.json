@@ -69742,6 +69742,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "F1 2000",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Save"
+      }
+    ]
+  },
+  {
     "appid": "44310",
     "name": "F1 2010",
     "saves": [
@@ -126248,6 +126258,10 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/Telltale Games"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/Telltale Games/Minecraft - Story Mode"
       }
     ]
   },
@@ -133080,6 +133094,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/New_NarcoticsPolice/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
+    "appid": "1646810",
+    "name": "Nargül: Humans Are Among Us",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/3DDDgames/NARGUL - Humans are among us"
       }
     ]
   },
@@ -211656,6 +211680,16 @@
     ]
   },
   {
+    "appid": "2967950",
+    "name": "The Witch's Bakery",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Sunny Lab/The Witch's Bakery/GameFiles/Slot_0/*.lunne"
+      }
+    ]
+  },
+  {
     "appid": "885810",
     "name": "The Witch's House MV",
     "saves": [
@@ -217327,7 +217361,15 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<APPDATA>/Disney/Toy Story Retro Roundup!/saves"
+        "path": "<APPDATA>/Disney/Toy Story Retro Roundup!/saves/*.bst0"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Disney/Toy Story Retro Roundup!/saves/*.bst1"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Disney/Toy Story Retro Roundup!/saves/*.bst2"
       }
     ]
   },
