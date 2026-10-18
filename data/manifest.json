@@ -9472,6 +9472,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Amanagi",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SaveFile.dat"
+      }
+    ]
+  },
+  {
     "appid": "454900",
     "name": "Amaranthine",
     "saves": [
@@ -13979,7 +13989,7 @@
   },
   {
     "appid": "4056610",
-    "name": "Arthur's Reading Games",
+    "name": "Arthur's Reading Roundup",
     "saves": [
       {
         "os": "windows",
@@ -189250,6 +189260,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/TouchDimensions/Strain Tactics"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Stranded (2003)",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/sav"
       }
     ]
   },
