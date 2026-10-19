@@ -31656,6 +31656,16 @@
     ]
   },
   {
+    "appid": "4435490",
+    "name": "Call of Duty: Modern Warfare 4",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Activision/Call of Duty/players/<USER_ID>"
+      }
+    ]
+  },
+  {
     "appid": "393080",
     "name": "Call of Duty: Modern Warfare Remastered",
     "saves": [
@@ -33234,6 +33244,36 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/SpeedFrame Games/Cartoony Cars 2"
+      }
+    ]
+  },
+  {
+    "appid": "722960",
+    "name": "Case 2: Animatronics Survival",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Case/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
+    "appid": "2826400",
+    "name": "Case Records: Fear of Abduction",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/AuroraCityofHorrors/Saved/SaveGames/Slot1.sav"
+      }
+    ]
+  },
+  {
+    "appid": "3520330",
+    "name": "Case Records: Lost Night",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/ToyFactory/Saved/DefoltSlot/*.sav"
       }
     ]
   },
@@ -59774,16 +59814,6 @@
     ]
   },
   {
-    "appid": "1270720",
-    "name": "Dreamworks Spirit Lucky's Big Adventure",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/aheartfulofgames/Dreamworks Spirit Lucky's Big Adventure"
-      }
-    ]
-  },
-  {
     "appid": "1562430",
     "name": "Dredge",
     "saves": [
@@ -70678,6 +70708,16 @@
     ]
   },
   {
+    "appid": "2467880",
+    "name": "Fading Echo",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/UE_YGRO/Saved/SaveGames/<USER_ID>/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "259720",
     "name": "Fading Hearts",
     "saves": [
@@ -74591,7 +74631,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/SavesDir/*.sav"
+        "path": "Stored on the developer's servers."
       }
     ]
   },
@@ -119744,6 +119784,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/bolang/Magicraft/*.Json"
+      }
+    ]
+  },
+  {
+    "appid": "1205270",
+    "name": "Magin: The Rat Project Stories",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/The Rat Project/Magin_ The Rat Project Stories/Slot_*.save"
       }
     ]
   },
@@ -173718,6 +173768,16 @@
     ]
   },
   {
+    "appid": "2384130",
+    "name": "Shell of a King",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/RosuneStudios/Shell of a King/File*"
+      }
+    ]
+  },
+  {
     "appid": "326460",
     "name": "ShellShock Live",
     "saves": [
@@ -184238,6 +184298,16 @@
     ]
   },
   {
+    "appid": "1270720",
+    "name": "Spirit: Lucky's Big Adventure",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/aheartfulofgames/Dreamworks Spirit Lucky's Big Adventure"
+      }
+    ]
+  },
+  {
     "appid": "293920",
     "name": "Spirited Heart Deluxe",
     "saves": [
@@ -188830,6 +188900,16 @@
       {
         "os": "dos",
         "path": "<GAME_INSTALL_DIR>/SAVEGAME"
+      }
+    ]
+  },
+  {
+    "appid": "2982610",
+    "name": "Stonemachia",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Stonemachia/Saved/SaveGames"
       }
     ]
   },
