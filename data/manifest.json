@@ -135896,6 +135896,28 @@
     ]
   },
   {
+    "appid": "1221950",
+    "name": "Nighthawks",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/**/*.*"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/Nighthawks/saves/**/*.*"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Nighthawks/saves/**/*.*"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Nighthawks/saves/**/*.*"
+      }
+    ]
+  },
+  {
     "appid": "1928980",
     "name": "Nightingale",
     "saves": [
@@ -237353,7 +237375,7 @@
     "saves": [
       {
         "os": "linux",
-        "path": "<LINUX_HOME>/.local/share/godot/app_userdata/You Know The Drill!/saves/*.save"
+        "path": "<LINUX_HOME>/.local/share/godot/app_userdata/You Know the Drill!/saves/*.save"
       },
       {
         "os": "windows",
