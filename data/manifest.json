@@ -204050,6 +204050,16 @@
     ]
   },
   {
+    "appid": "961010",
+    "name": "The Hand of Glory",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/The Hand of Glory/Savegames"
+      }
+    ]
+  },
+  {
     "appid": "749890",
     "name": "The Hanged Man",
     "saves": [
