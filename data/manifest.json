@@ -32550,6 +32550,16 @@
     ]
   },
   {
+    "appid": "4252340",
+    "name": "Car Parking Multiplayer 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Olzhas/Car Parking 2/SaveFile.es3"
+      }
+    ]
+  },
+  {
     "appid": "774191",
     "name": "Car Puzzler",
     "saves": [
