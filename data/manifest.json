@@ -174504,6 +174504,16 @@
     ]
   },
   {
+    "appid": "4098030",
+    "name": "Shipping Store Simulator 2037",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Playstrom/Shipping Store Simulator 2037/FileData/Release"
+      }
+    ]
+  },
+  {
     "appid": "2160220",
     "name": "Shipwrecked 64",
     "saves": [
