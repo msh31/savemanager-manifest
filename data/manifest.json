@@ -11740,6 +11740,10 @@
         "path": "<LINUX_HOME>/.local/share/AntivirusSurvivors/profiles/*.json"
       },
       {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/AntivirusSurvivors/profiles/<USER_ID>/*.json"
+      },
+      {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/AntivirusSurvivors/*.save"
       },
@@ -11748,12 +11752,20 @@
         "path": "<OSX_HOME>/Library/Application Support/AntivirusSurvivors/profiles/*.json"
       },
       {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/AntivirusSurvivors/profiles/<USER_ID>/*.json"
+      },
+      {
         "os": "windows",
         "path": "<APPDATA>/AntivirusSurvivors/*.save"
       },
       {
         "os": "windows",
         "path": "<APPDATA>/AntivirusSurvivors/profiles/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/AntivirusSurvivors/profiles/<USER_ID>/*.json"
       }
     ]
   },
@@ -52646,6 +52658,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Paracytik Entertainment/Dement/*.pcsf"
+      }
+    ]
+  },
+  {
+    "appid": "5342930",
+    "name": "Dementium II",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Dementium II/saves/*.*"
       }
     ]
   },
@@ -218734,7 +218756,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "863940",
     "name": "Treasure Adventure Game",
     "saves": [
       {
