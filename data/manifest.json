@@ -2660,6 +2660,20 @@
     ]
   },
   {
+    "appid": "3149450",
+    "name": "A Place Out Here",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Stillmere/Saved/SaveGames"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Stillmere/Saved/SaveGames/DISv4"
+      }
+    ]
+  },
+  {
     "appid": "752590",
     "name": "A Plague Tale: Innocence",
     "saves": [
@@ -224168,6 +224182,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/AQUAPLUS/受讚頌者 給逝者的搖籃曲/Save/*.DAT"
+      }
+    ]
+  },
+  {
+    "appid": "3074850",
+    "name": "Utawarerumono: ZAN 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/savedata"
       }
     ]
   },
