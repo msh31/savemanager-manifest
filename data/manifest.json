@@ -52667,7 +52667,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/Dementium II/saves/*.*"
+        "path": "<LOCAL_APPDATA>/Dementium II/Saves/*.*"
       }
     ]
   },
@@ -165368,6 +165368,16 @@
     ]
   },
   {
+    "appid": "2062380",
+    "name": "Roots in the Sky: The Hand of Glory 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Madit Entertainment/Roots in the Sky - The Hand of Glory 2/Savegames"
+      }
+    ]
+  },
+  {
     "appid": "1245560",
     "name": "Roots of Pacha",
     "saves": [
@@ -190542,6 +190552,28 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Save/*.dat"
+      }
+    ]
+  },
+  {
+    "appid": "3486530",
+    "name": "Stupid Never Dies",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/StupidNeverDies/Saved/SaveGames/<USER_ID>/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/StupidNeverDies/Saved/SaveGames/<USER_ID>/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/StupidNeverDies/Saved/SaveGames/<USER_ID>/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/StupidNeverDies/Saved/SaveGames/<USER_ID>/*.sav"
       }
     ]
   },
