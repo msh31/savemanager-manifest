@@ -25874,6 +25874,16 @@
     ]
   },
   {
+    "appid": "3802770",
+    "name": "Bloodville",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BLOODVILLE/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Bloodwings: Pumpkinhead's Revenge",
     "saves": [
@@ -29348,6 +29358,16 @@
       {
         "os": "windows",
         "path": "<APPDATA>/Brotato/<USER_ID>/*.json"
+      }
+    ]
+  },
+  {
+    "appid": "3892630",
+    "name": "Brothel Master",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BrothelSim/Saved/SaveGames/save.sav"
       }
     ]
   },
@@ -74000,6 +74020,20 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Packages/39EA002F.FINALFANTASYIX_n746a19ndrrjg/SystemAppData/wgs"
+      }
+    ]
+  },
+  {
+    "appid": "3259780",
+    "name": "Final Fantasy Resonance",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/FFRS/Steam/<USER_ID>/GameSaveData*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/FFRS_DEMO/Steam/<USER_ID>/GameSaveData*.sav"
       }
     ]
   },
@@ -226272,6 +226306,16 @@
     ]
   },
   {
+    "appid": "2774580",
+    "name": "Vikings: Sex and Blood",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Viking/Saved/SaveGames/**/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "404590",
     "name": "Vikings: Wolves of Midgard",
     "saves": [
@@ -226361,6 +226405,10 @@
     "appid": "",
     "name": "Vintage Story",
     "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/VintagestoryData/Saves"
+      },
       {
         "os": "linux",
         "path": "<LINUX_HOME>/.var/app/at.vintagestory.VintageStory/config/VintagestoryData/Saves"
