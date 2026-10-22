@@ -30328,6 +30328,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Buried stars",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/LINE Games/BURIED STARS"
+      }
+    ]
+  },
+  {
     "appid": "403290",
     "name": "Burly Men at Sea",
     "saves": [
