@@ -67352,6 +67352,16 @@
     ]
   },
   {
+    "appid": "2087540",
+    "name": "Escape from Playtime",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/EscapeFromPlaytime/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Escape from Ragor",
     "saves": [
@@ -230722,6 +230732,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Total Mayhem Games/We Were Here Together/Data/Saves"
+      }
+    ]
+  },
+  {
+    "appid": "2315050",
+    "name": "We Were Here Tomorrow",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SavesDir/*.data"
       }
     ]
   },
