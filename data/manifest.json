@@ -78394,6 +78394,24 @@
     ]
   },
   {
+    "appid": "1841240",
+    "name": "Fountains",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>.local/share/godot/app_userdata/Fountains/saves_RELEASE/*.fsave"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Fountains/saves_RELEASE/*.fsave"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Fountains/saves_RELEASE/**/*.fsave"
+      }
+    ]
+  },
+  {
     "appid": "503400",
     "name": "Four Last Things",
     "saves": [
