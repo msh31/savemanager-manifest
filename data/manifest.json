@@ -218790,6 +218790,20 @@
     ]
   },
   {
+    "appid": "3314580",
+    "name": "Trash Day",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/OffByOne/Trash/achievements.json*"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/OffByOne/Trash/save_*"
+      }
+    ]
+  },
+  {
     "appid": "676440",
     "name": "Trash Squad",
     "saves": [
