@@ -74033,11 +74033,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/FFRS/Steam/<USER_ID>/GameSaveData*.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/FFRS_DEMO/Steam/<USER_ID>/GameSaveData*.sav"
+        "path": "<LOCAL_APPDATA>/FFRS/Steam/<USER_ID>"
       }
     ]
   },
