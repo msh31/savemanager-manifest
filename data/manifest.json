@@ -134448,6 +134448,20 @@
     ]
   },
   {
+    "appid": "5054650",
+    "name": "Neon Breaker: Endless Arcade",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/NeonBreaker"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/NeonBreaker"
+      }
+    ]
+  },
+  {
     "appid": "428750",
     "name": "Neon Chrome",
     "saves": [
