@@ -4574,7 +4574,7 @@
     ]
   },
   {
-    "appid": "3635880",
+    "appid": "5370600",
     "name": "Ace Combat Zero: The Belkan War",
     "saves": [
       {
@@ -47046,6 +47046,10 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/Saved Games/CD Projekt Red/Cyberpunk 2077"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/CDPROJEKTSA.4d0e9834-20b1-4580-9bdc-4501ef2ffaac_0xkrdv0gjmk28/SystemAppData/wgs"
       }
     ]
   },
@@ -55155,7 +55159,7 @@
   },
   {
     "appid": "2458980",
-    "name": "Dimhaven - The Lost Source",
+    "name": "Dimhaven: The Lost Source",
     "saves": [
       {
         "os": "windows",
@@ -102214,6 +102218,20 @@
     ]
   },
   {
+    "appid": "2353060",
+    "name": "Invincible VS",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/TagFighter/Saved/SaveGames/<USER_ID>/EnhancedInputUserSettings.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/TagFighter/Saved/SaveGames/<USER_ID>/Slot*.sav"
+      }
+    ]
+  },
+  {
     "appid": "243970",
     "name": "Invisible, Inc.",
     "saves": [
@@ -140422,6 +140440,16 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/425220/remote/SYSTEM-DATA"
+      }
+    ]
+  },
+  {
+    "appid": "3905010",
+    "name": "One Piece: Grand Gourmet",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/OPGG/saves/<USER_ID>"
       }
     ]
   },
