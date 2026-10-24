@@ -142568,6 +142568,16 @@
     ]
   },
   {
+    "appid": "3767740",
+    "name": "Outhold",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Outhold"
+      }
+    ]
+  },
+  {
     "appid": "305050",
     "name": "Outland",
     "saves": [
@@ -178250,6 +178260,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Blue Wizard/slayaway camp"
+      }
+    ]
+  },
+  {
+    "appid": "4117730",
+    "name": "Slayblade",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Slayblade/*.save"
       }
     ]
   },
