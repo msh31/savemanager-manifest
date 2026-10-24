@@ -190704,28 +190704,6 @@
     ]
   },
   {
-    "appid": "3486530",
-    "name": "Stupid Never Dies",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/StupidNeverDies/Saved/SaveGames/<USER_ID>/*.json"
-      },
-      {
-        "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/StupidNeverDies/Saved/SaveGames/<USER_ID>/*.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/StupidNeverDies/Saved/SaveGames/<USER_ID>/*.json"
-      },
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/StupidNeverDies/Saved/SaveGames/<USER_ID>/*.sav"
-      }
-    ]
-  },
-  {
     "appid": "1045530",
     "name": "Stupid Quest - Medieval Adventures",
     "saves": [
