@@ -23744,6 +23744,16 @@
     ]
   },
   {
+    "appid": "3396010",
+    "name": "Black Friday Janitor: Clean the Whole Mall",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BlackFridayJanitor/Saved/SaveGames/cloud/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "1374930",
     "name": "Black Geyser: Couriers of Darkness",
     "saves": [
@@ -174050,6 +174060,20 @@
     ]
   },
   {
+    "appid": "4928820",
+    "name": "Shelve the Potions!",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Knight Owl Games/Shelve the Potions!/<USER_ID>"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/.local/share/steam/steamapps/compatdata/2521630/pfx/drive_c/users/steamuser/AppData/LocalLow/Knight Owl Games/Shelve the Potions!/<USER_ID>"
+      }
+    ]
+  },
+  {
     "appid": "758330",
     "name": "Shenmue I & II",
     "saves": [
@@ -229926,6 +229950,16 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/282680/remote"
+      }
+    ]
+  },
+  {
+    "appid": "3960600",
+    "name": "Warrior Cats: Clans of the Forest",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Wrc/Saved/SaveGames/*.sav"
       }
     ]
   },
