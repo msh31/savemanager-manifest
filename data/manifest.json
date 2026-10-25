@@ -94066,6 +94066,10 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/HighOnLife2/Saved/SaveGames"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/2637SquanchGamesInc.HighOnLife2_mh7dg3tfmz2cj/SystemAppData"
       }
     ]
   },
@@ -219944,6 +219948,10 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/Feral Interactive/Tropico 4/AppData/users"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Tropico 4/Users.lua"
       },
       {
         "os": "windows",
