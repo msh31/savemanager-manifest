@@ -3960,6 +3960,16 @@
     ]
   },
   {
+    "appid": "3129420",
+    "name": "ASPIS",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/ASPIS/Saved/SaveGames/**/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "703600",
     "name": "ASTRAL",
     "saves": [
