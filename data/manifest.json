@@ -219994,6 +219994,16 @@
     ]
   },
   {
+    "appid": "1498740",
+    "name": "Troublemaker",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Troublemaker/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "1051200",
     "name": "Trover Saves the Universe",
     "saves": [
@@ -227042,6 +227052,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Data/Save"
+      }
+    ]
+  },
+  {
+    "appid": "4365560",
+    "name": "Vixen 357",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves"
       }
     ]
   },
