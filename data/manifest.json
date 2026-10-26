@@ -132514,6 +132514,16 @@
     ]
   },
   {
+    "appid": "4356430",
+    "name": "NBA 2K27",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/79ACB67D.NBA2K27PC_yn88nk35a38zw/SystemAppData/wgs"
+      }
+    ]
+  },
+  {
     "appid": "3115130",
     "name": "NBA Bounce",
     "saves": [
