@@ -132016,6 +132016,16 @@
     ]
   },
   {
+    "appid": "50960",
+    "name": "Mystery Case Files: Huntsville",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "HKEY_CURRENT_USER/Software/Big Fish Games/Games/Mystery Case Files - Huntsville"
+      }
+    ]
+  },
+  {
     "appid": "50980",
     "name": "Mystery Case Files: Prime Suspects",
     "saves": [
