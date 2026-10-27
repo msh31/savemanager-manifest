@@ -17319,7 +17319,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/Aya/Saved/SaveGames/*.sav"
+        "path": "<LOCAL_APPDATA>/Aya/Saved/SaveGames"
       }
     ]
   },
@@ -46374,6 +46374,16 @@
     ]
   },
   {
+    "appid": "3825600",
+    "name": "Culdcept The First",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/Culdcept The First/*.bin"
+      }
+    ]
+  },
+  {
     "appid": "12310",
     "name": "Culpa Innata",
     "saves": [
@@ -50738,6 +50748,20 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Valhalla/Saved/SaveGames"
+      }
+    ]
+  },
+  {
+    "appid": "4465790",
+    "name": "Deadzone: Rogue 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Oak/Saved/Config/Windows"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Oak/Saved/SaveGames"
       }
     ]
   },
@@ -56740,6 +56764,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Dog_Gone_Golfing"
+      }
+    ]
+  },
+  {
+    "appid": "4782240",
+    "name": "Dog Man: Bark in Action",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Floor 84 Studio/Dog Man_ Bark in Action/<USER_ID>/*.dat"
       }
     ]
   },
@@ -82910,6 +82944,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/GeniusGreedyMouseData/*.dat"
+      }
+    ]
+  },
+  {
+    "appid": "2430010",
+    "name": "Gennady",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Feed 64/Gennady/stable/345961400/savegame.dat"
       }
     ]
   },
@@ -114640,8 +114684,16 @@
         "path": "<LOCAL_APPDATA>/Zelda_LA/SaveFiles"
       },
       {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Zelda_LA/achievements"
+      },
+      {
         "os": "linux",
         "path": "<XDG_DATA_HOME>/Zelda_LA/SaveFiles"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/Zelda_LA/achievements"
       }
     ]
   },
@@ -160326,6 +160378,16 @@
     ]
   },
   {
+    "appid": "3335310",
+    "name": "Remothered: Red Nun's Legacy",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Remothered3/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "633360",
     "name": "Remothered: Tormented Fathers",
     "saves": [
@@ -161382,6 +161444,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Orbit Studio/RetroMachina"
+      }
+    ]
+  },
+  {
+    "appid": "3739960",
+    "name": "Retro Racing 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Mr Qwak/Retro Racing 2/player"
       }
     ]
   },
@@ -181806,6 +181878,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "SoulTrap",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Games"
+      }
+    ]
+  },
+  {
     "appid": "759920",
     "name": "Souland",
     "saves": [
@@ -196149,6 +196231,10 @@
       },
       {
         "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/ttt/sprays/*.wad"
+      },
+      {
+        "os": "windows",
         "path": "<GAME_INSTALL_DIR>/ttt/voice_ban.dt"
       },
       {
@@ -206574,6 +206660,10 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Save/file*.sav"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/soh/Save/file*.sav"
       }
     ]
   },
@@ -226910,6 +227000,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/The_Core_Message/**/*.ini"
+      }
+    ]
+  },
+  {
+    "appid": "3743260",
+    "name": "Virtue and a Sledgehammer",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Sledgehammer/UserDir/Saved/SaveGames/<USER_ID>/*.sav"
       }
     ]
   },
