@@ -6030,6 +6030,16 @@
     ]
   },
   {
+    "appid": "2450040",
+    "name": "Aftershock: Coastline",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Alex Rassloff/Aftershock_ Coastline/SaveData"
+      }
+    ]
+  },
+  {
     "appid": "1009240",
     "name": "Again (2019)",
     "saves": [
@@ -146854,6 +146864,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/PhantomAbyss/Saved"
+      }
+    ]
+  },
+  {
+    "appid": "4115450",
+    "name": "Phantom Blade Zero",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/ProjectPBZ/Saved/SaveGames/Steam/<USER_ID>/**/*.sav"
       }
     ]
   },
