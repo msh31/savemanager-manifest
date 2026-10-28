@@ -7380,6 +7380,16 @@
     ]
   },
   {
+    "appid": "1167820",
+    "name": "Airport Contraband",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/AirportContraband/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "350530",
     "name": "Airport Firefighters - The Simulation",
     "saves": [
@@ -152420,6 +152430,16 @@
       {
         "os": "windows",
         "path": "<PROGRAM_DATA>/ProStroke Golf/SaveData"
+      }
+    ]
+  },
+  {
+    "appid": "4348910",
+    "name": "Probably Stolen",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Questing Goose Studio/Probably Stolen/*.es3"
       }
     ]
   },
