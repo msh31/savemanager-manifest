@@ -35030,24 +35030,6 @@
     ]
   },
   {
-    "appid": "3569420",
-    "name": "Chained Beasts",
-    "saves": [
-      {
-        "os": "linux",
-        "path": "<LINUX_HOME>/.config/unity3d/Featherweight Games/ChainedBeasts/SaveData"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Featherweight Games/ChainedBeasts/SaveData"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/unity.Featherweight Games.ChainedBeasts/SaveData"
-      }
-    ]
-  },
-  {
     "appid": "1229240",
     "name": "Chained Echoes",
     "saves": [
@@ -160374,16 +160356,6 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Remothered2/Saved/SaveGames"
-      }
-    ]
-  },
-  {
-    "appid": "3335310",
-    "name": "Remothered: Red Nun's Legacy",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/Remothered3/Saved/SaveGames/*.sav"
       }
     ]
   },
