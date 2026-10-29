@@ -44852,6 +44852,16 @@
     ]
   },
   {
+    "appid": "4198360",
+    "name": "Croc 2: Kingdom of the Gobbos",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Croc 2/saves/<USER_ID>"
+      }
+    ]
+  },
+  {
     "appid": "3043940",
     "name": "Croc: Legend of the Gobbos (2025)",
     "saves": [
@@ -118739,6 +118749,10 @@
     "saves": [
       {
         "os": "windows",
+        "path": "<LOCAL_APPDATA>/MIO/Saves/Steam/<USER_ID>"
+      },
+      {
+        "os": "windows",
         "path": "<LOCAL_APPDATA>/Packages/FocusHomeInteractiveSA.MioMemoriesinOrbit_4hny5m903y3g0/SystemAppData/wgs"
       }
     ]
@@ -146993,7 +147007,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/ProjectPBZ/Saved/SaveGames/Steam/<USER_ID>/**/*.sav"
+        "path": "<GAME_INSTALL_DIR>/ProjectPBZ/Saved/SaveGames/Steam/<USER_ID>"
       }
     ]
   },
@@ -212386,6 +212400,16 @@
     ]
   },
   {
+    "appid": "3884860",
+    "name": "The Wolf Among Us Remastered",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/Telltale Games/The Wolf Among Us Remastered"
+      }
+    ]
+  },
+  {
     "appid": "656040",
     "name": "The Wolf's Bite",
     "saves": [
@@ -237886,6 +237910,10 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/My Games/YaE/savegames"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/My Games/YaE_Absolute/savegames/Save*"
       }
     ]
   },
