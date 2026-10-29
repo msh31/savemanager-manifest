@@ -61856,6 +61856,24 @@
     ]
   },
   {
+    "appid": "2400510",
+    "name": "Dungeons & Degenerate Gamblers",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/godot/app_userdata/Dungeons & Degenerate Gamblers/1/*.cfg"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Library/Application Support/Godot/app_userdata/Dungeons & Degenerate Gamblers/1/*.cfg"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/Dungeons & Degenerate Gamblers/1/*.cfg"
+      }
+    ]
+  },
+  {
     "appid": "229480",
     "name": "Dungeons & Dragons: Chronicles of Mystara",
     "saves": [
@@ -108010,6 +108028,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/Kingdom Elemental/**/*.*"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Kingdom Hearts 358/2 Days",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves"
       }
     ]
   },
@@ -200022,6 +200050,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/MMahjong/*.ini"
+      }
+    ]
+  },
+  {
+    "appid": "3431040",
+    "name": "That's Not My Neighbor",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/That's not my Neighbor"
       }
     ]
   },
