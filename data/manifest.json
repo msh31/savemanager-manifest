@@ -2674,6 +2674,44 @@
     ]
   },
   {
+    "appid": "5189500",
+    "name": "A Place for Every Potion",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/CubeQuad/A Place for Every Potion/GlobalProgress"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/CubeQuad/A Place for Every Potion/PlayerProgress"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/CubeQuad/A Place for Every Potion/PlayerSettings"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/CubeQuad/A Place for Every Potion/PotionsPersistentData_*"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/CubeQuad/A Place for Every Potion/GlobalProgress"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/CubeQuad/A Place for Every Potion/PlayerProgress"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/CubeQuad/A Place for Every Potion/PlayerSettings"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/CubeQuad/A Place for Every Potion/PotionsPersistentData_*"
+      }
+    ]
+  },
+  {
     "appid": "752590",
     "name": "A Plague Tale: Innocence",
     "saves": [
@@ -10796,6 +10834,16 @@
       {
         "os": "windows",
         "path": "<APPDATA>/Rovio/Angry Birds/*.*"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Angry Birds Epic",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Rovio Entertainment Ltd_/Epic/prefs/player"
       }
     ]
   },
