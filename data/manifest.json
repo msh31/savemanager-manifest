@@ -64148,6 +64148,32 @@
     ]
   },
   {
+    "appid": "4834840",
+    "name": "Ecstatica (2026)",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/SNEG/Ecstatica/Save Slots/000*.ecs"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/SNEG/Ecstatica/Save Slots/000*.png"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/SNEG/Ecstatica/controls.bin"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/SNEG/Ecstatica/settings.json"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/SNEG/Ecstatica/store.bin"
+      }
+    ]
+  },
+  {
     "appid": "904810",
     "name": "Ectolibrium",
     "saves": [
@@ -97856,6 +97882,16 @@
       {
         "os": "windows",
         "path": "<APPDATA>/increpare/hypnocult"
+      }
+    ]
+  },
+  {
+    "appid": "2861210",
+    "name": "Hypnos",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/HYPNOS/Saved/SaveGames/*.sav"
       }
     ]
   },
@@ -174002,16 +174038,6 @@
     ]
   },
   {
-    "appid": "1045180",
-    "name": "Shattered - Tale of the Forgotten King",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<LOCAL_APPDATA>/ShatteredTOTFK/Saved/SaveGames/*.sav"
-      }
-    ]
-  },
-  {
     "appid": "661110",
     "name": "Shattered God - Quest for the Divine Relic",
     "saves": [
@@ -174076,6 +174102,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/SavesDir/*.sav"
+      }
+    ]
+  },
+  {
+    "appid": "1045180",
+    "name": "Shattered: Tale of the Forgotten King",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/ShatteredTOTFK/Saved/SaveGames/*.sav"
       }
     ]
   },
@@ -216216,6 +216252,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/tats.sv"
+      }
+    ]
+  },
+  {
+    "appid": "5028390",
+    "name": "Too Many Toys!",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Jakub T & 4ydam/Too Many Toys!/*.es3"
       }
     ]
   },
