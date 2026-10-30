@@ -59950,6 +59950,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Dreams to Reality",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/DATA/GAME"
+      }
+    ]
+  },
+  {
     "appid": "271990",
     "name": "Dreamscape",
     "saves": [
@@ -212432,16 +212442,6 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Packages/TelltaleGames.TheWolfAmongUs-ATelltaleGamesSeries_4p9dzwrngadje/SystemAppData/wgs"
-      }
-    ]
-  },
-  {
-    "appid": "3884860",
-    "name": "The Wolf Among Us Remastered",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/Telltale Games/The Wolf Among Us Remastered"
       }
     ]
   },
