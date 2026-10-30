@@ -50364,6 +50364,84 @@
     ]
   },
   {
+    "appid": "5056390",
+    "name": "Dead of the Brain",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.pcx/DeadoftheBrain/*.bin"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.pcx/DeadoftheBrain/*.sav"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.pcx/DeadoftheBrain/FLAG*"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.pcx/DeadoftheBrain/NAME.DEF"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.pcx/DeadoftheBrain/pcx-save-keys.txt"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.pcx/DeadoftheBrain/persistent"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/PCX/DeadoftheBrain/*.bin"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/PCX/DeadoftheBrain/*.sav"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/PCX/DeadoftheBrain/FLAG*"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/PCX/DeadoftheBrain/NAME.DEF"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/PCX/DeadoftheBrain/pcx-save-keys.txt"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/PCX/DeadoftheBrain/persistent"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/PCX/DeadoftheBrain/**/*.bin"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/PCX/DeadoftheBrain/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/PCX/DeadoftheBrain/FLAG*"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/PCX/DeadoftheBrain/NAME.DEF"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/PCX/DeadoftheBrain/pcx-save-keys.txt"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/PCX/DeadoftheBrain/persistent"
+      }
+    ]
+  },
+  {
     "appid": "838380",
     "name": "Dead or Alive 6",
     "saves": [
@@ -56772,6 +56850,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Packages/HumbleBundle.DodgeballAcademia_q2mcdwmzx4qja/SystemAppData"
+      }
+    ]
+  },
+  {
+    "appid": "3358170",
+    "name": "Dodo Duckie",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/DoDoDuck/Saved/SaveGames/*.sav"
       }
     ]
   },
@@ -68846,6 +68934,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Edengrall/Everyday Life Edengrall/Saves/*.zip"
+      }
+    ]
+  },
+  {
+    "appid": "3526710",
+    "name": "Everything is Crab",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Odd Dreams Digital/Everything is Crab/SyncedData/Steam/**/Slot_*_*v*save"
       }
     ]
   },
@@ -87636,6 +87734,24 @@
     ]
   },
   {
+    "appid": "4953280",
+    "name": "Groovekeeper: Sort the Record Shop",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/NoRyte Studios/Groovekeeper/save_slot_*.es3"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/NoRyte Studios/Groovekeeper/save_slot_*.es3.bak"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/NoRyte Studios/Groovekeeper/save_slot_*.es3.tmp.bak"
+      }
+    ]
+  },
+  {
     "appid": "948990",
     "name": "Grottesco Absurdus",
     "saves": [
@@ -88012,7 +88128,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "5511700",
     "name": "Gubble 2",
     "saves": [
       {
@@ -153126,76 +153242,16 @@
     "name": "Project P.I.T.T.",
     "saves": [
       {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/*.save"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/*.save.bak"
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/godot/app_userdata/Project P.I.T.T"
       },
       {
         "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/keybindings.cfg"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/locale.cfg"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/profile.cfg"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T/settings.cfg"
+        "path": "<OSX_HOME>/Library/Application Support/Godot/app_userdata/Project P.I.T.T"
       },
       {
         "os": "windows",
-        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/*.save"
-      },
-      {
-        "os": "windows",
-        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/*.save.bak"
-      },
-      {
-        "os": "windows",
-        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/keybindings.cfg"
-      },
-      {
-        "os": "windows",
-        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/locale.cfg"
-      },
-      {
-        "os": "windows",
-        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/profile.cfg"
-      },
-      {
-        "os": "windows",
-        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T/settings.cfg"
-      },
-      {
-        "os": "linux",
-        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/*.save"
-      },
-      {
-        "os": "linux",
-        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/*.save.bak"
-      },
-      {
-        "os": "linux",
-        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/keybindings.cfg"
-      },
-      {
-        "os": "linux",
-        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/locale.cfg"
-      },
-      {
-        "os": "linux",
-        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/profile.cfg"
-      },
-      {
-        "os": "linux",
-        "path": "<XDG_DATA_HOME>/godot/app_userdata/Project P.I.T.T/settings.cfg"
+        "path": "<APPDATA>/Godot/app_userdata/Project P.I.T.T"
       }
     ]
   },
@@ -155500,6 +155556,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/game/**/*.save"
+      }
+    ]
+  },
+  {
+    "appid": "1799840",
+    "name": "Queen's Domain",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/QueensDomain/Saved/SaveGames/<USER_ID>/**/*.sav"
       }
     ]
   },
@@ -161226,6 +161292,16 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/287290/remote"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Resident Evil: The Umbrella Chronicles",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves"
       }
     ]
   },
@@ -170468,6 +170544,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Save"
+      }
+    ]
+  },
+  {
+    "appid": "2379350",
+    "name": "Scramble Knights Online",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves/<USER_ID>"
       }
     ]
   },
@@ -199546,6 +199632,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/*.rvdata2"
+      }
+    ]
+  },
+  {
+    "appid": "2920220",
+    "name": "Terrible Lizards",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Windows/terrible_lizards/Saved/SaveGames/*.sav"
       }
     ]
   },
