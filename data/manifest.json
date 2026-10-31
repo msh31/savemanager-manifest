@@ -52173,6 +52173,16 @@
   },
   {
     "appid": "",
+    "name": "Deer Avenger 3D",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/savegame"
+      }
+    ]
+  },
+  {
+    "appid": "",
     "name": "Deer Hunter 2004",
     "saves": [
       {
