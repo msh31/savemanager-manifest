@@ -13056,6 +13056,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Ardennes Offensive",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/AO_op"
+      }
+    ]
+  },
+  {
     "appid": "1521160",
     "name": "Are You Smarter Than a 5th Grader? (2022)",
     "saves": [
