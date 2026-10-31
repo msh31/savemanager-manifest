@@ -143034,6 +143034,20 @@
     ]
   },
   {
+    "appid": "2948680",
+    "name": "Outlive 25",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Continuum/Outlive25/Players/<USER_ID>"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/Outlive25/User Maps/**/*.map"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Outpost 2: Divided Destiny",
     "saves": [
@@ -234872,6 +234886,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Wolfpack_Data/UserData/<USER_ID>/*.xml"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Wolfschanze",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Data/*.sav"
       }
     ]
   },
