@@ -33897,15 +33897,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/KONAMI/Castlevania Belmont's Curse/*.sav"
-      },
-      {
-        "os": "linux",
-        "path": "<LINUX_HOME>/KONAMI/Castlevania Belmont's Curse/*.sav"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/KONAMI/Castlevania Belmont's Curse/*.sav"
+        "path": "<USER_PROFILE>/AppData/LocalLow/KONAMI/Castlevania Belmont's Curse"
       }
     ]
   },
@@ -161775,7 +161767,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/LocalLow/The Wild Gentlemen/Retrospace/Saves"
+        "path": "<USER_PROFILE>/AppData/LocalLow/The Wild Gentlemen/Retrospace/Saves"
       }
     ]
   },
@@ -188462,40 +188454,8 @@
     "name": "Stay Out of the House",
     "saves": [
       {
-        "os": "linux",
-        "path": "<LINUX_HOME>/.config/unity3d/PuppetCombo/Stay out of the HouseAchievementProgress*.*"
-      },
-      {
-        "os": "linux",
-        "path": "<LINUX_HOME>/.config/unity3d/PuppetCombo/Stay out of the HouseConfig*.*"
-      },
-      {
-        "os": "linux",
-        "path": "<LINUX_HOME>/.config/unity3d/PuppetCombo/Stay out of the HouseSaveFile*.*"
-      },
-      {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/PuppetCombo/Stay out of the House/AchievementProgress*.*"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/PuppetCombo/Stay out of the House/Config*.*"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/PuppetCombo/Stay out of the House/SaveFile*.*"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/unity.PuppetCombo.Stay-out-of-the-HouseAchievementProgress*.*"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/unity.PuppetCombo.Stay-out-of-the-HouseConfig*.*"
-      },
-      {
-        "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/unity.PuppetCombo.Stay-out-of-the-HouseSaveFile*.*"
+        "path": "<USER_PROFILE>/AppData/LocalLow/PuppetCombo/Stay out of the House"
       }
     ]
   },
@@ -235269,7 +235229,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/cBlck/Wordle"
+        "path": "<USER_PROFILE>/AppData/LocalLow/GigantumGames/Wordle"
       }
     ]
   },
