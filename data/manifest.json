@@ -47420,20 +47420,6 @@
     ]
   },
   {
-    "appid": "3810510",
-    "name": "DERELIKT",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Visuwyg/DERELIKT/PersistentData/*/*.drt"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Visuwyg/DERELIKT/PersistentData/*/data.ctg"
-      }
-    ]
-  },
-  {
     "appid": "632250",
     "name": "DERU - The Art of Cooperation",
     "saves": [
@@ -53584,6 +53570,20 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/com.IOGames.DerbyCarmageddon/*.*"
+      }
+    ]
+  },
+  {
+    "appid": "3810510",
+    "name": "Derelikt",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Visuwyg/DERELIKT/PersistentData/*/*.drt"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Visuwyg/DERELIKT/PersistentData/*/data.ctg"
       }
     ]
   },
@@ -157638,6 +157638,18 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/CHAR*.FIL"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/ACH_*.DAT"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/CHAR*.ACH"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/CHAR*.FIL"
       }
     ]
   },
@@ -185319,7 +185331,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/SavesDir/*.sav"
+        "path": "<LOCAL_APPDATA>/SpookyCats/User Data"
       }
     ]
   },
