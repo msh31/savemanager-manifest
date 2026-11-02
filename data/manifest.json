@@ -23420,20 +23420,6 @@
     ]
   },
   {
-    "appid": "1928690",
-    "name": "Bionic Bay",
-    "saves": [
-      {
-        "os": "linux",
-        "path": "<LINUX_HOME>/.config/unity3d/PsychoflowStudio/BionicBay/*.sav"
-      },
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/Saved Games/BionicBay/**/*.sav"
-      }
-    ]
-  },
-  {
     "appid": "21670",
     "name": "Bionic Commando (2009)",
     "saves": [
@@ -37445,7 +37431,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Nayuta Studio/Cineris Somnia/save/*.sav"
+        "path": "<APPDATA>/LocalLow/Nayuta Studio/Cineris Somnia/save"
       }
     ]
   },
@@ -172060,6 +172046,16 @@
     ]
   },
   {
+    "appid": "4984870",
+    "name": "Selkie's Salvage&Co.",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Selkies Salvage/save*.tres"
+      }
+    ]
+  },
+  {
     "appid": "676460",
     "name": "Sellsword VR",
     "saves": [
@@ -227432,6 +227428,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/ViviEon_Data/StreamingAssets"
+      }
+    ]
+  },
+  {
+    "appid": "2078510",
+    "name": "Vividlope",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/VIVIDLOPE/*.viv"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/VIVIDLOPE/*.vivi"
       }
     ]
   },
