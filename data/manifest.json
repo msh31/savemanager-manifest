@@ -37431,7 +37431,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<APPDATA>/LocalLow/Nayuta Studio/Cineris Somnia/save"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Nayuta Studio/Cineris Somnia/save"
       }
     ]
   },
@@ -149910,16 +149910,6 @@
     ]
   },
   {
-    "appid": "1899060",
-    "name": "Pocket Mirror ~ GoldenerTraum",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/save/*.rmmzsave"
-      }
-    ]
-  },
-  {
     "appid": "946610",
     "name": "Pocket Rogues",
     "saves": [
@@ -205558,6 +205548,26 @@
     ]
   },
   {
+    "appid": "3364070",
+    "name": "The Jackbox Party Pack 11",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Jackbox Games/The Jackbox Party Pack 11"
+      }
+    ]
+  },
+  {
+    "appid": "4199960",
+    "name": "The Jackbox Party Pack 12",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Jackbox Games/The Jackbox Party Pack 12"
+      }
+    ]
+  },
+  {
     "appid": "397460",
     "name": "The Jackbox Party Pack 2",
     "saves": [
@@ -205568,6 +205578,16 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Jackbox Games/The Jackbox Party Pack 2/UserData.sav"
+      }
+    ]
+  },
+  {
+    "appid": "2948640",
+    "name": "The Jackbox Survey Scramble",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Jackbox Games/The Jackbox Survey Scramble"
       }
     ]
   },
@@ -220148,6 +220168,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/TriumphInTheSkies_Data/JSON/*."
+      }
+    ]
+  },
+  {
+    "appid": "3048060",
+    "name": "Trivia Murder Party 3",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/TMP3/Saved/SaveGames"
       }
     ]
   },
