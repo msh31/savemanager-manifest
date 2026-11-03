@@ -85386,6 +85386,16 @@
     ]
   },
   {
+    "appid": "4251460",
+    "name": "Godzilla: Destroy All Monsters Melee Remastered",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/GZPro/Saved/SaveGames/<USER_ID>/GZProSave.sav"
+      }
+    ]
+  },
+  {
     "appid": "421740",
     "name": "Goetia",
     "saves": [
@@ -155094,6 +155104,36 @@
     ]
   },
   {
+    "appid": "1648190",
+    "name": "Qanga",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Qanga/Saved/SaveGames/*Tutorial.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Qanga/Saved/SaveGames/BACKUP_Offline/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Qanga/Saved/SaveGames/LocalData.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Qanga/Saved/SaveGames/Offline"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Qanga/Saved/SaveGames/QStorage/Offline/**/*.qst"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Qanga/Saved/SaveGames/QStorage/Offline/**/*.qst.bak"
+      }
+    ]
+  },
+  {
     "appid": "296030",
     "name": "Qasir al-Wasat: International Edition",
     "saves": [
@@ -178842,6 +178882,14 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/xsrvcx.dll"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.prefs/slice-and-dice-3"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.prefs/slice-and-dice-3x"
       }
     ]
   },
