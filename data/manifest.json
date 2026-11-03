@@ -64249,23 +64249,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<APPDATA>/SNEG/Ecstatica/Save Slots/000*.ecs"
-      },
-      {
-        "os": "windows",
-        "path": "<APPDATA>/SNEG/Ecstatica/Save Slots/000*.png"
-      },
-      {
-        "os": "windows",
-        "path": "<APPDATA>/SNEG/Ecstatica/controls.bin"
-      },
-      {
-        "os": "windows",
-        "path": "<APPDATA>/SNEG/Ecstatica/settings.json"
-      },
-      {
-        "os": "windows",
-        "path": "<APPDATA>/SNEG/Ecstatica/store.bin"
+        "path": "<APPDATA>/SNEG/Ecstatica/Save Slots"
       }
     ]
   },
@@ -87412,6 +87396,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Gremlins_vs_Automatons_Data/user.dat"
+      }
+    ]
+  },
+  {
+    "appid": "2424300",
+    "name": "Grey Heritage: Noble Duty",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Save"
       }
     ]
   },
@@ -127598,6 +127592,24 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Packages/zakuri5.mitsurugi_5aq1vr3femzg4/SystemAppData/wgs/<USER_ID>"
+      }
+    ]
+  },
+  {
+    "appid": "3891400",
+    "name": "Mixed Spirits: Bartender",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Rogue Duck Interactive/Mixed Spirits/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Rogue Duck Interactive/Mixed Spirits/**/*.json"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Rogue Duck Interactive/Mixed Spirits/*.json"
       }
     ]
   },
