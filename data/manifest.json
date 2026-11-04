@@ -197196,6 +197196,20 @@
     ]
   },
   {
+    "appid": "4764420",
+    "name": "Tale Sweeper",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/DefaultCompany/Tale Sweeper/save.dat"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/DefaultCompany/Tale Sweeper/save.dat"
+      }
+    ]
+  },
+  {
     "appid": "684590",
     "name": "Tale of Enki: Pilgrimage",
     "saves": [
@@ -197808,6 +197822,10 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Shadows/Saved/SaveGames"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/Epic/Shadows/Saved/SaveGames"
       }
     ]
   },
@@ -227889,11 +227907,11 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/VOIDBREAKER/Saved/Config/Windows/*.ini"
+        "path": "<LOCAL_APPDATA>/VOIDBREAKER/Saved/SaveGames/LimaSaveGame.sav"
       },
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/VOIDBREAKER/Saved/SaveGames/*.sav"
+        "path": "<LOCAL_APPDATA>/VOIDBREAKER/Saved/SaveGames/TimePlayed.sav"
       }
     ]
   },
@@ -237454,16 +237472,6 @@
     ]
   },
   {
-    "appid": "1293820",
-    "name": "YOU and ME and HER: A Love Story",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<APPDATA>/Nitroplus/totono"
-      }
-    ]
-  },
-  {
     "appid": "736420",
     "name": "Yag",
     "saves": [
@@ -238310,6 +238318,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Spiral Bound Interactive/You Will Die Here Tonight/save slot 1.ywdht"
+      }
+    ]
+  },
+  {
+    "appid": "1293820",
+    "name": "You and Me and Her: A Love Story",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Nitroplus/totono"
       }
     ]
   },
