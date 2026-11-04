@@ -150043,6 +150043,20 @@
   },
   {
     "appid": "",
+    "name": "PokéPark Wii: Pikachu's Adventure",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/R8AE01/nand/title/00010000/52384145/data"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/R8AE01/nand/title/00010000/52384145/data/GD0"
+      }
+    ]
+  },
+  {
+    "appid": "",
     "name": "Pokémon Trading Card Game Live",
     "saves": [
       {
