@@ -115610,6 +115610,16 @@
     ]
   },
   {
+    "appid": "2429860",
+    "name": "Living With Sister: Monochrome Fantasy",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Save"
+      }
+    ]
+  },
+  {
     "appid": "1078330",
     "name": "Liz ~The Tower and the Grimoire~",
     "saves": [
@@ -132126,6 +132136,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Amistech/My Summer Car"
+      }
+    ]
+  },
+  {
+    "appid": "3099780",
+    "name": "My Sweet Waifu Konko",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/*.sav"
       }
     ]
   },
@@ -169183,6 +169203,10 @@
     "appid": "40720",
     "name": "Samorost 2",
     "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Amanita Design/Samorost 2/s2save.bin"
+      },
       {
         "os": "windows",
         "path": "<APPDATA>/amanita-design.samorost3/Local Store/s2save.bin"
