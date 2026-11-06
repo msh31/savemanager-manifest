@@ -32126,6 +32126,16 @@
     ]
   },
   {
+    "appid": "5133900",
+    "name": "Can 'Em All",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/LuisDev/Can 'Em All/save.sav"
+      }
+    ]
+  },
+  {
     "appid": "1295320",
     "name": "Can of Wormholes",
     "saves": [
@@ -90854,6 +90864,16 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/492290/remote"
+      }
+    ]
+  },
+  {
+    "appid": "4124830",
+    "name": "Hasbro Games Junior Collection",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Casual Brothers/Hasbro Games Junior Collection"
       }
     ]
   },
