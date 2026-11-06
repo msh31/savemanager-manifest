@@ -22216,6 +22216,16 @@
     ]
   },
   {
+    "appid": "3367320",
+    "name": "Bessie's Milk Delivery",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/www/save/*.rpgsave"
+      }
+    ]
+  },
+  {
     "appid": "1034850",
     "name": "Best Friend Forever",
     "saves": [
@@ -45342,7 +45352,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3066900",
     "name": "Crusader: No Regret",
     "saves": [
       {
@@ -45352,7 +45362,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3066890",
     "name": "Crusader: No Remorse",
     "saves": [
       {
@@ -46121,7 +46131,39 @@
     "saves": [
       {
         "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/NanningsGames/Cube Mission/RelicCollection/collection-v1.json"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/NanningsGames/Cube Mission/RelicCollection/completion-rewards-v2.json"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/NanningsGames/Cube Mission/RelicCollection/cosmetics-v1.json"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/NanningsGames/Cube Mission/RelicCollection/selected-skin-v1.json"
+      },
+      {
+        "os": "linux",
         "path": "<LINUX_HOME>/.config/unity3d/NanningsGames/Cube Mission/savedata"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/NanningsGames/Cube Mission/RelicCollection/collection-v1.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/NanningsGames/Cube Mission/RelicCollection/completion-rewards-v2.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/NanningsGames/Cube Mission/RelicCollection/cosmetics-v1.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/NanningsGames/Cube Mission/RelicCollection/selected-skin-v1.json"
       },
       {
         "os": "windows",
@@ -152306,7 +152348,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067130",
     "name": "Privateer 2: The Darkening",
     "saves": [
       {
@@ -190734,7 +190776,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067110",
     "name": "Strike Commander",
     "saves": [
       {
@@ -212946,7 +212988,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "2229820",
     "name": "Theme Hospital",
     "saves": [
       {
@@ -222334,7 +222376,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067480",
     "name": "Ultima I: The First Age of Darkness",
     "saves": [
       {
@@ -222344,7 +222386,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067490",
     "name": "Ultima II: The Revenge of the Enchantress",
     "saves": [
       {
@@ -222354,7 +222396,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067500",
     "name": "Ultima III: Exodus",
     "saves": [
       {
@@ -222372,7 +222414,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067510",
     "name": "Ultima IV: Quest of the Avatar",
     "saves": [
       {
@@ -222382,7 +222424,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067560",
     "name": "Ultima IX: Ascension",
     "saves": [
       {
@@ -222392,7 +222434,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067590",
     "name": "Ultima Underworld II: Labyrinth of Worlds",
     "saves": [
       {
@@ -222406,7 +222448,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067580",
     "name": "Ultima Underworld: The Stygian Abyss",
     "saves": [
       {
@@ -222420,7 +222462,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067520",
     "name": "Ultima V: Warriors of Destiny",
     "saves": [
       {
@@ -222430,7 +222472,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067530",
     "name": "Ultima VI: The False Prophet",
     "saves": [
       {
@@ -222440,7 +222482,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067540",
     "name": "Ultima VII Part Two: Serpent Isle",
     "saves": [
       {
@@ -222454,7 +222496,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067540",
     "name": "Ultima VII: The Black Gate",
     "saves": [
       {
@@ -222468,7 +222510,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067550",
     "name": "Ultima VIII: Pagan",
     "saves": [
       {
@@ -233828,7 +233870,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "2008740",
     "name": "Wing Commander III: Heart of the Tiger",
     "saves": [
       {
@@ -233838,7 +233880,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "2008750",
     "name": "Wing Commander IV: The Price of Freedom",
     "saves": [
       {
@@ -233848,7 +233890,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067090",
     "name": "Wing Commander: Academy",
     "saves": [
       {
@@ -233858,7 +233900,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067100",
     "name": "Wing Commander: Armada",
     "saves": [
       {
@@ -233868,7 +233910,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "2008760",
     "name": "Wing Commander: Privateer",
     "saves": [
       {
@@ -233882,12 +233924,42 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "3067120",
     "name": "Wing Commander: Prophecy",
     "saves": [
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/save"
+      }
+    ]
+  },
+  {
+    "appid": "3067120",
+    "name": "Wing Commander: Secret Ops",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Enhanced/Secret Ops/save/**/*.*"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Enhanced/history/**/*.*"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Enhanced/save/**/*.*"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Original/Secret Ops/save/**/*.*"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Original/history/**/*.*"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Original/save/**/*.*"
       }
     ]
   },
