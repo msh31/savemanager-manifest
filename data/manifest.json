@@ -11131,7 +11131,7 @@
   },
   {
     "appid": "353980",
-    "name": "Ankh - Anniversary Edition",
+    "name": "Ankh: Anniversary Edition",
     "saves": [
       {
         "os": "windows",
@@ -138790,6 +138790,24 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/gamexml/*.xml"
+      }
+    ]
+  },
+  {
+    "appid": "2231090",
+    "name": "Number Machine: Math Factory",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/ARIELEK/Number Machine/Steam_<USER_ID>/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/ARIELEK/Number Machine/Steam_<USER_ID>/*.sav"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/com.ARIELEK.Number Machine/Steam_<USER_ID>/*.sav"
       }
     ]
   },
