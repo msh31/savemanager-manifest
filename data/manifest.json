@@ -133166,6 +133166,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "NIRA: Intense Import Drag Racing",
+    "saves": [
+      {
+        "os": "dos",
+        "path": "<GAME_INSTALL_DIR>/SAVE"
+      }
+    ]
+  },
+  {
     "appid": "975000",
     "name": "NO, THANK YOU!!!",
     "saves": [
