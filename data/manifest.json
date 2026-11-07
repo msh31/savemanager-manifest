@@ -34496,6 +34496,16 @@
     ]
   },
   {
+    "appid": "844380",
+    "name": "Cave Digger",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Mekiwi/Cave Digger_ Riches/progress.save"
+      }
+    ]
+  },
+  {
     "appid": "2850620",
     "name": "Cave Hikers",
     "saves": [
@@ -111771,7 +111781,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/Local/Cron/Saved/SaveGames/<USER_ID>"
+        "path": "<LOCAL_APPDATA>/Cron/Saved/SaveGames/<USER_ID>"
       }
     ]
   },
@@ -228384,6 +228394,16 @@
     ]
   },
   {
+    "appid": "334540",
+    "name": "Vox Machinae",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/SpaceBulletDynamicsCorporation/VoxMachinae"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Voxatron",
     "saves": [
@@ -233924,6 +233944,18 @@
       {
         "os": "dos",
         "path": "<GAME_INSTALL_DIR>/00000*.WSG"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/DOS/*.WSG"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Kilrathi_Saga/*.WSG"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/wc3w_en/*.WSG"
       }
     ]
   },
