@@ -238429,6 +238429,10 @@
     "saves": [
       {
         "os": "windows",
+        "path": "<APPDATA>/YaE_Absolute/savegames/Save*"
+      },
+      {
+        "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/My Games/YaE/savegames"
       },
       {
