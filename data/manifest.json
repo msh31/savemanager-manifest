@@ -83250,6 +83250,32 @@
     ]
   },
   {
+    "appid": "2667980",
+    "name": "Genotype",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BolverkGames/GenotypeGame/0"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BolverkGames/GenotypeGame/1"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BolverkGames/GenotypeGame/2"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BolverkGames/GenotypeGame/3"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BolverkGames/GenotypeGame/4"
+      }
+    ]
+  },
+  {
     "appid": "1019920",
     "name": "Gensokyo Defenders / 幻想郷ディフェンダーズ / 幻想鄉守護者",
     "saves": [
@@ -152873,7 +152899,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Questing Goose Studio/Probably Stolen/*.es3"
+        "path": "<LOCAL_APPDATA>/Questing Goose Studio/Probably Stolen"
       }
     ]
   },
