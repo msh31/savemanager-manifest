@@ -121414,6 +121414,20 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Marble Blast Ultra",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/GarageGames/Marble Blast Ultra/achievements.cs"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/GarageGames/Marble Blast Ultra/scores.cs"
+      }
+    ]
+  },
+  {
     "appid": "949000",
     "name": "Marble Combat",
     "saves": [
