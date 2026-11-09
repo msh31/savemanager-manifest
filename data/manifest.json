@@ -74567,6 +74567,10 @@
       },
       {
         "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/39EA002F.FFXIII-2_n746a19ndrrjg/SystemAppData/wgs"
+      },
+      {
+        "os": "windows",
         "path": "<LOCAL_APPDATA>/SquareEnix/FinalFantasyXIII-2/save"
       }
     ]
@@ -99063,7 +99067,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Xlab Digital/**/*.json"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Xlab Digital/IronGuard/save.igsv"
       }
     ]
   },
