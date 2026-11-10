@@ -99062,16 +99062,6 @@
     ]
   },
   {
-    "appid": "1213220",
-    "name": "IRON GUARD VR",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Xlab Digital/IronGuard/save.igsv"
-      }
-    ]
-  },
-  {
     "appid": "3226450",
     "name": "IRacing Arcade",
     "saves": [
@@ -102818,6 +102808,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/Saved Games/Confused Pelican Games/**/*.sav"
+      }
+    ]
+  },
+  {
+    "appid": "1213220",
+    "name": "Iron Guard VR",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Xlab Digital/IronGuard/save.igsv"
       }
     ]
   },
@@ -120846,16 +120846,6 @@
     ]
   },
   {
-    "appid": "6250",
-    "name": "Making History: The Calm & the Storm",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<PROGRAM_DATA>/Muzzy Lane Software/Making History Gold"
-      }
-    ]
-  },
-  {
     "appid": "1098220",
     "name": "Making it Home",
     "saves": [
@@ -134900,6 +134890,36 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/com.ChanceAgency.Neo.Cab"
+      }
+    ]
+  },
+  {
+    "appid": "2378230",
+    "name": "Neo Junk City",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/StarBlade Games/Neo Junk City/CloudSaves/<USER_ID>/Data/NeoJunkCity_*.jpg"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/StarBlade Games/Neo Junk City/CloudSaves/<USER_ID>/Data/NeoJunkCity_*.save"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/StarBlade Games/Neo Junk City/CloudSaves/<USER_ID>/Data/Profile_*.language"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/StarBlade Games/Neo Junk City/CloudSaves/<USER_ID>/Data/Profile_*.profile"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/StarBlade Games/Neo Junk City/CloudSaves/<USER_ID>/Data/active.profile-id"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/StarBlade Games/Neo Junk City/CloudSaves/<USER_ID>/Data/storage.state"
       }
     ]
   },
@@ -221060,6 +221080,16 @@
     ]
   },
   {
+    "appid": "756510",
+    "name": "Tube2K",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Chronik Spartan/Tube2K/*.txt"
+      }
+    ]
+  },
+  {
     "appid": "657510",
     "name": "TubeLife",
     "saves": [
@@ -229384,6 +229414,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/WarTechFighters"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "War Times: European Frontline",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Save"
       }
     ]
   },
