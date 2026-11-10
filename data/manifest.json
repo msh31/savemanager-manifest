@@ -33958,6 +33958,16 @@
     ]
   },
   {
+    "appid": "4576490",
+    "name": "Casualties: Unknown",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Orsoniks/CasualtiesUnknown"
+      }
+    ]
+  },
+  {
     "appid": "1354830",
     "name": "Cat Cafe Manager",
     "saves": [
@@ -94718,6 +94728,28 @@
     ]
   },
   {
+    "appid": "3504050",
+    "name": "Hillthorn",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.var/app/com.valvesoftware.Steam/.config/unity3d/FOOL MOON/Hillthorn/**/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/FOOL MOON/Hillthorn/**/*.json"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/FOOL MOON/Hillthorn/**/*.json"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/FOOL MOON/Hillthorn/**/*.json"
+      }
+    ]
+  },
+  {
     "appid": "554290",
     "name": "Himawari - The Sunflower -",
     "saves": [
@@ -98914,6 +98946,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/user/**/*.igorek"
+      }
+    ]
+  },
+  {
+    "appid": "4364730",
+    "name": "IGTAP: An Incremental Game That's Also a Platformer",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Pepper tango games/IGTAPfullGame"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/Pepper tango games/IGTAPfullGame"
       }
     ]
   },
@@ -138112,6 +138158,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Sunnyside Games/Nocturnal/<USER_ID>/*.sav"
+      }
+    ]
+  },
+  {
+    "appid": "2847780",
+    "name": "Nocturnal 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Sunnyside Games/Nocturnal 2/Steam/<USER_ID>"
       }
     ]
   },
@@ -197412,6 +197468,16 @@
     ]
   },
   {
+    "appid": "4423270",
+    "name": "Takeover 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/pelikan 13/Takeover2"
+      }
+    ]
+  },
+  {
     "appid": "4764420",
     "name": "Tale Sweeper",
     "saves": [
@@ -225920,6 +225986,28 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/DrawDistance/VtM Coteries of New York/Saves"
+      }
+    ]
+  },
+  {
+    "appid": "4191110",
+    "name": "Vampire: The Masquerade - Oaths & Ashes",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Revive The Spark/Vampire the Masquerade Oaths _ Ashes/**/metadata.json"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Revive The Spark/Vampire the Masquerade Oaths _ Ashes/**/save.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Revive The Spark/Vampire the Masquerade Oaths _ Ashes/**/metadata.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Revive The Spark/Vampire the Masquerade Oaths _ Ashes/**/save.json"
       }
     ]
   },
