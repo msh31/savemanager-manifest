@@ -27302,6 +27302,16 @@
     ]
   },
   {
+    "appid": "2268510",
+    "name": "BoosterWare",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Save/<USER_ID>"
+      }
+    ]
+  },
+  {
     "appid": "1160480",
     "name": "Boot : Game Dev Sim",
     "saves": [
@@ -99322,6 +99332,24 @@
     ]
   },
   {
+    "appid": "3014860",
+    "name": "Icy Tower (2026)",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/lists/*.lst"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/icytower/lists/*.lst"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/icytower/lists/*.lst"
+      }
+    ]
+  },
+  {
     "appid": "658990",
     "name": "Icycle: On Thin Ice",
     "saves": [
@@ -152937,7 +152965,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/Questing Goose Studio/Probably Stolen"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Questing Goose Studio/Probably Stolen"
       }
     ]
   },
