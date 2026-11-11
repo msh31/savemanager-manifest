@@ -2024,6 +2024,24 @@
     ]
   },
   {
+    "appid": "4882240",
+    "name": "A Dark Cave",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/A Dark Cave Demo/adc-steam-demo-save.dat"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/A Dark Cave/adc-steam-demo-save.dat"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/A Dark Cave/adc-steam-save.dat"
+      }
+    ]
+  },
+  {
     "appid": "468530",
     "name": "A Date in the Park",
     "saves": [
@@ -77328,6 +77346,28 @@
     ]
   },
   {
+    "appid": "4530370",
+    "name": "Football Manager 27",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Sports Interactive/Football Manager 27/cloud/**/*.fmf"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Sports Interactive/Football Manager 27/cloud/games/*.fm"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Sports Interactive/Football Manager 27/cloud/**/*.fmf"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Sports Interactive/Football Manager 27/cloud/games/*.fm"
+      }
+    ]
+  },
+  {
     "appid": "392790",
     "name": "Football Manager Touch 2016",
     "saves": [
@@ -81022,6 +81062,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/GORSD_Save"
+      }
+    ]
+  },
+  {
+    "appid": "2440760",
+    "name": "GRAVHOUNDS",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/WFO/Saved/SaveGames/**/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/WFO/Saved/SaveGames/*.sav"
       }
     ]
   },
@@ -196396,6 +196450,16 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/unity.Polyblock Studio AS.Tanknarok.<USER_ID>/playerdata.sav"
+      }
+    ]
+  },
+  {
+    "appid": "3218570",
+    "name": "TANUKI: Pon's Summer",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Denkiworks/TANUKI_ Pon's Summer/SaveData"
       }
     ]
   },
