@@ -22088,6 +22088,16 @@
     ]
   },
   {
+    "appid": "3232610",
+    "name": "Bendy: Lone Wolf",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Joey Drew Studios/Bendy - Lone Wolf/data/**/*.game"
+      }
+    ]
+  },
+  {
     "appid": "1593230",
     "name": "Beneath",
     "saves": [
@@ -231814,16 +231824,6 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Total Mayhem Games/We Were Here Together/Data/Saves"
-      }
-    ]
-  },
-  {
-    "appid": "2315050",
-    "name": "We Were Here Tomorrow",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/SavesDir/*.data"
       }
     ]
   },
