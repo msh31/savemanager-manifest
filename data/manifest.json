@@ -19640,6 +19640,20 @@
     ]
   },
   {
+    "appid": "4082030",
+    "name": "Barbie Rewind",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Atari/Barbie Rewind/campaign/default.brf"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Atari/Barbie Rewind/classic"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Barbie Sparkling Ice Show",
     "saves": [
@@ -156107,7 +156121,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/QueensDomain/Saved/SaveGames/<USER_ID>/**/*.sav"
+        "path": "<LOCAL_APPDATA>/QueensDomain/Saved/SaveGames"
       }
     ]
   },
@@ -186342,6 +186356,24 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/Squarism/settings.cfg"
+      }
+    ]
+  },
+  {
+    "appid": "2871440",
+    "name": "Squeakross: Home Squeak Home",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Alblune/Squeakross/<USER_ID>/*.dat"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Alblune/Squeakross/<USER_ID>/*.dat"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Alblune/Squeakross/<USER_ID>/*.dat"
       }
     ]
   },
