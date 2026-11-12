@@ -182062,6 +182062,20 @@
     ]
   },
   {
+    "appid": "4304060",
+    "name": "Sonic Pico Park",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/PICO PARK Inc_/SONIC PICO PARK/Steam/<USER_ID>/*.sav"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/PICO PARK Inc_/SONIC PICO PARK/Steam/<USER_ID>/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Sonic Project Hero Rewired",
     "saves": [
@@ -214311,6 +214325,10 @@
     "saves": [
       {
         "os": "windows",
+        "path": "<USER_PROFILE>/AppData/Local/Packages/Mythwright.Thronefall_9b483820r0x2c/SystemAppData/wgs"
+      },
+      {
+        "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Grizzly Games/Thronefall/ThroneSave.sav"
       },
       {
@@ -230716,6 +230734,16 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/unity.ChilledMouse.WarhammerQuest"
+      }
+    ]
+  },
+  {
+    "appid": "3669620",
+    "name": "Warhammer Survivors",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/3669620/remote"
       }
     ]
   },
