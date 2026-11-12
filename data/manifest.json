@@ -7712,6 +7712,10 @@
     "name": "Alabaster Dawn",
     "saves": [
       {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Alabaster Dawn/Saves/Default"
+      },
+      {
         "os": "linux",
         "path": "<XDG_CONFIG_HOME>/Alabaster Dawn/Saves/Default"
       }
@@ -26580,6 +26584,24 @@
     ]
   },
   {
+    "appid": "5009390",
+    "name": "Bob Logistics",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BOBLOGISTICS/Saved/SaveGames/BOBLOGISTICS_Main.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BOBLOGISTICS/Saved/SaveGames/BOBLOGISTICS_Main_Backup.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BOBLOGISTICS/Saved/SaveGames/BOBLOGISTICS_Main_Branch.sav"
+      }
+    ]
+  },
+  {
     "appid": "1013940",
     "name": "Bob and Kuura: Lost in Snowglobe",
     "saves": [
@@ -28812,6 +28834,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/user.dat"
+      }
+    ]
+  },
+  {
+    "appid": "4901540",
+    "name": "Brick Buddies",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BunnyHopHome/BrickBuddies/Steam/<USER_ID>/*.json"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BunnyHopHome/BrickBuddies/Steam/<USER_ID>/BrickProgressIndependent/*.json"
       }
     ]
   },
@@ -42314,6 +42350,10 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/3669870/remote"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/GOG.com/Galaxy/Applications/60085018752855325/Storage/Shared/Files"
       }
     ]
   },
@@ -43406,6 +43446,60 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/Chaos Theory Games/Crab God/*.dat"
+      }
+    ]
+  },
+  {
+    "appid": "4312190",
+    "name": "Crack",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Rafoli/CRACK/world_slot*"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Rafoli/CRACK/world_slot0_timelapse"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Rafoli/CRACK/world_slot1_timelapse"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Rafoli/CRACK/world_slot2_timelapse"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Rafoli/CRACK/world_slot*"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Rafoli/CRACK/world_slot0_timelapse"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Rafoli/CRACK/world_slot1_timelapse"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Rafoli/CRACK/world_slot2_timelapse"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Rafoli/CRACK/world_slot*"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Rafoli/CRACK/world_slot0_timelapse"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Rafoli/CRACK/world_slot1_timelapse"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/Rafoli/CRACK/world_slot2_timelapse"
       }
     ]
   },
@@ -46944,6 +47038,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/SavedGames/CuteThingsDyingViolently"
+      }
+    ]
+  },
+  {
+    "appid": "3907910",
+    "name": "Cutout Village",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saved"
       }
     ]
   },
@@ -152506,6 +152610,20 @@
     ]
   },
   {
+    "appid": "4509300",
+    "name": "Prinny Party: Going Overboard!",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Nippon Ichi Software, Inc/Prinny Party Going Overboard!/<USER_ID>/.systemsave"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Nippon Ichi Software, Inc/Prinny Party Going Overboard!/<USER_ID>/save.*"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "Prism: Guard Shield",
     "saves": [
@@ -185938,6 +186056,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/SPARSE__GameDev/Spring Falls/savedata.txt"
+      }
+    ]
+  },
+  {
+    "appid": "3677850",
+    "name": "Springs, Eternal",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Fullbright/Springs, Eternal/*.es3*"
       }
     ]
   },
@@ -231858,6 +231986,60 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/savedgame"
+      }
+    ]
+  },
+  {
+    "appid": "5051080",
+    "name": "We Steal From Old People: The Game",
+    "saves": [
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/WeStealFromOldPeople.staging/save/cloud/users/<USER_ID>/**/*.data"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/WeStealFromOldPeople.staging/save/cloud/users/<USER_ID>/**/*.webp"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/WeStealFromOldPeople/save/cloud/users/<USER_ID>/**/*.data"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/WeStealFromOldPeople/save/cloud/users/<USER_ID>/**/*.webp"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/WeStealFromOldPeople.staging/save/cloud/users/<USER_ID>/**/*.data"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/WeStealFromOldPeople.staging/save/cloud/users/<USER_ID>/**/*.webp"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/WeStealFromOldPeople/save/cloud/users/<USER_ID>/**/*.data"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/WeStealFromOldPeople/save/cloud/users/<USER_ID>/**/*.webp"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/WeStealFromOldPeople.staging/save/cloud/users/<USER_ID>/**/*.data"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/WeStealFromOldPeople.staging/save/cloud/users/<USER_ID>/**/*.webp"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/WeStealFromOldPeople/save/cloud/users/<USER_ID>/**/*.data"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_DATA_HOME>/WeStealFromOldPeople/save/cloud/users/<USER_ID>/**/*.webp"
       }
     ]
   },
