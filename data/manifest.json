@@ -26674,16 +26674,6 @@
     ]
   },
   {
-    "appid": "2406770",
-    "name": "Bodycam",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/Bodycam/Saved/SaveGames/*.sav"
-      }
-    ]
-  },
-  {
     "appid": "945530",
     "name": "Bohrdom",
     "saves": [
@@ -34041,7 +34031,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Orsoniks/CasualtiesUnknown"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Orsoniks/CasualtiesUnknown/save.sv"
       }
     ]
   },
@@ -44823,11 +44813,11 @@
     "saves": [
       {
         "os": "linux",
-        "path": "<LINUX_HOME>/CrimsonMoonNG/Saved/SaveGames/*.*"
+        "path": "<LINUX_HOME>/CrimsonMoonNG/Saved/SaveGames/*.sav"
       },
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/CrimsonMoonNG/Saved/SaveGames/*.*"
+        "path": "<LOCAL_APPDATA>/CrimsonMoonNG/Saved/SaveGames/*.sav"
       }
     ]
   },
@@ -150503,6 +150493,16 @@
   },
   {
     "appid": "",
+    "name": "PokéPark 2: Wonders Beyond",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/S2LE01/nand/title/00010000/53324c45/data"
+      }
+    ]
+  },
+  {
+    "appid": "",
     "name": "PokéPark Wii: Pikachu's Adventure",
     "saves": [
       {
@@ -226065,7 +226065,15 @@
     "saves": [
       {
         "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/LyricalGamesLLC.ValorMortis_72fag5ekhk96y/SystemAppData/wgs"
+      },
+      {
+        "os": "windows",
         "path": "<LOCAL_APPDATA>/ValorMortis/Saved/SaveGames"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/ValorMortisMSG/Saved/Config/Windows"
       }
     ]
   },
