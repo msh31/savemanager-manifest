@@ -202732,6 +202732,20 @@
     ]
   },
   {
+    "appid": "",
+    "name": "The Climb",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/crytek-the-climb/crytek_climb_wip/user/profiles"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/crytek-the-climb/crytek_climb_wip/user/savegames"
+      }
+    ]
+  },
+  {
     "appid": "2378900",
     "name": "The Coffin of Andy and Leyley",
     "saves": [
