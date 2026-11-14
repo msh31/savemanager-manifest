@@ -64654,6 +64654,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Edge of Nowhere",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/.insomniac/InsomniacEngine"
+      }
+    ]
+  },
+  {
     "appid": "219910",
     "name": "Edna & Harvey: Harvey's New Eyes",
     "saves": [
@@ -119350,6 +119360,24 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/MLS/Saved/SaveGames"
+      }
+    ]
+  },
+  {
+    "appid": "3285880",
+    "name": "MONOMOON",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/MONOMOON/SavedGames/save*.cfg"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/MONOMOON/SavedGames/save*.cfg"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/MONOMOON/SavedGames/save*.cfg"
       }
     ]
   },
