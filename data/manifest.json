@@ -193029,7 +193029,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Vector3 Studio/Sunkenland"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Vector3 Studio/Sunkenland/SteamCloudData/<USER_ID>"
       }
     ]
   },
@@ -212365,7 +212365,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "The 'pol' directory where you installed the game."
+        "path": "<GAME_INSTALL_DIR>/pol"
       }
     ]
   },
