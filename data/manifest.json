@@ -71616,6 +71616,16 @@
     ]
   },
   {
+    "appid": "5054700",
+    "name": "Fakin' It XL",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Jackbox Games/Fakin It XL"
+      }
+    ]
+  },
+  {
     "appid": "429520",
     "name": "Falcon 3.0",
     "saves": [
@@ -97468,6 +97478,10 @@
       {
         "os": "windows",
         "path": "<LOCAL_APPDATA>/HumanitZ/Saved/Minimap/*.exr"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/HumanitZ/Saved/SaveGames/**/*.exr"
       },
       {
         "os": "windows",
@@ -130216,6 +130230,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/My Games/The Swarm/Saves"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Morpheus",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Partidas grabadas"
       }
     ]
   },
@@ -222974,6 +222998,22 @@
       {
         "os": "dos",
         "path": "<GAME_INSTALL_DIR>/SAVE*"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/UNDEROM1/SAVE1"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/UNDEROM1/SAVE2"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/UNDEROM1/SAVE3"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/UNDEROM1/SAVE4"
       },
       {
         "os": "mac",
