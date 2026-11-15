@@ -119693,7 +119693,7 @@
       },
       {
         "os": "windows",
-        "path": "<STEAM_LIBRARY_DIR>/userdata/<STEAM_LIBRARY_DIR>/40700/remote"
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/40700/remote"
       },
       {
         "os": "windows",
