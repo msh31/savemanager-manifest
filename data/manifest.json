@@ -22428,6 +22428,16 @@
     ]
   },
   {
+    "appid": "2599690",
+    "name": "Better Than Dead",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BTD/Saved/SaveGames/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "1921980",
     "name": "Between Horizons",
     "saves": [
