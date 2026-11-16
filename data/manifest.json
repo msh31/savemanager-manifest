@@ -62981,7 +62981,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/KOEI/Dynasty Warriors 4 Hyper/Savedata/*.dat"
+        "path": "<USER_PROFILE_DOCUMENTS>/KOEI/Dynasty Warriors 4 Hyper/Savedata/save.dat"
       }
     ]
   },
@@ -177565,6 +177565,16 @@
   },
   {
     "appid": "",
+    "name": "SimTractor",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/SAV"
+      }
+    ]
+  },
+  {
+    "appid": "",
     "name": "SimTunes",
     "saves": [
       {
@@ -234524,7 +234534,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "1996640",
     "name": "Wing Commander",
     "saves": [
       {
@@ -234534,7 +234544,7 @@
     ]
   },
   {
-    "appid": "",
+    "appid": "2008730",
     "name": "Wing Commander II: Vengeance of the Kilrathi",
     "saves": [
       {
