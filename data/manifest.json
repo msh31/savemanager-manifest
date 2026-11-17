@@ -54855,7 +54855,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/_storage/**/*.sav"
+        "path": "<GAME_INSTALL_DIR>/_storage/DevilConnection_tyrano_data.sav"
       }
     ]
   },
@@ -196700,16 +196700,6 @@
     ]
   },
   {
-    "appid": "3218570",
-    "name": "TANUKI: Pon's Summer",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Denkiworks/TANUKI_ Pon's Summer/SaveData"
-      }
-    ]
-  },
-  {
     "appid": "2082260",
     "name": "TAXINAUT",
     "saves": [
@@ -198688,6 +198678,16 @@
       {
         "os": "windows",
         "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/633460/remote"
+      }
+    ]
+  },
+  {
+    "appid": "3218570",
+    "name": "Tanuki: Pon's Summer",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Denkiworks/TANUKI_ Pon's Summer/SaveData"
       }
     ]
   },
