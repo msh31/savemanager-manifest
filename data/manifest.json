@@ -47762,6 +47762,24 @@
     ]
   },
   {
+    "appid": "5135440",
+    "name": "DPS: Desktop Pension Squad",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/DetailGames/DPS/saves/<USER_ID>/**/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/DetailGames/DPS/saves/<USER_ID>/**/*.sav.bak"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/DetailGames/DPS/saves/<USER_ID>/archive/**/*.json"
+      }
+    ]
+  },
+  {
     "appid": "",
     "name": "DREAMM",
     "saves": [
@@ -79026,6 +79044,16 @@
     ]
   },
   {
+    "appid": "5261050",
+    "name": "Fox Spirit Sweethearts: Complete Edition",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/FoxSpiritSweethearts/saves/*.json"
+      }
+    ]
+  },
+  {
     "appid": "603400",
     "name": "Fox n Forests",
     "saves": [
@@ -106310,6 +106338,24 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/Just Games Co/Just Spin/*.dat"
+      }
+    ]
+  },
+  {
+    "appid": "5037200",
+    "name": "Just Volleyball",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/volleyball/data/character.json"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/volleyball/data/character_slots.json"
+      },
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/volleyball/data/profiles.json"
       }
     ]
   },
@@ -135369,7 +135415,7 @@
       },
       {
         "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/unity.Fraoula.Neon Drive"
+        "path": "<OSX_HOME>/Library/Application Support/Fraoula/Neon Drive/NeonDrive.sav"
       },
       {
         "os": "linux",
@@ -139678,6 +139724,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Save/<USER_ID>"
+      }
+    ]
+  },
+  {
+    "appid": "4444800",
+    "name": "Obey Me! Sinner's Choice: Lucifer",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/savedata"
       }
     ]
   },
