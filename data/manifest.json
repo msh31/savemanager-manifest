@@ -26850,16 +26850,16 @@
     "name": "Bomber Crew",
     "saves": [
       {
-        "os": "linux",
-        "path": "<LINUX_HOME>/.config/unity3d/Runner Duck/Bomber Crew"
-      },
-      {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Runner Duck/Bomber Crew"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Runner Duck/Bomber Crew/*.dat"
       },
       {
         "os": "mac",
-        "path": "<OSX_HOME>/Library/Application Support/Runner Duck/Bomber Crew"
+        "path": "<OSX_HOME>/Library/Application Support/Runner Duck/Bomber Crew/*.dat"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/Runner Duck/Bomber Crew/*.dat"
       }
     ]
   },
@@ -54181,7 +54181,7 @@
     "saves": [
       {
         "os": "linux",
-        "path": "<XDG_CONFIG_HOME>/unity3d/Konfa Games/Despotism3k"
+        "path": "<XDG_CONFIG_HOME>/unity3d/Konfa Games/Despotism3k/*.dat"
       }
     ]
   },
@@ -173154,16 +173154,16 @@
     "name": "Serial Cleaner",
     "saves": [
       {
-        "os": "linux",
-        "path": "<LINUX_HOME>/.config/unity3d/iFun4all/Serial Cleaner/*.sav"
-      },
-      {
         "os": "windows",
         "path": "<USER_PROFILE>/AppData/LocalLow/iFun4all/Serial Cleaner/*.sav"
       },
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/ifun4all/Serial Cleaner/*.sav"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/iFun4all/Serial Cleaner/*.sav"
       }
     ]
   },
@@ -240548,6 +240548,10 @@
       {
         "os": "mac",
         "path": "<OSX_HOME>/Library/Application Support/unity.Milkstone Studios.Ziggurat/savegame.xml"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/Milkstone Studios/Ziggurat"
       }
     ]
   },
