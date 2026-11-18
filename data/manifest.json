@@ -180848,6 +180848,16 @@
     ]
   },
   {
+    "appid": "4447890",
+    "name": "Soccer Kid Collection",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/QUByte Interactive/SoccerKidCollection/<USER_ID>/*.json"
+      }
+    ]
+  },
+  {
     "appid": "1078730",
     "name": "Soccer Manager 2020",
     "saves": [
@@ -231128,6 +231138,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Warlords"
+      }
+    ]
+  },
+  {
+    "appid": "1296830",
+    "name": "Warm Snow",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BadMudStudio/WarmSnow/Save"
       }
     ]
   },
