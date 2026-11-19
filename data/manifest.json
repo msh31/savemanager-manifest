@@ -151136,6 +151136,16 @@
     ]
   },
   {
+    "appid": "2873750",
+    "name": "Pool of Madness",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BitGolem/PoolOfMadness/PoolOfMadness_SaveFile*.es3"
+      }
+    ]
+  },
+  {
     "appid": "1882370",
     "name": "Pool of Radiance",
     "saves": [
