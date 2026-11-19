@@ -149026,12 +149026,8 @@
     "name": "Pixel Piracy",
     "saves": [
       {
-        "os": "mac",
-        "path": "<OSX_HOME>/.config/PixelPiracy"
-      },
-      {
         "os": "windows",
-        "path": "<APPDATA>/PixelPiracy"
+        "path": "<GAME_INSTALL_DIR>/SaveFile/PixelPiracy"
       }
     ]
   },
