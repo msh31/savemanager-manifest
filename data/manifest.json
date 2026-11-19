@@ -94433,7 +94433,11 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE>/AppData/LocalLow/Adriaan de Jongh/Hidden Folks"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Adriaan de Jongh/Hidden Folks/*.data"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/Adriaan de Jongh/Hidden Folks/*.data"
       }
     ]
   },
@@ -135419,7 +135423,7 @@
       },
       {
         "os": "linux",
-        "path": "<XDG_DATA_HOME>/unity3d/Fraoula/Neon Drive/prefs"
+        "path": "<XDG_CONFIG_HOME>/unity3d/Fraoula/Neon Drive/NeonDrive.sav"
       }
     ]
   },
