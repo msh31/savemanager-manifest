@@ -18058,16 +18058,6 @@
     ]
   },
   {
-    "appid": "3191050",
-    "name": "BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT",
-    "saves": [
-      {
-        "os": "windows",
-        "path": "<USER_PROFILE>/Saved Games/Aviao"
-      }
-    ]
-  },
-  {
     "appid": "736720",
     "name": "Baam Squad",
     "saves": [
@@ -28504,6 +28494,16 @@
       {
         "os": "windows",
         "path": "<APPDATA>/What Day Is It Games/Brazilian Adventure/options.xml"
+      }
+    ]
+  },
+  {
+    "appid": "3191050",
+    "name": "Brazilian Drug Dealer 3",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/Aviao"
       }
     ]
   },
@@ -132604,6 +132604,16 @@
     ]
   },
   {
+    "appid": "2738740",
+    "name": "My Sweet Floating in the Void",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Oculus Digital/My Sweet Floating In The Void/mysweetsave.game"
+      }
+    ]
+  },
+  {
     "appid": "3099780",
     "name": "My Sweet Waifu Konko",
     "saves": [
@@ -148502,6 +148512,20 @@
     ]
   },
   {
+    "appid": "4918810",
+    "name": "Pinata Smash: Incremental Circus",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/punkfuncgames/Piñata Smash_ Incremental Circus/save.dat"
+      },
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/4918810/remote/save.dat"
+      }
+    ]
+  },
+  {
     "appid": "678310",
     "name": "Pinball Deluxe: Reloaded",
     "saves": [
@@ -157304,6 +157328,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/Codemasters/GRID/savegame"
+      }
+    ]
+  },
+  {
+    "appid": "253030",
+    "name": "Race the Sun",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/253030/remote"
       }
     ]
   },
@@ -228902,6 +228936,16 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/SimBin/Volvo - The Game/UserData/<USER_ID>"
+      }
+    ]
+  },
+  {
+    "appid": "4523120",
+    "name": "Volvy’s Adventure: Reslimed",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Volvys_Adventure_6/default/*.onion"
       }
     ]
   },
