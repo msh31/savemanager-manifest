@@ -90764,6 +90764,28 @@
     ]
   },
   {
+    "appid": "2693710",
+    "name": "Hardcoded",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/godot/app_userdata/HARDCODED/savefile0.json"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/godot/app_userdata/HARDCODED/savefile1.json"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/godot/app_userdata/HARDCODED/savefile2.json"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.local/share/godot/app_userdata/HARDCODED/savefile3.json"
+      }
+    ]
+  },
+  {
     "appid": "746580",
     "name": "Hardcore Mecha",
     "saves": [
@@ -181494,6 +181516,16 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Save/profile.dat"
+      }
+    ]
+  },
+  {
+    "appid": "4834810",
+    "name": "Soldiers at War",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Save_g"
       }
     ]
   },
