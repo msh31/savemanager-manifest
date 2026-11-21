@@ -213748,6 +213748,10 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/save/*.tsg"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/Saved Games/Theocracy/save/*.tsg"
       }
     ]
   },
