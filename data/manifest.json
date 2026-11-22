@@ -42512,6 +42512,16 @@
     ]
   },
   {
+    "appid": "1742440",
+    "name": "Cop Bastard",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/targim_/COP BASTARD game/Saves/Steam/<USER_ID>"
+      }
+    ]
+  },
+  {
     "appid": "2210520",
     "name": "Copa City",
     "saves": [
@@ -56044,6 +56054,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Savegame"
+      }
+    ]
+  },
+  {
+    "appid": "5089020",
+    "name": "Disco Ball Simulator 2000",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Timi Ocean/Disco Ball Simulator 2000/save.json"
+      },
+      {
+        "os": "windows",
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/5089020/remote/save.json"
       }
     ]
   },
@@ -170162,6 +170186,16 @@
     ]
   },
   {
+    "appid": "2764460",
+    "name": "Sandustry",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/sandustry/saves"
+      }
+    ]
+  },
+  {
     "appid": "1639080",
     "name": "Sandwalkers",
     "saves": [
@@ -173341,7 +173375,7 @@
   },
   {
     "appid": "564310",
-    "name": "Serious Sam Fusion 2017",
+    "name": "Serious Sam Fusion",
     "saves": [
       {
         "os": "windows",
@@ -206877,7 +206911,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<LOCAL_APPDATA>/The_Holy_Fool/Saved"
+        "path": "<LOCAL_APPDATA>/The_Holy_Fool/Saved/SaveGames"
       }
     ]
   },
