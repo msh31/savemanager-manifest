@@ -30590,6 +30590,16 @@
     ]
   },
   {
+    "appid": "2561460",
+    "name": "Burning Sword Death Sun",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/BurningSwordDeathSun/Saved/SaveGames"
+      }
+    ]
+  },
+  {
     "appid": "818430",
     "name": "BurningBridges VR",
     "saves": [
@@ -102960,6 +102970,16 @@
     ]
   },
   {
+    "appid": "692660",
+    "name": "Invictus: In the Shadow of Olympus",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/savegames"
+      }
+    ]
+  },
+  {
     "appid": "2060870",
     "name": "Invincible Presents: Atom Eve",
     "saves": [
@@ -116148,6 +116168,14 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Saves/<USER_ID>/*.sav"
+      },
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/.config/unity3d/Robust Games/Loco Motive/Saves/<USER_ID>/*.sav"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/unity.Robust Games.Loco Motive/Saves/<USER_ID>/*.sav"
       }
     ]
   },
@@ -140951,7 +140979,7 @@
   },
   {
     "appid": "208520",
-    "name": "Omerta - City of Gangsters",
+    "name": "Omerta: City of Gangsters",
     "saves": [
       {
         "os": "windows",
@@ -185174,6 +185202,20 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Spellbroken Dream Festival",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/data"
+      },
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/replay"
+      }
+    ]
+  },
+  {
     "appid": "895620",
     "name": "Spellcaster University",
     "saves": [
@@ -215222,6 +215264,44 @@
     ]
   },
   {
+    "appid": "1758910",
+    "name": "Time Commando",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/2 POINT 21/Time Commando/Saves/*.tcs"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/2 POINT 21/Time Commando/Saves/progress.cfg"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/2 POINT 21/Time Commando/Saves/tcsaves.idx"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/2 POINT 21/Time Commando/Saves/timeco.def"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/2 POINT 21/Time Commando/Saves/*.tcs"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/2 POINT 21/Time Commando/Saves/progress.cfg"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/2 POINT 21/Time Commando/Saves/tcsaves.idx"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/2 POINT 21/Time Commando/Saves/timeco.def"
+      }
+    ]
+  },
+  {
     "appid": "2000120",
     "name": "Time Flies",
     "saves": [
@@ -233142,6 +233222,16 @@
       {
         "os": "windows",
         "path": "<APPDATA>/LocalLow/echomune/Alter Historia - What if George Washington was a Girl_"
+      }
+    ]
+  },
+  {
+    "appid": "4832970",
+    "name": "What the Buck?!",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Godot/app_userdata/What the Buck/savegame_full.save"
       }
     ]
   },
