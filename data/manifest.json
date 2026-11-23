@@ -23630,6 +23630,26 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Bird Hunter: Upland Edition",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Hunter.cfg"
+      }
+    ]
+  },
+  {
+    "appid": "",
+    "name": "Bird Hunter: Wild Wings Edition",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Home/Hunter.cfg"
+      }
+    ]
+  },
+  {
     "appid": "470470",
     "name": "Birdsketball",
     "saves": [
