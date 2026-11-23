@@ -173724,6 +173724,16 @@
     ]
   },
   {
+    "appid": "1909810",
+    "name": "Seventh Lair",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/SavedGames/SeventhLair/*.sav"
+      }
+    ]
+  },
+  {
     "appid": "1227690",
     "name": "Severed Steel",
     "saves": [
