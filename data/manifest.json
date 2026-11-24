@@ -72983,7 +72983,11 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/My Games/Farthest Frontier/Save"
+        "path": "<USER_PROFILE>/Saved Games/Farthest Frontier/Save"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Farthest Frontier/Save"
       }
     ]
   },
