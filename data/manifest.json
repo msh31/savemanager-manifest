@@ -88796,7 +88796,7 @@
     ]
   },
   {
-    "appid": "1261970",
+    "appid": "4123540",
     "name": "Gunbird",
     "saves": [
       {
@@ -169976,7 +169976,7 @@
     ]
   },
   {
-    "appid": "1279390",
+    "appid": "4123530",
     "name": "Samurai Aces III: Sengoku Cannon",
     "saves": [
       {
@@ -224846,6 +224846,20 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE_DOCUMENTS>/SavedGames/UnholyHeights/Unholy Heights/Player1"
+      }
+    ]
+  },
+  {
+    "appid": "4380910",
+    "name": "Unicorn Academy: Island of Magic",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Corn/Saved/SaveGames/*.sav"
+      },
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Corn/Saved/SaveGames/*.sav"
       }
     ]
   },
