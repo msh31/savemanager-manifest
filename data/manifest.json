@@ -57995,7 +57995,7 @@
       },
       {
         "os": "windows",
-        "path": "<STEAM_LIBRARY_DIR>/userdata/<STEAM_LIBRARY_DIR>/2280"
+        "path": "<STEAM_LIBRARY_DIR>/userdata/<USER_ID>/2280"
       }
     ]
   },
@@ -143888,12 +143888,16 @@
     "name": "Over the Hill",
     "saves": [
       {
-        "os": "linux",
-        "path": "<LINUX_HOME>/My Games/over the hill/Saves"
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Funselektor/over the hill"
       },
       {
         "os": "windows",
-        "path": "<USER_PROFILE_DOCUMENTS>/My Games/over the hill/Saves"
+        "path": "<USER_PROFILE>/AppData/LocalLow/Funselektor/over the hill/Steam"
+      },
+      {
+        "os": "linux",
+        "path": "<XDG_CONFIG_HOME>/unity3d/Funselektor/over the hill"
       }
     ]
   },
