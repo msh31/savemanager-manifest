@@ -73276,6 +73276,16 @@
     ]
   },
   {
+    "appid": "",
+    "name": "Fate of the Dragon",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/Save"
+      }
+    ]
+  },
+  {
     "appid": "1754790",
     "name": "Fate of the Pharaoh",
     "saves": [
@@ -154333,6 +154343,10 @@
     "appid": "3618850",
     "name": "Pronoun Palace",
     "saves": [
+      {
+        "os": "windows",
+        "path": "<APPDATA>/Pronoun Palace/saves"
+      },
       {
         "os": "linux",
         "path": "<XDG_DATA_HOME>/Pronoun Palace/saves"
