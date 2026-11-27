@@ -48116,6 +48116,24 @@
     ]
   },
   {
+    "appid": "3941780",
+    "name": "Daisenryaku SSB 2",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/systemsoftbeta/大戦略SSB2/.systemsave"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/systemsoftbeta/大戦略SSB2/roster.*"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/systemsoftbeta/大戦略SSB2/save.*"
+      }
+    ]
+  },
+  {
     "appid": "767390",
     "name": "Dakar 18",
     "saves": [
@@ -190990,6 +191008,20 @@
       {
         "os": "windows",
         "path": "<USER_PROFILE>/Saved Games/Stranded - Alien Dawn/<USER_ID>"
+      }
+    ]
+  },
+  {
+    "appid": "2885870",
+    "name": "Strange Antiquities",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/BadVikingLtd/Strange Antiquities/*.gd"
+      },
+      {
+        "os": "mac",
+        "path": "<OSX_HOME>/Library/Application Support/com.BadVikingLtd.StrangeAntiquities/*.gd"
       }
     ]
   },
