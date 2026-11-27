@@ -1768,6 +1768,16 @@
     ]
   },
   {
+    "appid": "2784470",
+    "name": "9 Kings",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<LOCAL_APPDATA>/Packages/HoodedHorse.9Kings_znaey1dw2bdpr/SystemAppData/wgs"
+      }
+    ]
+  },
+  {
     "appid": "739080",
     "name": "9 Monkeys of Shaolin",
     "saves": [
@@ -9552,6 +9562,16 @@
     ]
   },
   {
+    "appid": "3224600",
+    "name": "Am I Nima",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/HO! Games/Am I Nima"
+      }
+    ]
+  },
+  {
     "appid": "1238680",
     "name": "Amairo Chocolate",
     "saves": [
@@ -12370,6 +12390,20 @@
       {
         "os": "windows",
         "path": "<GAME_INSTALL_DIR>/Documents/auto*"
+      }
+    ]
+  },
+  {
+    "appid": "3498700",
+    "name": "Appulse",
+    "saves": [
+      {
+        "os": "linux",
+        "path": "<LINUX_HOME>/Documents/Appulse/*.save"
+      },
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE_DOCUMENTS>/Appulse/*.save"
       }
     ]
   },
@@ -122482,6 +122516,16 @@
     ]
   },
   {
+    "appid": "4355110",
+    "name": "Marupoyo: The Round Chick's Adventure",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<USER_PROFILE>/AppData/LocalLow/Casual Brothers/Marupoyo/<USER_ID>/SaveData"
+      }
+    ]
+  },
+  {
     "appid": "2753970",
     "name": "Marvel Cosmic Invasion",
     "saves": [
@@ -136073,7 +136117,7 @@
     "saves": [
       {
         "os": "windows",
-        "path": "<GAME_INSTALL_DIR>/SavesDir/*.sav"
+        "path": "<LOCAL_APPDATA>/Nevaeh/*.sav"
       }
     ]
   },
