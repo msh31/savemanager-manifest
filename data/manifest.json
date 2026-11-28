@@ -172021,6 +172021,16 @@
   },
   {
     "appid": "",
+    "name": "Search and Rescue 3",
+    "saves": [
+      {
+        "os": "windows",
+        "path": "<GAME_INSTALL_DIR>/saves"
+      }
+    ]
+  },
+  {
+    "appid": "",
     "name": "Search and Rescue: Coastal Heroes",
     "saves": [
       {
